@@ -4,7 +4,7 @@
 
 Durante o desenvolvimento privado, o projeto usa o formato `0.0.N`, em que `N` representa o número cumulativo da iteração de produto aprovada.
 
-A versão consolidada atual é `v0.0.82`.
+A versão consolidada atual é `v0.0.83`.
 
 Perguntas, análises sem alteração no produto e tarefas administrativas não incrementam a versão. Um novo pacote de mudanças implementado e validado incrementa `N` uma única vez, mesmo quando reúne vários ajustes relacionados.
 

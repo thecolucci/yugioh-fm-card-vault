@@ -2,6 +2,15 @@
 
 Todas as alterações relevantes do Yu-Gi-Oh! FM Card Vault serão registradas neste arquivo.
 
+## [0.0.83] — 2026-08-04
+
+### Apresentação
+
+- Previews do README redesenhados em largura total.
+- Microvídeos convertidos em animações WebP incorporadas e executadas em loop diretamente no GitHub.
+- Links preservados para os arquivos MP4 originais em resolução completa.
+- Screenshots estáticos disponibilizados em uma seção expansível de alta resolução.
+
 ## [0.0.82] — 2026-08-04
 
 Primeira consolidação privada do projeto para controle de versão.

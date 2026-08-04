@@ -15,7 +15,7 @@
   <img alt="React 19" src="https://img.shields.io/badge/React-19-61dafb">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.9-3178c6">
   <img alt="Cartas catalogadas" src="https://img.shields.io/badge/cartas-722-8b1e2d">
-  <img alt="Versão 0.0.82" src="https://img.shields.io/badge/versão-0.0.82-c79b32">
+  <img alt="Versão 0.0.83" src="https://img.shields.io/badge/versão-0.0.83-c79b32">
 </p>
 
 ## Visão geral
@@ -24,24 +24,39 @@ O Yu-Gi-Oh! FM Card Vault foi criado para localizar cartas rapidamente pela apar
 
 ## Preview
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="screenshots/card-book-navigation.mp4">
-        <img src="screenshots/card-book-home.png" alt="Card Book, filtros e navegação principal">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="screenshots/card-details-navigation.mp4">
-        <img src="screenshots/card-details-overlay.png" alt="Overlay de detalhes, fusões e mídia in-game">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="screenshots/card-book-navigation.mp4">▶ Ver navegação pelo Card Book</a></td>
-    <td align="center"><a href="screenshots/card-details-navigation.mp4">▶ Ver navegação pelos detalhes</a></td>
-  </tr>
-</table>
+### Navegação pelo Card Book
+
+<p align="center">
+  <a href="screenshots/card-book-navigation.mp4">
+    <img src="screenshots/card-book-demo.webp" alt="Demonstração animada da navegação, busca e filtros do Card Book" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  Catálogo visual, filtros avançados, busca e navegação rápida pelas 722 cartas.<br>
+  <a href="screenshots/card-book-navigation.mp4"><strong>▶ Abrir demonstração original em MP4</strong></a>
+</p>
+
+### Detalhes, fusões e navegação contextual
+
+<p align="center">
+  <a href="screenshots/card-details-navigation.mp4">
+    <img src="screenshots/card-details-demo.webp" alt="Demonstração animada do overlay de detalhes, fusões e navegação entre cartas" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  Overlay completo com mídia in-game, Guardian Stars, Recipes, Fusions, Equips e acesso às cartas relacionadas.<br>
+  <a href="screenshots/card-details-navigation.mp4"><strong>▶ Abrir demonstração original em MP4</strong></a>
+</p>
+
+<details>
+  <summary><strong>Capturas estáticas em alta resolução</strong></summary>
+  <br>
+  <img src="screenshots/card-book-home.png" alt="Tela principal do Card Book" width="100%">
+  <br><br>
+  <img src="screenshots/card-details-overlay.png" alt="Overlay completo de detalhes da carta" width="100%">
+</details>
 
 ## Funcionalidades
 

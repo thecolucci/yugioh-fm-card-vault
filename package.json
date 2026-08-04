@@ -1,6 +1,6 @@
 {
   "name": "yugioh-fm-card-vault",
-  "version": "0.0.82",
+  "version": "0.0.83",
   "description": "Card Vault interativo de Yu-Gi-Oh! Forbidden Memories para consulta de cartas, fusões, custos e dados de duelo.",
   "private": true,
   "license": "UNLICENSED",

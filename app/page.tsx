@@ -584,8 +584,8 @@ export default function Home() {
             width="260"
             height="118"
           />
-          <span className="project-version" aria-label="Versão 0.0.82">
-            v0.0.82
+          <span className="project-version" aria-label="Versão 0.0.83">
+            v0.0.83
           </span>
         </div>
 
