@@ -27,28 +27,26 @@ O Yu-Gi-Oh! FM Card Vault foi criado para localizar cartas rapidamente pela apar
 ### Navegação pelo Card Book
 
 <p align="center">
-  <a href="screenshots/card-book-navigation.mp4">
-    <img src="screenshots/card-book-demo.webp" alt="Demonstração animada da navegação, busca e filtros do Card Book" width="100%">
-  </a>
+  <img src="screenshots/card-book-demo.webp" alt="Demonstração animada da navegação, busca e filtros do Card Book" width="100%">
 </p>
 
 <p align="center">
-  Catálogo visual, filtros avançados, busca e navegação rápida pelas 722 cartas.<br>
-  <a href="screenshots/card-book-navigation.mp4"><strong>▶ Abrir demonstração original em MP4</strong></a>
+  Catálogo visual, filtros avançados, busca e navegação rápida pelas 722 cartas.
 </p>
+
+<hr>
 
 ### Detalhes, fusões e navegação contextual
 
 <p align="center">
-  <a href="screenshots/card-details-navigation.mp4">
-    <img src="screenshots/card-details-demo.webp" alt="Demonstração animada do overlay de detalhes, fusões e navegação entre cartas" width="100%">
-  </a>
+  <img src="screenshots/card-details-demo.webp" alt="Demonstração animada do overlay de detalhes, fusões e navegação entre cartas" width="100%">
 </p>
 
 <p align="center">
-  Overlay completo com mídia in-game, Guardian Stars, Recipes, Fusions, Equips e acesso às cartas relacionadas.<br>
-  <a href="screenshots/card-details-navigation.mp4"><strong>▶ Abrir demonstração original em MP4</strong></a>
+  Overlay completo com mídia in-game, Guardian Stars, Recipes, Fusions, Equips e acesso às cartas relacionadas.
 </p>
+
+<hr>
 
 <details>
   <summary><strong>Capturas estáticas em alta resolução</strong></summary>
