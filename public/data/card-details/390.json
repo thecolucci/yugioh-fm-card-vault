@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/launcher-spider",
+    "capturedAt": "2026-07-22T17:07:55.834Z",
+    "contentHash": "7c998fe44caa0c55cf8f670567f3da24d32c304a192c9889906698ee7217d234",
+    "upstreamName": "Launcher Spider",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "390",
+  "cardType": "Monster",
+  "description": "A spider machine that launches explosive rockets against its enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MARS",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/390.webm",
+    "localPath": "/game-assets/models/390.webm",
+    "width": 426,
+    "height": 314,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 22,
+    "equips": 7
+  },
+  "recipes": [
+    {
+      "left": "367",
+      "right": "658"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "013",
+      "result": "467"
+    },
+    {
+      "partner": "062",
+      "result": "467"
+    },
+    {
+      "partner": "063",
+      "result": "467"
+    },
+    {
+      "partner": "117",
+      "result": "467"
+    },
+    {
+      "partner": "125",
+      "result": "467"
+    },
+    {
+      "partner": "186",
+      "result": "467"
+    },
+    {
+      "partner": "207",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "300",
+      "result": "467"
+    },
+    {
+      "partner": "464",
+      "result": "467"
+    },
+    {
+      "partner": "465",
+      "result": "467"
+    },
+    {
+      "partner": "466",
+      "result": "467"
+    },
+    {
+      "partner": "468",
+      "result": "467"
+    },
+    {
+      "partner": "491",
+      "result": "467"
+    },
+    {
+      "partner": "521",
+      "result": "467"
+    },
+    {
+      "partner": "522",
+      "result": "467"
+    },
+    {
+      "partner": "538",
+      "result": "467"
+    },
+    {
+      "partner": "552",
+      "result": "467"
+    },
+    {
+      "partner": "577",
+      "result": "467"
+    },
+    {
+      "partner": "581",
+      "result": "467"
+    },
+    {
+      "partner": "595",
+      "result": "467"
+    },
+    {
+      "partner": "636",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "390",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "390",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "390",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "390",
+      "boost": 500
+    },
+    {
+      "partner": "654",
+      "result": "390",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "390",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "390",
+      "boost": 500
+    }
+  ]
+}

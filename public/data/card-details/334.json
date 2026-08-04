@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/umi",
+    "capturedAt": "2026-07-22T17:07:47.299Z",
+    "contentHash": "09f927cf90458038ec962733d6fb1eb7a61a680b37d07caec2e6f314692cb89d",
+    "upstreamName": "Umi",
+    "upstreamCardType": "FIELD"
+  },
+  "cardId": "334",
+  "cardType": "Field",
+  "description": "Changes the field in favor of Aqua and Thunder monsters, but unfavorable to Machine and Pyro monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 8,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "015",
+      "result": "301"
+    },
+    {
+      "partner": "316",
+      "result": "660"
+    },
+    {
+      "partner": "319",
+      "result": "664"
+    },
+    {
+      "partner": "325",
+      "result": "700"
+    },
+    {
+      "partner": "328",
+      "result": "692"
+    },
+    {
+      "partner": "336",
+      "result": "664"
+    },
+    {
+      "partner": "347",
+      "result": "664"
+    },
+    {
+      "partner": "663",
+      "result": "328"
+    }
+  ],
+  "equips": []
+}

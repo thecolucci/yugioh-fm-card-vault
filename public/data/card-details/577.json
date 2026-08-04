@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/crow-goblin",
+    "capturedAt": "2026-07-22T17:08:17.737Z",
+    "contentHash": "4777e2865f1e32187180effd16883b14ee742e23753b0bb0470d1eeb4fdfcb46",
+    "upstreamName": "Crow Goblin",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "577",
+  "cardType": "Monster",
+  "description": "A very wise, long-nosed goblin with supernatural powers.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SATURN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/577.webm",
+    "localPath": "/game-assets/models/577.webm",
+    "width": 730,
+    "height": 423,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 36,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "089",
+      "result": "520"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "177",
+      "result": "520"
+    },
+    {
+      "partner": "193",
+      "result": "520"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "449",
+      "result": "520"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "503",
+      "result": "520"
+    },
+    {
+      "partner": "518",
+      "result": "520"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "593",
+      "result": "520"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "323",
+      "result": "577",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "577",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "577",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "577",
+      "boost": 500
+    }
+  ]
+}

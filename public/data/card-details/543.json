@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/tongyo",
+    "capturedAt": "2026-07-22T17:08:12.491Z",
+    "contentHash": "0b015e50cc537eff4d95edc4580bb6525b24cf5912c46e357f5d7afb774bf01e",
+    "upstreamName": "Tongyo",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "543",
+  "cardType": "Monster",
+  "description": "This creature is powered by the life force of the fishes it captures with its long tongue.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/543.webm",
+    "localPath": "/game-assets/models/543.webm",
+    "width": 432,
+    "height": 144,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 65,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "023",
+      "result": "230"
+    },
+    {
+      "partner": "046",
+      "result": "230"
+    },
+    {
+      "partner": "047",
+      "result": "230"
+    },
+    {
+      "partner": "061",
+      "result": "230"
+    },
+    {
+      "partner": "065",
+      "result": "230"
+    },
+    {
+      "partner": "091",
+      "result": "230"
+    },
+    {
+      "partner": "113",
+      "result": "230"
+    },
+    {
+      "partner": "121",
+      "result": "230"
+    },
+    {
+      "partner": "155",
+      "result": "230"
+    },
+    {
+      "partner": "159",
+      "result": "230"
+    },
+    {
+      "partner": "163",
+      "result": "230"
+    },
+    {
+      "partner": "187",
+      "result": "230"
+    },
+    {
+      "partner": "188",
+      "result": "230"
+    },
+    {
+      "partner": "189",
+      "result": "230"
+    },
+    {
+      "partner": "201",
+      "result": "230"
+    },
+    {
+      "partner": "202",
+      "result": "230"
+    },
+    {
+      "partner": "212",
+      "result": "230"
+    },
+    {
+      "partner": "248",
+      "result": "230"
+    },
+    {
+      "partner": "252",
+      "result": "230"
+    },
+    {
+      "partner": "255",
+      "result": "230"
+    },
+    {
+      "partner": "275",
+      "result": "438"
+    },
+    {
+      "partner": "282",
+      "result": "230"
+    },
+    {
+      "partner": "283",
+      "result": "542"
+    },
+    {
+      "partner": "286",
+      "result": "438"
+    },
+    {
+      "partner": "297",
+      "result": "438"
+    },
+    {
+      "partner": "355",
+      "result": "438"
+    },
+    {
+      "partner": "384",
+      "result": "230"
+    },
+    {
+      "partner": "394",
+      "result": "542"
+    },
+    {
+      "partner": "404",
+      "result": "230"
+    },
+    {
+      "partner": "405",
+      "result": "438"
+    },
+    {
+      "partner": "406",
+      "result": "542"
+    },
+    {
+      "partner": "410",
+      "result": "542"
+    },
+    {
+      "partner": "411",
+      "result": "542"
+    },
+    {
+      "partner": "412",
+      "result": "542"
+    },
+    {
+      "partner": "413",
+      "result": "438"
+    },
+    {
+      "partner": "414",
+      "result": "542"
+    },
+    {
+      "partner": "416",
+      "result": "542"
+    },
+    {
+      "partner": "417",
+      "result": "542"
+    },
+    {
+      "partner": "418",
+      "result": "542"
+    },
+    {
+      "partner": "420",
+      "result": "542"
+    },
+    {
+      "partner": "421",
+      "result": "542"
+    },
+    {
+      "partner": "422",
+      "result": "542"
+    },
+    {
+      "partner": "481",
+      "result": "230"
+    },
+    {
+      "partner": "488",
+      "result": "440"
+    },
+    {
+      "partner": "492",
+      "result": "440"
+    },
+    {
+      "partner": "494",
+      "result": "440"
+    },
+    {
+      "partner": "496",
+      "result": "230"
+    },
+    {
+      "partner": "512",
+      "result": "438"
+    },
+    {
+      "partner": "514",
+      "result": "542"
+    },
+    {
+      "partner": "527",
+      "result": "230"
+    },
+    {
+      "partner": "528",
+      "result": "617"
+    },
+    {
+      "partner": "541",
+      "result": "230"
+    },
+    {
+      "partner": "544",
+      "result": "542"
+    },
+    {
+      "partner": "557",
+      "result": "438"
+    },
+    {
+      "partner": "580",
+      "result": "542"
+    },
+    {
+      "partner": "585",
+      "result": "542"
+    },
+    {
+      "partner": "587",
+      "result": "230"
+    },
+    {
+      "partner": "597",
+      "result": "617"
+    },
+    {
+      "partner": "598",
+      "result": "230"
+    },
+    {
+      "partner": "604",
+      "result": "230"
+    },
+    {
+      "partner": "607",
+      "result": "230"
+    },
+    {
+      "partner": "629",
+      "result": "230"
+    },
+    {
+      "partner": "642",
+      "result": "230"
+    },
+    {
+      "partner": "643",
+      "result": "542"
+    },
+    {
+      "partner": "658",
+      "result": "438"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "543",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "543",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "543",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "543",
+      "boost": 500
+    }
+  ]
+}

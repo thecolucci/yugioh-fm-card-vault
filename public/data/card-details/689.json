@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/reverse-trap",
+    "capturedAt": "2026-07-22T17:08:29.771Z",
+    "contentHash": "b3de667bc63b3a6f4521a20d883e90015a37746185bfb3630e392556c513cabb",
+    "upstreamName": "Reverse Trap",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "689",
+  "cardType": "Trap",
+  "description": "A card that reverses the effects of power-up cards and transforms the effects to power reduction.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 4,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "655",
+      "right": "657"
+    },
+    {
+      "left": "657",
+      "right": "690"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "168",
+      "result": "073"
+    },
+    {
+      "partner": "326",
+      "result": "314"
+    },
+    {
+      "partner": "362",
+      "result": "320"
+    },
+    {
+      "partner": "686",
+      "result": "690"
+    }
+  ],
+  "equips": []
+}

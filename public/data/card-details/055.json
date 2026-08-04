@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/giant-flea",
+    "capturedAt": "2026-07-22T17:03:41.105Z",
+    "contentHash": "5499f005821e4e578ebb2f1f0b9e46d54a5ff7c8090c055f10bcabb4242243ab",
+    "upstreamName": "Giant Flea",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "055",
+  "cardType": "Monster",
+  "description": "A giant blood-sucking flea that's devastating when attacking.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/55.webm",
+    "localPath": "/game-assets/models/055.webm",
+    "width": 98,
+    "height": 121,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "055",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "055",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "055",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "055",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "055",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/invisible-wire",
+    "capturedAt": "2026-07-22T17:08:29.830Z",
+    "contentHash": "62c42a7ac55ca665065959ad79cf912a3db34dafd42d281630403b4d82d4b850",
+    "upstreamName": "Invisible Wire",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "684",
+  "cardType": "Trap",
+  "description": "When an opposing monster's Attack Factor is 2000 or lower, it is eliminated from the play field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 4,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "311",
+      "right": "335"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "062",
+      "result": "672"
+    },
+    {
+      "partner": "063",
+      "result": "672"
+    },
+    {
+      "partner": "175",
+      "result": "162"
+    },
+    {
+      "partner": "361",
+      "result": "672"
+    }
+  ],
+  "equips": []
+}

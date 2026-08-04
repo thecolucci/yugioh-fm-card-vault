@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/larvae-moth",
+    "capturedAt": "2026-07-22T17:03:41.219Z",
+    "contentHash": "fac6fc3c81e3acaf7fe15a30cbc36b20cf30afadc0fc408891346f24e32fd130",
+    "upstreamName": "Larvae Moth",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "056",
+  "cardType": "Monster",
+  "description": "Not much in its larval form, this creature is a force to be reckoned with when it grows to become a colossal moth.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/56.webm",
+    "localPath": "/game-assets/models/056.webm",
+    "width": 658,
+    "height": 308,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "056",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "056",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "056",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "056",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "056",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "056",
+      "boost": 500
+    }
+  ]
+}

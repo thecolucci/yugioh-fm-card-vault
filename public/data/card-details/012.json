@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/swamp-battleguard",
+    "capturedAt": "2026-07-22T17:01:38.870Z",
+    "contentHash": "3433c09658adaa5a3e703a7505bbd1d96495df7363950ab57ec63c572844d5f0",
+    "upstreamName": "Swamp Battleguard",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "012",
+  "cardType": "Monster",
+  "description": "This creature is armed with a spiked club that can destroy almost anything in its path. Rumored to have a brother that is just as destructive.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/12.webm",
+    "localPath": "/game-assets/models/012.webm",
+    "width": 512,
+    "height": 384,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 31,
+    "equips": 12
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "551"
+    },
+    {
+      "partner": "015",
+      "result": "473"
+    },
+    {
+      "partner": "040",
+      "result": "473"
+    },
+    {
+      "partner": "041",
+      "result": "551"
+    },
+    {
+      "partner": "068",
+      "result": "473"
+    },
+    {
+      "partner": "101",
+      "result": "473"
+    },
+    {
+      "partner": "133",
+      "result": "473"
+    },
+    {
+      "partner": "142",
+      "result": "473"
+    },
+    {
+      "partner": "154",
+      "result": "473"
+    },
+    {
+      "partner": "157",
+      "result": "473"
+    },
+    {
+      "partner": "165",
+      "result": "033"
+    },
+    {
+      "partner": "168",
+      "result": "473"
+    },
+    {
+      "partner": "172",
+      "result": "473"
+    },
+    {
+      "partner": "176",
+      "result": "473"
+    },
+    {
+      "partner": "210",
+      "result": "473"
+    },
+    {
+      "partner": "214",
+      "result": "473"
+    },
+    {
+      "partner": "215",
+      "result": "473"
+    },
+    {
+      "partner": "242",
+      "result": "473"
+    },
+    {
+      "partner": "244",
+      "result": "473"
+    },
+    {
+      "partner": "264",
+      "result": "551"
+    },
+    {
+      "partner": "272",
+      "result": "473"
+    },
+    {
+      "partner": "291",
+      "result": "473"
+    },
+    {
+      "partner": "357",
+      "result": "473"
+    },
+    {
+      "partner": "395",
+      "result": "551"
+    },
+    {
+      "partner": "409",
+      "result": "473"
+    },
+    {
+      "partner": "417",
+      "result": "473"
+    },
+    {
+      "partner": "433",
+      "result": "551"
+    },
+    {
+      "partner": "519",
+      "result": "473"
+    },
+    {
+      "partner": "532",
+      "result": "551"
+    },
+    {
+      "partner": "555",
+      "result": "473"
+    },
+    {
+      "partner": "644",
+      "result": "473"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "302",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "012",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "012",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sengenjin",
+    "capturedAt": "2026-07-22T17:08:47.564Z",
+    "contentHash": "67c8ef28d46c8e87302656f3e9a81b74d61f80d9b838786a7def52c03f8e44f9",
+    "upstreamName": "Sengenjin",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "703",
+  "cardType": "Monster",
+  "description": "A headstrong, primitive man equipped with a Millennium Item.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/703.webm",
+    "localPath": "/game-assets/models/703.webm",
+    "width": 656,
+    "height": 501,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "703",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "703",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "703",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/steel-shell",
+    "capturedAt": "2026-07-22T17:07:45.210Z",
+    "contentHash": "4edb5b1052ce16708f7284df475bc9a860877b8d85a33eea586b4b164a2f40f0",
+    "upstreamName": "Steel Shell",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "309",
+  "cardType": "Equip",
+  "description": "Boosts the power of shelled monsters! Said to have no effect on those without shells.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 16
+  },
+  "recipes": [
+    {
+      "left": "177",
+      "right": "345"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "690",
+      "result": "692"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "089",
+      "result": "089",
+      "boost": 500
+    },
+    {
+      "partner": "177",
+      "result": "177",
+      "boost": 500
+    },
+    {
+      "partner": "193",
+      "result": "193",
+      "boost": 500
+    },
+    {
+      "partner": "292",
+      "result": "292",
+      "boost": 500
+    },
+    {
+      "partner": "443",
+      "result": "443",
+      "boost": 500
+    },
+    {
+      "partner": "449",
+      "result": "449",
+      "boost": 500
+    },
+    {
+      "partner": "450",
+      "result": "450",
+      "boost": 500
+    },
+    {
+      "partner": "459",
+      "result": "459",
+      "boost": 500
+    },
+    {
+      "partner": "460",
+      "result": "460",
+      "boost": 500
+    },
+    {
+      "partner": "497",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "503",
+      "result": "503",
+      "boost": 500
+    },
+    {
+      "partner": "518",
+      "result": "518",
+      "boost": 500
+    },
+    {
+      "partner": "520",
+      "result": "520",
+      "boost": 500
+    },
+    {
+      "partner": "593",
+      "result": "593",
+      "boost": 500
+    },
+    {
+      "partner": "647",
+      "result": "647",
+      "boost": 500
+    },
+    {
+      "partner": "710",
+      "result": "710",
+      "boost": 500
+    }
+  ]
+}

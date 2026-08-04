@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/skull-knight",
+    "capturedAt": "2026-07-22T17:08:47.619Z",
+    "contentHash": "2863a6bf4c2d328bd9b12c2f1c5a5c686df07e01b14c7b05fac4021b3aa8e6db",
+    "upstreamName": "Skull Knight",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "707",
+  "cardType": "Monster",
+  "description": "A monk who has conducted several rituals in the netherworld, and who is capable of using both weapons and magic.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/707.webm",
+    "localPath": "/game-assets/models/707.webm",
+    "width": 336,
+    "height": 398,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 11
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "707",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "707",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kumootoko",
+    "capturedAt": "2026-07-22T17:07:26.002Z",
+    "contentHash": "9384fe8363b912b48656d0ed5d5bfb919246694505f2a32095c892bb602ac20b",
+    "upstreamName": "Kumootoko",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "221",
+  "cardType": "Monster",
+  "description": "A massive, intelligent spider that traps its enemies with webbing.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/221.webm",
+    "localPath": "/game-assets/models/221.webm",
+    "width": 338,
+    "height": 251,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "221",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "221",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "221",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "221",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "221",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "221",
+      "boost": 500
+    }
+  ]
+}

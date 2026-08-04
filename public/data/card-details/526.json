@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/neck-hunter",
+    "capturedAt": "2026-07-22T17:08:11.783Z",
+    "contentHash": "6ffa64a830339c8dff96a7e8089282a5edc7a507590f0fe411bf7a304188fd2d",
+    "upstreamName": "Neck Hunter",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "526",
+  "cardType": "Monster",
+  "description": "Armed with a huge sickle, this monster can fire beams from its large eyes.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/526.webm",
+    "localPath": "/game-assets/models/526.webm",
+    "width": 440,
+    "height": 299,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "526",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "526",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "526",
+      "boost": 500
+    }
+  ]
+}

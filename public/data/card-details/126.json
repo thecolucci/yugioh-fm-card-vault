@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/orion-the-battle-king",
+    "capturedAt": "2026-07-22T17:05:42.454Z",
+    "contentHash": "5a34ccf57737d973a35baf9d857694faa2ec144fbd1dad47782b496be99203f0",
+    "upstreamName": "Orion the Battle King",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "126",
+  "cardType": "Monster",
+  "description": "A mysterious creature known as the king of warriors, but nobody has lived long enough to tell how it earned its reputation.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/126.webm",
+    "localPath": "/game-assets/models/126.webm",
+    "width": 184,
+    "height": 484,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "040",
+      "result": "004"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "307",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "312",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "126",
+      "boost": 1000
+    },
+    {
+      "partner": "659",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "668",
+      "result": "126",
+      "boost": 500
+    }
+  ]
+}

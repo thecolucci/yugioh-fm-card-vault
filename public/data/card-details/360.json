@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/zera-the-mant",
+    "capturedAt": "2026-07-22T17:07:51.433Z",
+    "contentHash": "c9cbf59b195b8d7f6c334b3316f63ab21c4be29148a13d9a7c3a0b5b52d6bfc8",
+    "upstreamName": "Zera The Mant",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "360",
+  "cardType": "Monster",
+  "description": "A huge, brutal monster that attacks with razor-sharp claws.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/360.webm",
+    "localPath": "/game-assets/models/360.webm",
+    "width": 736,
+    "height": 415,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "360",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "360",
+      "boost": 500
+    }
+  ]
+}

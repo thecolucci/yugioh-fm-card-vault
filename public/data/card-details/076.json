@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/krokodilus",
+    "capturedAt": "2026-07-22T17:04:02.977Z",
+    "contentHash": "9c2c81b73d315354e8e1d39094857502437e640133f78198dc709e8e03071584",
+    "upstreamName": "Krokodilus",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "076",
+  "cardType": "Monster",
+  "description": "A vicious crocodile with intelligence. Hard scales form a natural armor for this creature.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/76.webm",
+    "localPath": "/game-assets/models/076.webm",
+    "width": 516,
+    "height": 269,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "076",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "076",
+      "boost": 500
+    }
+  ]
+}

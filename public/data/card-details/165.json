@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/the-judgement-hand",
+    "capturedAt": "2026-07-22T17:07:14.274Z",
+    "contentHash": "afc9635c940d48d71c963e89817e2914b759c5d29abd72880460bd13f404867e",
+    "upstreamName": "The Judgement Hand",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "165",
+  "cardType": "Monster",
+  "description": "The hand of final judgment is capable of intense attacks against the enemy.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "SUN",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/165.webm",
+    "localPath": "/game-assets/models/165.webm",
+    "width": 128,
+    "height": 222,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 167,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "011"
+    },
+    {
+      "partner": "007",
+      "result": "011"
+    },
+    {
+      "partner": "009",
+      "result": "096"
+    },
+    {
+      "partner": "010",
+      "result": "011"
+    },
+    {
+      "partner": "012",
+      "result": "033"
+    },
+    {
+      "partner": "013",
+      "result": "465"
+    },
+    {
+      "partner": "015",
+      "result": "473"
+    },
+    {
+      "partner": "024",
+      "result": "096"
+    },
+    {
+      "partner": "030",
+      "result": "096"
+    },
+    {
+      "partner": "031",
+      "result": "011"
+    },
+    {
+      "partner": "040",
+      "result": "015"
+    },
+    {
+      "partner": "041",
+      "result": "033"
+    },
+    {
+      "partner": "043",
+      "result": "033"
+    },
+    {
+      "partner": "062",
+      "result": "465"
+    },
+    {
+      "partner": "063",
+      "result": "465"
+    },
+    {
+      "partner": "066",
+      "result": "033"
+    },
+    {
+      "partner": "068",
+      "result": "473"
+    },
+    {
+      "partner": "078",
+      "result": "033"
+    },
+    {
+      "partner": "081",
+      "result": "011"
+    },
+    {
+      "partner": "093",
+      "result": "033"
+    },
+    {
+      "partner": "094",
+      "result": "011"
+    },
+    {
+      "partner": "097",
+      "result": "011"
+    },
+    {
+      "partner": "098",
+      "result": "096"
+    },
+    {
+      "partner": "100",
+      "result": "033"
+    },
+    {
+      "partner": "101",
+      "result": "015"
+    },
+    {
+      "partner": "107",
+      "result": "033"
+    },
+    {
+      "partner": "108",
+      "result": "096"
+    },
+    {
+      "partner": "110",
+      "result": "033"
+    },
+    {
+      "partner": "117",
+      "result": "465"
+    },
+    {
+      "partner": "118",
+      "result": "033"
+    },
+    {
+      "partner": "120",
+      "result": "033"
+    },
+    {
+      "partner": "122",
+      "result": "011"
+    },
+    {
+      "partner": "125",
+      "result": "465"
+    },
+    {
+      "partner": "127",
+      "result": "033"
+    },
+    {
+      "partner": "132",
+      "result": "096"
+    },
+    {
+      "partner": "133",
+      "result": "015"
+    },
+    {
+      "partner": "135",
+      "result": "096"
+    },
+    {
+      "partner": "138",
+      "result": "011"
+    },
+    {
+      "partner": "139",
+      "result": "096"
+    },
+    {
+      "partner": "142",
+      "result": "015"
+    },
+    {
+      "partner": "146",
+      "result": "096"
+    },
+    {
+      "partner": "147",
+      "result": "033"
+    },
+    {
+      "partner": "151",
+      "result": "033"
+    },
+    {
+      "partner": "153",
+      "result": "096"
+    },
+    {
+      "partner": "154",
+      "result": "096"
+    },
+    {
+      "partner": "156",
+      "result": "033"
+    },
+    {
+      "partner": "157",
+      "result": "015"
+    },
+    {
+      "partner": "160",
+      "result": "033"
+    },
+    {
+      "partner": "161",
+      "result": "033"
+    },
+    {
+      "partner": "165",
+      "result": "033"
+    },
+    {
+      "partner": "166",
+      "result": "033"
+    },
+    {
+      "partner": "168",
+      "result": "015"
+    },
+    {
+      "partner": "172",
+      "result": "015"
+    },
+    {
+      "partner": "176",
+      "result": "015"
+    },
+    {
+      "partner": "182",
+      "result": "033"
+    },
+    {
+      "partner": "185",
+      "result": "033"
+    },
+    {
+      "partner": "186",
+      "result": "465"
+    },
+    {
+      "partner": "195",
+      "result": "033"
+    },
+    {
+      "partner": "197",
+      "result": "096"
+    },
+    {
+      "partner": "200",
+      "result": "011"
+    },
+    {
+      "partner": "203",
+      "result": "096"
+    },
+    {
+      "partner": "207",
+      "result": "465"
+    },
+    {
+      "partner": "210",
+      "result": "015"
+    },
+    {
+      "partner": "214",
+      "result": "015"
+    },
+    {
+      "partner": "215",
+      "result": "096"
+    },
+    {
+      "partner": "224",
+      "result": "033"
+    },
+    {
+      "partner": "225",
+      "result": "033"
+    },
+    {
+      "partner": "226",
+      "result": "033"
+    },
+    {
+      "partner": "228",
+      "result": "096"
+    },
+    {
+      "partner": "231",
+      "result": "033"
+    },
+    {
+      "partner": "234",
+      "result": "033"
+    },
+    {
+      "partner": "235",
+      "result": "033"
+    },
+    {
+      "partner": "236",
+      "result": "033"
+    },
+    {
+      "partner": "239",
+      "result": "033"
+    },
+    {
+      "partner": "241",
+      "result": "096"
+    },
+    {
+      "partner": "242",
+      "result": "015"
+    },
+    {
+      "partner": "244",
+      "result": "015"
+    },
+    {
+      "partner": "250",
+      "result": "033"
+    },
+    {
+      "partner": "256",
+      "result": "033"
+    },
+    {
+      "partner": "262",
+      "result": "033"
+    },
+    {
+      "partner": "266",
+      "result": "033"
+    },
+    {
+      "partner": "267",
+      "result": "033"
+    },
+    {
+      "partner": "272",
+      "result": "015"
+    },
+    {
+      "partner": "280",
+      "result": "033"
+    },
+    {
+      "partner": "283",
+      "result": "413"
+    },
+    {
+      "partner": "290",
+      "result": "033"
+    },
+    {
+      "partner": "291",
+      "result": "015"
+    },
+    {
+      "partner": "293",
+      "result": "033"
+    },
+    {
+      "partner": "294",
+      "result": "033"
+    },
+    {
+      "partner": "296",
+      "result": "011"
+    },
+    {
+      "partner": "297",
+      "result": "413"
+    },
+    {
+      "partner": "298",
+      "result": "011"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "300",
+      "result": "465"
+    },
+    {
+      "partner": "351",
+      "result": "096"
+    },
+    {
+      "partner": "352",
+      "result": "033"
+    },
+    {
+      "partner": "353",
+      "result": "011"
+    },
+    {
+      "partner": "354",
+      "result": "033"
+    },
+    {
+      "partner": "357",
+      "result": "015"
+    },
+    {
+      "partner": "359",
+      "result": "096"
+    },
+    {
+      "partner": "362",
+      "result": "033"
+    },
+    {
+      "partner": "369",
+      "result": "033"
+    },
+    {
+      "partner": "376",
+      "result": "033"
+    },
+    {
+      "partner": "378",
+      "result": "033"
+    },
+    {
+      "partner": "389",
+      "result": "033"
+    },
+    {
+      "partner": "394",
+      "result": "413"
+    },
+    {
+      "partner": "399",
+      "result": "033"
+    },
+    {
+      "partner": "405",
+      "result": "413"
+    },
+    {
+      "partner": "406",
+      "result": "413"
+    },
+    {
+      "partner": "409",
+      "result": "473"
+    },
+    {
+      "partner": "410",
+      "result": "413"
+    },
+    {
+      "partner": "411",
+      "result": "413"
+    },
+    {
+      "partner": "412",
+      "result": "413"
+    },
+    {
+      "partner": "414",
+      "result": "413"
+    },
+    {
+      "partner": "416",
+      "result": "413"
+    },
+    {
+      "partner": "417",
+      "result": "015"
+    },
+    {
+      "partner": "418",
+      "result": "413"
+    },
+    {
+      "partner": "420",
+      "result": "413"
+    },
+    {
+      "partner": "421",
+      "result": "413"
+    },
+    {
+      "partner": "422",
+      "result": "413"
+    },
+    {
+      "partner": "425",
+      "result": "011"
+    },
+    {
+      "partner": "434",
+      "result": "033"
+    },
+    {
+      "partner": "448",
+      "result": "011"
+    },
+    {
+      "partner": "464",
+      "result": "465"
+    },
+    {
+      "partner": "466",
+      "result": "465"
+    },
+    {
+      "partner": "468",
+      "result": "465"
+    },
+    {
+      "partner": "469",
+      "result": "033"
+    },
+    {
+      "partner": "470",
+      "result": "096"
+    },
+    {
+      "partner": "491",
+      "result": "465"
+    },
+    {
+      "partner": "502",
+      "result": "033"
+    },
+    {
+      "partner": "512",
+      "result": "413"
+    },
+    {
+      "partner": "514",
+      "result": "413"
+    },
+    {
+      "partner": "519",
+      "result": "015"
+    },
+    {
+      "partner": "521",
+      "result": "465"
+    },
+    {
+      "partner": "522",
+      "result": "465"
+    },
+    {
+      "partner": "538",
+      "result": "465"
+    },
+    {
+      "partner": "539",
+      "result": "096"
+    },
+    {
+      "partner": "544",
+      "result": "413"
+    },
+    {
+      "partner": "545",
+      "result": "011"
+    },
+    {
+      "partner": "548",
+      "result": "096"
+    },
+    {
+      "partner": "552",
+      "result": "465"
+    },
+    {
+      "partner": "553",
+      "result": "033"
+    },
+    {
+      "partner": "554",
+      "result": "033"
+    },
+    {
+      "partner": "555",
+      "result": "015"
+    },
+    {
+      "partner": "556",
+      "result": "096"
+    },
+    {
+      "partner": "557",
+      "result": "413"
+    },
+    {
+      "partner": "559",
+      "result": "033"
+    },
+    {
+      "partner": "561",
+      "result": "011"
+    },
+    {
+      "partner": "572",
+      "result": "033"
+    },
+    {
+      "partner": "577",
+      "result": "465"
+    },
+    {
+      "partner": "580",
+      "result": "413"
+    },
+    {
+      "partner": "581",
+      "result": "465"
+    },
+    {
+      "partner": "585",
+      "result": "413"
+    },
+    {
+      "partner": "586",
+      "result": "033"
+    },
+    {
+      "partner": "595",
+      "result": "465"
+    },
+    {
+      "partner": "603",
+      "result": "011"
+    },
+    {
+      "partner": "618",
+      "result": "033"
+    },
+    {
+      "partner": "621",
+      "result": "033"
+    },
+    {
+      "partner": "635",
+      "result": "033"
+    },
+    {
+      "partner": "636",
+      "result": "465"
+    },
+    {
+      "partner": "641",
+      "result": "033"
+    },
+    {
+      "partner": "643",
+      "result": "413"
+    },
+    {
+      "partner": "644",
+      "result": "015"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    },
+    {
+      "partner": "701",
+      "result": "033"
+    },
+    {
+      "partner": "702",
+      "result": "033"
+    },
+    {
+      "partner": "704",
+      "result": "033"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "165",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "165",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "165",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "165",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "165",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/tri-horned-dragon",
+    "capturedAt": "2026-07-22T17:08:47.571Z",
+    "contentHash": "9d18543f39bce6f669b72db0abc74a7f4d522998e5f7c82e33761b4c51da0295",
+    "upstreamName": "Tri-horned Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "705",
+  "cardType": "Monster",
+  "description": "A wicked dragon with three horns protruding from its head.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/705.webm",
+    "localPath": "/game-assets/models/705.webm",
+    "width": 937,
+    "height": 552,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 3
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "705",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "705",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "705",
+      "boost": 500
+    }
+  ]
+}

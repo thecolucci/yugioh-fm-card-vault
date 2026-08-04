@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/battle-steer",
+    "capturedAt": "2026-07-22T17:01:39.255Z",
+    "contentHash": "84365405281630e58c4595b3d855ee913a354d257b28aad32280a1e19c39f6f3",
+    "upstreamName": "Battle Steer",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "014",
+  "cardType": "Monster",
+  "description": "A bull monster often found in the woods. Charges enemy monsters with a pair of razor-sharp horns.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/14.webm",
+    "localPath": "/game-assets/models/014.webm",
+    "width": 700,
+    "height": 481,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "014",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "014",
+      "boost": 500
+    }
+  ]
+}

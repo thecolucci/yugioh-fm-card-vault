@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/metalzoa",
+    "capturedAt": "2026-07-22T17:07:56.395Z",
+    "contentHash": "6b518272f029a7ba52488123112f2ca9f90ee26daa48d3865e87835bae6ffcb3",
+    "upstreamName": "Metalzoa",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "392",
+  "cardType": "Monster",
+  "description": "A metallic Zoa capable of intensive attacks.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/392.webm",
+    "localPath": "/game-assets/models/392.webm",
+    "width": 498,
+    "height": 507,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 10
+  },
+  "recipes": [
+    {
+      "left": "391",
+      "right": "658"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "392",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "392",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "392",
+      "boost": 500
+    }
+  ]
+}

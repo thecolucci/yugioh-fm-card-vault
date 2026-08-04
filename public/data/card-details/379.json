@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/la-jinn-the-mystical-genie",
+    "capturedAt": "2026-07-22T17:07:54.993Z",
+    "contentHash": "12f9de00ef51e3f0fd2cef6d2e6ce6255f2bc91b9d3917cf8a1b8e8920e8dc9a",
+    "upstreamName": "La Jinn the Mystical Genie",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "379",
+  "cardType": "Monster",
+  "description": "A genie of the lamp that's at the beck and call of its master.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/379.webm",
+    "localPath": "/game-assets/models/379.webm",
+    "width": 432,
+    "height": 465,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 8,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "551"
+    },
+    {
+      "partner": "041",
+      "result": "551"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "264",
+      "result": "551"
+    },
+    {
+      "partner": "395",
+      "result": "551"
+    },
+    {
+      "partner": "433",
+      "result": "551"
+    },
+    {
+      "partner": "532",
+      "result": "551"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "379",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "379",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "379",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "379",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "379",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "379",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "379",
+      "boost": 500
+    }
+  ]
+}

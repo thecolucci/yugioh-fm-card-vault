@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/gaia-the-fierce-knight",
+    "capturedAt": "2026-07-22T17:02:31.953Z",
+    "contentHash": "524bc88611f9874191ad75ff5864e2db7568685c0cca90e33ab296b0de7e6554",
+    "upstreamName": "Gaia the Fierce Knight",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "038",
+  "cardType": "Monster",
+  "description": "A knight mounted on a horse that travels faster than the wind. His battle charge is a force to be reckoned with.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/38.webm",
+    "localPath": "/game-assets/models/038.webm",
+    "width": 562,
+    "height": 380,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "039",
+      "result": "037"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "038",
+      "boost": 500
+    },
+    {
+      "partner": "302",
+      "result": "038",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "038",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "038",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "038",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "038",
+      "boost": 500
+    }
+  ]
+}

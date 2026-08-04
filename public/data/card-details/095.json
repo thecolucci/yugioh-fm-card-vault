@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/crass-clown",
+    "capturedAt": "2026-07-22T17:04:06.413Z",
+    "contentHash": "f8de9d9df1ddb718ef0194c06b7b1a83d70bed81914c06bfd12ee492e5e28096",
+    "upstreamName": "Crass Clown",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "095",
+  "cardType": "Monster",
+  "description": "A performer in the Dark Circus, this clown drains the strength of its enemies with strange dances.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "VENUS",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/95.webm",
+    "localPath": "/game-assets/models/095.webm",
+    "width": 795,
+    "height": 524,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 15,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "051",
+      "result": "471"
+    },
+    {
+      "partner": "076",
+      "result": "471"
+    },
+    {
+      "partner": "077",
+      "result": "471"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "285",
+      "result": "471"
+    },
+    {
+      "partner": "345",
+      "result": "098"
+    },
+    {
+      "partner": "381",
+      "result": "471"
+    },
+    {
+      "partner": "400",
+      "result": "471"
+    },
+    {
+      "partner": "475",
+      "result": "471"
+    },
+    {
+      "partner": "536",
+      "result": "471"
+    },
+    {
+      "partner": "566",
+      "result": "471"
+    },
+    {
+      "partner": "569",
+      "result": "471"
+    },
+    {
+      "partner": "590",
+      "result": "471"
+    },
+    {
+      "partner": "630",
+      "result": "471"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "095",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "095",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "095",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "095",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "095",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "095",
+      "boost": 500
+    }
+  ]
+}

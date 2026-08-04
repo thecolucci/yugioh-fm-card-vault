@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ryu-kishin",
+    "capturedAt": "2026-07-22T17:01:38.216Z",
+    "contentHash": "89364f0c0babffdb87abe84b8a0716e8dd9a15fa03f199e0a27d5adb1f0009ef",
+    "upstreamName": "Ryu-kishin",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "005",
+  "cardType": "Monster",
+  "description": "A very elusive creature that looks like a harmless statue until it attacks.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SATURN",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/5.webm",
+    "localPath": "/game-assets/models/005.webm",
+    "width": 540,
+    "height": 453,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 41,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "013",
+      "result": "650"
+    },
+    {
+      "partner": "017",
+      "result": "377"
+    },
+    {
+      "partner": "018",
+      "result": "377"
+    },
+    {
+      "partner": "019",
+      "result": "377"
+    },
+    {
+      "partner": "020",
+      "result": "377"
+    },
+    {
+      "partner": "021",
+      "result": "377"
+    },
+    {
+      "partner": "034",
+      "result": "377"
+    },
+    {
+      "partner": "062",
+      "result": "650"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "104",
+      "result": "377"
+    },
+    {
+      "partner": "115",
+      "result": "377"
+    },
+    {
+      "partner": "117",
+      "result": "650"
+    },
+    {
+      "partner": "125",
+      "result": "650"
+    },
+    {
+      "partner": "129",
+      "result": "377"
+    },
+    {
+      "partner": "179",
+      "result": "377"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "186",
+      "result": "650"
+    },
+    {
+      "partner": "190",
+      "result": "377"
+    },
+    {
+      "partner": "207",
+      "result": "650"
+    },
+    {
+      "partner": "220",
+      "result": "377"
+    },
+    {
+      "partner": "253",
+      "result": "377"
+    },
+    {
+      "partner": "259",
+      "result": "377"
+    },
+    {
+      "partner": "268",
+      "result": "377"
+    },
+    {
+      "partner": "272",
+      "result": "650"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "300",
+      "result": "650"
+    },
+    {
+      "partner": "387",
+      "result": "377"
+    },
+    {
+      "partner": "466",
+      "result": "650"
+    },
+    {
+      "partner": "468",
+      "result": "650"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "530",
+      "result": "377"
+    },
+    {
+      "partner": "538",
+      "result": "650"
+    },
+    {
+      "partner": "552",
+      "result": "650"
+    },
+    {
+      "partner": "574",
+      "result": "377"
+    },
+    {
+      "partner": "578",
+      "result": "377"
+    },
+    {
+      "partner": "581",
+      "result": "650"
+    },
+    {
+      "partner": "595",
+      "result": "650"
+    },
+    {
+      "partner": "628",
+      "result": "377"
+    },
+    {
+      "partner": "636",
+      "result": "650"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "005",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "005",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "005",
+      "boost": 500
+    }
+  ]
+}

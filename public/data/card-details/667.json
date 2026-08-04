@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/gate-guardian-ritual",
+    "capturedAt": "2026-07-22T17:08:24.395Z",
+    "contentHash": "5f99def25845f98ed34bbd75bdc7c5d235f044d9f6ee0e9ee2decf88a7cbd6b9",
+    "upstreamName": "Gate Guardian Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "667",
+  "cardType": "Ritual",
+  "description": "Sacrifices Kazejin, Suijin, and Sanga of the Thunder to summon Gate Guardian.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "652",
+      "right": "658"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

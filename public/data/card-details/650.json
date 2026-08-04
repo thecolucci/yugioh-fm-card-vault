@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/whiptail-crow",
+    "capturedAt": "2026-07-22T17:08:24.796Z",
+    "contentHash": "da9bd7bf0988957ab041ce6d7095a79937a55262b05b83edf44ede97bf6c178e",
+    "upstreamName": "Whiptail Crow",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "650",
+  "cardType": "Monster",
+  "description": "Attacks from the skies with a whip-like tail.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/650.webm",
+    "localPath": "/game-assets/models/650.webm",
+    "width": 664,
+    "height": 356,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 15,
+    "fusions": 2,
+    "equips": 6
+  },
+  "recipes": [
+    {
+      "left": "005",
+      "right": "013"
+    },
+    {
+      "left": "005",
+      "right": "062"
+    },
+    {
+      "left": "005",
+      "right": "117"
+    },
+    {
+      "left": "005",
+      "right": "125"
+    },
+    {
+      "left": "005",
+      "right": "186"
+    },
+    {
+      "left": "005",
+      "right": "207"
+    },
+    {
+      "left": "005",
+      "right": "272"
+    },
+    {
+      "left": "005",
+      "right": "300"
+    },
+    {
+      "left": "005",
+      "right": "466"
+    },
+    {
+      "left": "005",
+      "right": "468"
+    },
+    {
+      "left": "005",
+      "right": "538"
+    },
+    {
+      "left": "005",
+      "right": "552"
+    },
+    {
+      "left": "005",
+      "right": "581"
+    },
+    {
+      "left": "005",
+      "right": "595"
+    },
+    {
+      "left": "005",
+      "right": "636"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "650",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "650",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "650",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "650",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "650",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "650",
+      "boost": 500
+    }
+  ]
+}

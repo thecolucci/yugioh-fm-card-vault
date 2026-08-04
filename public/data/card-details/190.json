@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/akakieisu",
+    "capturedAt": "2026-07-22T17:07:24.085Z",
+    "contentHash": "bc75580f469d32ea437bc4130419f4f214bc759298ea0ea9b6bb32801d2df435",
+    "upstreamName": "Akakieisu",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "190",
+  "cardType": "Monster",
+  "description": "A wizard whose incantations numb the senses of opposing monsters.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/190.webm",
+    "localPath": "/game-assets/models/190.webm",
+    "width": 300,
+    "height": 332,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 73,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "551"
+    },
+    {
+      "partner": "004",
+      "result": "010"
+    },
+    {
+      "partner": "005",
+      "result": "377"
+    },
+    {
+      "partner": "007",
+      "result": "010"
+    },
+    {
+      "partner": "009",
+      "result": "470"
+    },
+    {
+      "partner": "024",
+      "result": "470"
+    },
+    {
+      "partner": "030",
+      "result": "470"
+    },
+    {
+      "partner": "040",
+      "result": "401"
+    },
+    {
+      "partner": "041",
+      "result": "551"
+    },
+    {
+      "partner": "045",
+      "result": "462"
+    },
+    {
+      "partner": "089",
+      "result": "449"
+    },
+    {
+      "partner": "108",
+      "result": "470"
+    },
+    {
+      "partner": "122",
+      "result": "010"
+    },
+    {
+      "partner": "132",
+      "result": "470"
+    },
+    {
+      "partner": "135",
+      "result": "470"
+    },
+    {
+      "partner": "138",
+      "result": "010"
+    },
+    {
+      "partner": "139",
+      "result": "470"
+    },
+    {
+      "partner": "146",
+      "result": "470"
+    },
+    {
+      "partner": "153",
+      "result": "470"
+    },
+    {
+      "partner": "154",
+      "result": "470"
+    },
+    {
+      "partner": "167",
+      "result": "401"
+    },
+    {
+      "partner": "177",
+      "result": "449"
+    },
+    {
+      "partner": "191",
+      "result": "462"
+    },
+    {
+      "partner": "193",
+      "result": "449"
+    },
+    {
+      "partner": "197",
+      "result": "470"
+    },
+    {
+      "partner": "200",
+      "result": "010"
+    },
+    {
+      "partner": "203",
+      "result": "470"
+    },
+    {
+      "partner": "211",
+      "result": "462"
+    },
+    {
+      "partner": "215",
+      "result": "470"
+    },
+    {
+      "partner": "228",
+      "result": "470"
+    },
+    {
+      "partner": "241",
+      "result": "470"
+    },
+    {
+      "partner": "264",
+      "result": "551"
+    },
+    {
+      "partner": "283",
+      "result": "643"
+    },
+    {
+      "partner": "296",
+      "result": "010"
+    },
+    {
+      "partner": "298",
+      "result": "010"
+    },
+    {
+      "partner": "359",
+      "result": "470"
+    },
+    {
+      "partner": "387",
+      "result": "149"
+    },
+    {
+      "partner": "394",
+      "result": "643"
+    },
+    {
+      "partner": "395",
+      "result": "551"
+    },
+    {
+      "partner": "406",
+      "result": "643"
+    },
+    {
+      "partner": "410",
+      "result": "643"
+    },
+    {
+      "partner": "411",
+      "result": "643"
+    },
+    {
+      "partner": "412",
+      "result": "643"
+    },
+    {
+      "partner": "414",
+      "result": "643"
+    },
+    {
+      "partner": "416",
+      "result": "643"
+    },
+    {
+      "partner": "417",
+      "result": "643"
+    },
+    {
+      "partner": "418",
+      "result": "643"
+    },
+    {
+      "partner": "420",
+      "result": "643"
+    },
+    {
+      "partner": "421",
+      "result": "643"
+    },
+    {
+      "partner": "422",
+      "result": "643"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "433",
+      "result": "551"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "462"
+    },
+    {
+      "partner": "460",
+      "result": "462"
+    },
+    {
+      "partner": "461",
+      "result": "462"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "462"
+    },
+    {
+      "partner": "503",
+      "result": "449"
+    },
+    {
+      "partner": "514",
+      "result": "643"
+    },
+    {
+      "partner": "532",
+      "result": "551"
+    },
+    {
+      "partner": "537",
+      "result": "462"
+    },
+    {
+      "partner": "539",
+      "result": "470"
+    },
+    {
+      "partner": "544",
+      "result": "643"
+    },
+    {
+      "partner": "548",
+      "result": "470"
+    },
+    {
+      "partner": "556",
+      "result": "470"
+    },
+    {
+      "partner": "558",
+      "result": "401"
+    },
+    {
+      "partner": "561",
+      "result": "010"
+    },
+    {
+      "partner": "580",
+      "result": "643"
+    },
+    {
+      "partner": "585",
+      "result": "643"
+    },
+    {
+      "partner": "591",
+      "result": "401"
+    },
+    {
+      "partner": "603",
+      "result": "010"
+    },
+    {
+      "partner": "610",
+      "result": "462"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "190",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "190",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "190",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "190",
+      "boost": 500
+    }
+  ]
+}

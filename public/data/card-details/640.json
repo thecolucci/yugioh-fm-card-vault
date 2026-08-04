@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/acid-crawler",
+    "capturedAt": "2026-07-22T17:08:23.369Z",
+    "contentHash": "8e28756bd06d1f9debe89964b5ed0624dba85344060b3602c2fe49ea9bcbeb7e",
+    "upstreamName": "Acid Crawler",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "640",
+  "cardType": "Monster",
+  "description": "A gigantic caterpillar that spits acid capable of melting almost anything.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/640.webm",
+    "localPath": "/game-assets/models/640.webm",
+    "width": 483,
+    "height": 146,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "640",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "640",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "640",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "640",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "640",
+      "boost": 500
+    }
+  ]
+}

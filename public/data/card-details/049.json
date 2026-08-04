@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/big-insect",
+    "capturedAt": "2026-07-22T17:03:22.413Z",
+    "contentHash": "09d4daef0d54ff643742f75bcd76aa6821c5634de152eeab1335452d004d3c3c",
+    "upstreamName": "Big Insect",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "049",
+  "cardType": "Monster",
+  "description": "A giant ant that dwells in the jungle. Powerful in terms of both ATK and DEF factors.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/49.webm",
+    "localPath": "/game-assets/models/049.webm",
+    "width": 366,
+    "height": 116,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "049",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "049",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "049",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "049",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "049",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "049",
+      "boost": 500
+    }
+  ]
+}

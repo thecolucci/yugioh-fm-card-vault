@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/harpies-feather-duster",
+    "capturedAt": "2026-07-22T17:08:24.760Z",
+    "contentHash": "0d6f4b4401cc38951bee296c0bf463aba467d94372b74e8ad354cf8fdf13b5fa",
+    "upstreamName": "Harpie's Feather Duster",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "672",
+  "cardType": "Magic",
+  "description": "Destroys all opponent Magic cards that are in play.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 64,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "062",
+      "right": "062"
+    },
+    {
+      "left": "062",
+      "right": "063"
+    },
+    {
+      "left": "062",
+      "right": "325"
+    },
+    {
+      "left": "062",
+      "right": "652"
+    },
+    {
+      "left": "062",
+      "right": "681"
+    },
+    {
+      "left": "062",
+      "right": "682"
+    },
+    {
+      "left": "062",
+      "right": "683"
+    },
+    {
+      "left": "062",
+      "right": "684"
+    },
+    {
+      "left": "063",
+      "right": "063"
+    },
+    {
+      "left": "063",
+      "right": "325"
+    },
+    {
+      "left": "063",
+      "right": "652"
+    },
+    {
+      "left": "063",
+      "right": "681"
+    },
+    {
+      "left": "063",
+      "right": "682"
+    },
+    {
+      "left": "063",
+      "right": "683"
+    },
+    {
+      "left": "063",
+      "right": "684"
+    },
+    {
+      "left": "125",
+      "right": "325"
+    },
+    {
+      "left": "125",
+      "right": "683"
+    },
+    {
+      "left": "128",
+      "right": "325"
+    },
+    {
+      "left": "128",
+      "right": "683"
+    },
+    {
+      "left": "163",
+      "right": "325"
+    },
+    {
+      "left": "163",
+      "right": "683"
+    },
+    {
+      "left": "186",
+      "right": "325"
+    },
+    {
+      "left": "189",
+      "right": "325"
+    },
+    {
+      "left": "189",
+      "right": "683"
+    },
+    {
+      "left": "198",
+      "right": "325"
+    },
+    {
+      "left": "198",
+      "right": "683"
+    },
+    {
+      "left": "229",
+      "right": "325"
+    },
+    {
+      "left": "229",
+      "right": "683"
+    },
+    {
+      "left": "253",
+      "right": "325"
+    },
+    {
+      "left": "253",
+      "right": "683"
+    },
+    {
+      "left": "264",
+      "right": "325"
+    },
+    {
+      "left": "264",
+      "right": "683"
+    },
+    {
+      "left": "272",
+      "right": "325"
+    },
+    {
+      "left": "272",
+      "right": "683"
+    },
+    {
+      "left": "325",
+      "right": "327"
+    },
+    {
+      "left": "325",
+      "right": "361"
+    },
+    {
+      "left": "325",
+      "right": "424"
+    },
+    {
+      "left": "325",
+      "right": "464"
+    },
+    {
+      "left": "325",
+      "right": "465"
+    },
+    {
+      "left": "325",
+      "right": "466"
+    },
+    {
+      "left": "325",
+      "right": "467"
+    },
+    {
+      "left": "325",
+      "right": "468"
+    },
+    {
+      "left": "325",
+      "right": "491"
+    },
+    {
+      "left": "325",
+      "right": "522"
+    },
+    {
+      "left": "325",
+      "right": "540"
+    },
+    {
+      "left": "325",
+      "right": "541"
+    },
+    {
+      "left": "325",
+      "right": "581"
+    },
+    {
+      "left": "325",
+      "right": "582"
+    },
+    {
+      "left": "325",
+      "right": "601"
+    },
+    {
+      "left": "325",
+      "right": "608"
+    },
+    {
+      "left": "325",
+      "right": "616"
+    },
+    {
+      "left": "325",
+      "right": "631"
+    },
+    {
+      "left": "325",
+      "right": "633"
+    },
+    {
+      "left": "325",
+      "right": "636"
+    },
+    {
+      "left": "325",
+      "right": "659"
+    },
+    {
+      "left": "361",
+      "right": "684"
+    },
+    {
+      "left": "464",
+      "right": "683"
+    },
+    {
+      "left": "465",
+      "right": "683"
+    },
+    {
+      "left": "466",
+      "right": "683"
+    },
+    {
+      "left": "468",
+      "right": "683"
+    },
+    {
+      "left": "491",
+      "right": "683"
+    },
+    {
+      "left": "522",
+      "right": "683"
+    },
+    {
+      "left": "581",
+      "right": "683"
+    },
+    {
+      "left": "636",
+      "right": "683"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

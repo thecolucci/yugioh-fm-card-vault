@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/war-lion-ritual",
+    "capturedAt": "2026-07-22T17:08:26.563Z",
+    "contentHash": "1e1b9d1f277864c4739125812f3ad2d8a687a9f8f24258e788e24fd9731fe8a2",
+    "upstreamName": "War-lion Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "673",
+  "cardType": "Ritual",
+  "description": "Ceremony conducted to summon War Lion. Sacrifice required.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "308",
+      "right": "318"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

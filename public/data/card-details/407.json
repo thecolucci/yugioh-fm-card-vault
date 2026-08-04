@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/machine-king",
+    "capturedAt": "2026-07-22T17:07:59.824Z",
+    "contentHash": "c544f35bb81a4e28a87adcd75836905f8436a13aff06478b308664ce58344535",
+    "upstreamName": "Machine King",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "407",
+  "cardType": "Monster",
+  "description": "Armored with super alloy, this robot attacks with blasts of fire launched from both arms.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MARS",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/407.webm",
+    "localPath": "/game-assets/models/407.webm",
+    "width": 416,
+    "height": 544,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 22,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "013",
+      "result": "467"
+    },
+    {
+      "partner": "062",
+      "result": "467"
+    },
+    {
+      "partner": "063",
+      "result": "467"
+    },
+    {
+      "partner": "117",
+      "result": "467"
+    },
+    {
+      "partner": "125",
+      "result": "467"
+    },
+    {
+      "partner": "186",
+      "result": "467"
+    },
+    {
+      "partner": "207",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "300",
+      "result": "467"
+    },
+    {
+      "partner": "464",
+      "result": "467"
+    },
+    {
+      "partner": "465",
+      "result": "467"
+    },
+    {
+      "partner": "466",
+      "result": "467"
+    },
+    {
+      "partner": "468",
+      "result": "467"
+    },
+    {
+      "partner": "491",
+      "result": "467"
+    },
+    {
+      "partner": "521",
+      "result": "467"
+    },
+    {
+      "partner": "522",
+      "result": "467"
+    },
+    {
+      "partner": "538",
+      "result": "467"
+    },
+    {
+      "partner": "552",
+      "result": "467"
+    },
+    {
+      "partner": "577",
+      "result": "467"
+    },
+    {
+      "partner": "581",
+      "result": "467"
+    },
+    {
+      "partner": "595",
+      "result": "467"
+    },
+    {
+      "partner": "636",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "654",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "407",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "407",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/fake-trap",
+    "capturedAt": "2026-07-22T17:08:26.421Z",
+    "contentHash": "a828c689c768589936778678c19652b6c8bd52a50bc3af2c4f1c2a4a367eef72",
+    "upstreamName": "Fake Trap",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "690",
+  "cardType": "Trap",
+  "description": "A trap card for tricking your opponent. Nothing happens when it is attacked.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "349",
+      "right": "655"
+    },
+    {
+      "left": "686",
+      "right": "689"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "309",
+      "result": "692"
+    },
+    {
+      "partner": "657",
+      "result": "689"
+    }
+  ],
+  "equips": []
+}

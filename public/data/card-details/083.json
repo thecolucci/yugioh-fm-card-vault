@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/castle-of-dark-illusions",
+    "capturedAt": "2026-07-22T17:04:04.297Z",
+    "contentHash": "7932470f3de9ce48f89ac1c35f2c2441cefda143b5da4c41629266422b9451fe",
+    "upstreamName": "Castle of Dark Illusions",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "083",
+  "cardType": "Monster",
+  "description": "A creature that can generate darkness to envelop all that exists around it.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/83.webm",
+    "localPath": "/game-assets/models/083.webm",
+    "width": 509,
+    "height": 640,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 22,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "551"
+    },
+    {
+      "partner": "004",
+      "result": "010"
+    },
+    {
+      "partner": "007",
+      "result": "010"
+    },
+    {
+      "partner": "041",
+      "result": "551"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "010"
+    },
+    {
+      "partner": "138",
+      "result": "010"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "010"
+    },
+    {
+      "partner": "264",
+      "result": "551"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "010"
+    },
+    {
+      "partner": "298",
+      "result": "010"
+    },
+    {
+      "partner": "350",
+      "result": "668"
+    },
+    {
+      "partner": "395",
+      "result": "551"
+    },
+    {
+      "partner": "433",
+      "result": "551"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "532",
+      "result": "551"
+    },
+    {
+      "partner": "561",
+      "result": "010"
+    },
+    {
+      "partner": "603",
+      "result": "010"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "083",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "083",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "083",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "083",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "083",
+      "boost": 500
+    }
+  ]
+}

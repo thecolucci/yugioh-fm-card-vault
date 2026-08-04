@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/spirit-of-the-books",
+    "capturedAt": "2026-07-22T17:05:41.957Z",
+    "contentHash": "8e18ccc66f3537dc3f90bb58801029fe5d6b3325566648325c9b2791de19bb25",
+    "upstreamName": "Spirit of the Books",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "117",
+  "cardType": "Monster",
+  "description": "A spirit of the books with infinite knowledge and an endless variety of attack strategies.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SATURN",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/117.webm",
+    "localPath": "/game-assets/models/117.webm",
+    "width": 668,
+    "height": 430,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 10,
+    "fusions": 37,
+    "equips": 4
+  },
+  "recipes": [
+    {
+      "left": "013",
+      "right": "486"
+    },
+    {
+      "left": "062",
+      "right": "486"
+    },
+    {
+      "left": "186",
+      "right": "486"
+    },
+    {
+      "left": "207",
+      "right": "486"
+    },
+    {
+      "left": "272",
+      "right": "486"
+    },
+    {
+      "left": "300",
+      "right": "486"
+    },
+    {
+      "left": "468",
+      "right": "486"
+    },
+    {
+      "left": "486",
+      "right": "538"
+    },
+    {
+      "left": "486",
+      "right": "552"
+    },
+    {
+      "left": "486",
+      "right": "595"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "005",
+      "result": "650"
+    },
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "089",
+      "result": "520"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "177",
+      "result": "520"
+    },
+    {
+      "partner": "193",
+      "result": "520"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "449",
+      "result": "520"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "503",
+      "result": "520"
+    },
+    {
+      "partner": "518",
+      "result": "520"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "593",
+      "result": "520"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "323",
+      "result": "117",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "117",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "117",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "117",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/beastry-mirror-ritual",
+    "capturedAt": "2026-07-22T17:08:26.411Z",
+    "contentHash": "7df130d8e91583c4af5c43adebac4e2113c36a39b1d31c6bc73f7dfa09acf218",
+    "upstreamName": "Beastry Mirror Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "674",
+  "cardType": "Ritual",
+  "description": "Ceremony conducted to summon Fiend's Mirror. Sacrifice required.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "303",
+      "right": "318"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

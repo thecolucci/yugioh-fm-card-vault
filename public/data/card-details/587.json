@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mon-larvas",
+    "capturedAt": "2026-07-22T17:08:17.681Z",
+    "contentHash": "a0cc8c189f504eb43fb2447af2516d21b5a61f6ccfdd4d0c9b6eb200e0c4ef1a",
+    "upstreamName": "Mon Larvas",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "587",
+  "cardType": "Monster",
+  "description": "A highly evolved Larvas that is even more powerful than before.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/587.webm",
+    "localPath": "/game-assets/models/587.webm",
+    "width": 226,
+    "height": 198,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 28,
+    "fusions": 31,
+    "equips": 4
+  },
+  "recipes": [
+    {
+      "left": "046",
+      "right": "155"
+    },
+    {
+      "left": "047",
+      "right": "155"
+    },
+    {
+      "left": "061",
+      "right": "155"
+    },
+    {
+      "left": "065",
+      "right": "155"
+    },
+    {
+      "left": "113",
+      "right": "155"
+    },
+    {
+      "left": "121",
+      "right": "155"
+    },
+    {
+      "left": "155",
+      "right": "155"
+    },
+    {
+      "left": "155",
+      "right": "159"
+    },
+    {
+      "left": "155",
+      "right": "187"
+    },
+    {
+      "left": "155",
+      "right": "188"
+    },
+    {
+      "left": "155",
+      "right": "189"
+    },
+    {
+      "left": "155",
+      "right": "201"
+    },
+    {
+      "left": "155",
+      "right": "202"
+    },
+    {
+      "left": "155",
+      "right": "212"
+    },
+    {
+      "left": "155",
+      "right": "248"
+    },
+    {
+      "left": "155",
+      "right": "252"
+    },
+    {
+      "left": "155",
+      "right": "255"
+    },
+    {
+      "left": "155",
+      "right": "282"
+    },
+    {
+      "left": "155",
+      "right": "384"
+    },
+    {
+      "left": "155",
+      "right": "481"
+    },
+    {
+      "left": "155",
+      "right": "496"
+    },
+    {
+      "left": "155",
+      "right": "527"
+    },
+    {
+      "left": "155",
+      "right": "541"
+    },
+    {
+      "left": "155",
+      "right": "598"
+    },
+    {
+      "left": "155",
+      "right": "604"
+    },
+    {
+      "left": "155",
+      "right": "607"
+    },
+    {
+      "left": "155",
+      "right": "629"
+    },
+    {
+      "left": "155",
+      "right": "642"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "189",
+      "result": "483"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "404"
+    },
+    {
+      "partner": "251",
+      "result": "404"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "404"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "404"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "404"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "587",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "587",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "587",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "587",
+      "boost": 500
+    }
+  ]
+}

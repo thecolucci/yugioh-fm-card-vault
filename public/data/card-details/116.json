@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/nightmare-scorpion",
+    "capturedAt": "2026-07-22T17:05:41.889Z",
+    "contentHash": "90e21eadcac51a08e3da9d179c89dc7d499635f96f233e7ec3f54cfe3966f8d6",
+    "upstreamName": "Nightmare Scorpion",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "116",
+  "cardType": "Monster",
+  "description": "A very toxic creature that induces nightmares and attacks its victims with four poison- tipped stingers.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "URANUS",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/116.webm",
+    "localPath": "/game-assets/models/116.webm",
+    "width": 406,
+    "height": 224,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "116",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "116",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "116",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "116",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "116",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "116",
+      "boost": 500
+    }
+  ]
+}

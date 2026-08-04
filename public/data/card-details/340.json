@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/goblins-secret-remedy",
+    "capturedAt": "2026-07-22T17:07:48.007Z",
+    "contentHash": "244f6b4bf2aff47d65a62ce568c59b20a35a12a29eacd763c0fe71a8b9e54de0",
+    "upstreamName": "Goblin's Secret Remedy",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "340",
+  "cardType": "Magic",
+  "description": "A goblin's herb that increases Life Points by 1000!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 3,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "339",
+      "right": "339"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "325",
+      "result": "662"
+    },
+    {
+      "partner": "327",
+      "result": "662"
+    },
+    {
+      "partner": "340",
+      "result": "341"
+    }
+  ],
+  "equips": []
+}

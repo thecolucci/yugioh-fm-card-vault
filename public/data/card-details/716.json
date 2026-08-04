@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/garma-sword",
+    "capturedAt": "2026-07-22T17:08:47.600Z",
+    "contentHash": "9a679384c70b7a687cd49a63fa8ebae001bb61d55c6d2c32a2e41153ee9e7af3",
+    "upstreamName": "Garma Sword",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "716",
+  "cardType": "Monster",
+  "description": "A skilled warrior that wields six swords against opposing monsters.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/716.webm",
+    "localPath": "/game-assets/models/716.webm",
+    "width": 366,
+    "height": 496,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "716",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "716",
+      "boost": 500
+    }
+  ]
+}

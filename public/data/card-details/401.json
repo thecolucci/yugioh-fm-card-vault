@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ushi-oni",
+    "capturedAt": "2026-07-22T17:07:58.767Z",
+    "contentHash": "590d68ff9cb3862a82e7319c3e88e4ed8d4795ccfb9e882f786db6c105974447",
+    "upstreamName": "Ushi Oni",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "401",
+  "cardType": "Monster",
+  "description": "A bull monster resurrected by the dark arts that appears from inside a jar.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/401.webm",
+    "localPath": "/game-assets/models/401.webm",
+    "width": 320,
+    "height": 296,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 66,
+    "fusions": 1,
+    "equips": 9
+  },
+  "recipes": [
+    {
+      "left": "017",
+      "right": "040"
+    },
+    {
+      "left": "017",
+      "right": "167"
+    },
+    {
+      "left": "017",
+      "right": "558"
+    },
+    {
+      "left": "017",
+      "right": "591"
+    },
+    {
+      "left": "018",
+      "right": "040"
+    },
+    {
+      "left": "018",
+      "right": "167"
+    },
+    {
+      "left": "018",
+      "right": "558"
+    },
+    {
+      "left": "018",
+      "right": "591"
+    },
+    {
+      "left": "019",
+      "right": "040"
+    },
+    {
+      "left": "019",
+      "right": "167"
+    },
+    {
+      "left": "019",
+      "right": "558"
+    },
+    {
+      "left": "019",
+      "right": "591"
+    },
+    {
+      "left": "020",
+      "right": "040"
+    },
+    {
+      "left": "020",
+      "right": "167"
+    },
+    {
+      "left": "020",
+      "right": "558"
+    },
+    {
+      "left": "020",
+      "right": "591"
+    },
+    {
+      "left": "021",
+      "right": "040"
+    },
+    {
+      "left": "021",
+      "right": "167"
+    },
+    {
+      "left": "021",
+      "right": "558"
+    },
+    {
+      "left": "021",
+      "right": "591"
+    },
+    {
+      "left": "034",
+      "right": "040"
+    },
+    {
+      "left": "034",
+      "right": "167"
+    },
+    {
+      "left": "034",
+      "right": "558"
+    },
+    {
+      "left": "034",
+      "right": "591"
+    },
+    {
+      "left": "040",
+      "right": "104"
+    },
+    {
+      "left": "040",
+      "right": "115"
+    },
+    {
+      "left": "040",
+      "right": "129"
+    },
+    {
+      "left": "040",
+      "right": "179"
+    },
+    {
+      "left": "040",
+      "right": "190"
+    },
+    {
+      "left": "040",
+      "right": "220"
+    },
+    {
+      "left": "040",
+      "right": "253"
+    },
+    {
+      "left": "040",
+      "right": "259"
+    },
+    {
+      "left": "040",
+      "right": "268"
+    },
+    {
+      "left": "040",
+      "right": "387"
+    },
+    {
+      "left": "040",
+      "right": "530"
+    },
+    {
+      "left": "040",
+      "right": "551"
+    },
+    {
+      "left": "040",
+      "right": "574"
+    },
+    {
+      "left": "040",
+      "right": "578"
+    },
+    {
+      "left": "040",
+      "right": "628"
+    },
+    {
+      "left": "104",
+      "right": "167"
+    },
+    {
+      "left": "104",
+      "right": "558"
+    },
+    {
+      "left": "104",
+      "right": "591"
+    },
+    {
+      "left": "115",
+      "right": "167"
+    },
+    {
+      "left": "115",
+      "right": "558"
+    },
+    {
+      "left": "115",
+      "right": "591"
+    },
+    {
+      "left": "167",
+      "right": "179"
+    },
+    {
+      "left": "167",
+      "right": "190"
+    },
+    {
+      "left": "167",
+      "right": "220"
+    },
+    {
+      "left": "167",
+      "right": "259"
+    },
+    {
+      "left": "167",
+      "right": "268"
+    },
+    {
+      "left": "167",
+      "right": "387"
+    },
+    {
+      "left": "167",
+      "right": "578"
+    },
+    {
+      "left": "179",
+      "right": "558"
+    },
+    {
+      "left": "179",
+      "right": "591"
+    },
+    {
+      "left": "190",
+      "right": "558"
+    },
+    {
+      "left": "190",
+      "right": "591"
+    },
+    {
+      "left": "220",
+      "right": "558"
+    },
+    {
+      "left": "220",
+      "right": "591"
+    },
+    {
+      "left": "259",
+      "right": "558"
+    },
+    {
+      "left": "259",
+      "right": "591"
+    },
+    {
+      "left": "268",
+      "right": "558"
+    },
+    {
+      "left": "268",
+      "right": "591"
+    },
+    {
+      "left": "387",
+      "right": "558"
+    },
+    {
+      "left": "387",
+      "right": "591"
+    },
+    {
+      "left": "558",
+      "right": "578"
+    },
+    {
+      "left": "578",
+      "right": "591"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "401",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "401",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "401",
+      "boost": 500
+    }
+  ]
+}

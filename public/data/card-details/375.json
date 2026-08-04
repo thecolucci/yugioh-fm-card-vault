@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dungeon-worm",
+    "capturedAt": "2026-07-22T17:07:53.965Z",
+    "contentHash": "31fdffa17ed1dadcee9fb1d6173fbbd1aeff8e103d329e40adfc373968315a4a",
+    "upstreamName": "Dungeon Worm",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "375",
+  "cardType": "Monster",
+  "description": "Hidden under the floors of a labyrinth, it swallows any who pass above.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/375.webm",
+    "localPath": "/game-assets/models/375.webm",
+    "width": 432,
+    "height": 436,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 7
+  },
+  "recipes": [
+    {
+      "left": "366",
+      "right": "393"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "375",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "375",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "375",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "375",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "375",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "375",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "375",
+      "boost": 500
+    }
+  ]
+}

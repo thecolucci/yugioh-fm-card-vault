@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sangan",
+    "capturedAt": "2026-07-22T17:03:21.981Z",
+    "contentHash": "9d31950e69676917336a85d98792822f5cb297817f8c41101d366d5e7d9c5103",
+    "upstreamName": "Sangan",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "048",
+  "cardType": "Monster",
+  "description": "A compact, three-eyed monster that is dangerous when faced in the dark.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/48.webm",
+    "localPath": "/game-assets/models/048.webm",
+    "width": 182,
+    "height": 161,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 15,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "048",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "048",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "048",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "048",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "048",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "048",
+      "boost": 500
+    }
+  ]
+}

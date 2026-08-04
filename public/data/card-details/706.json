@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/serpent-night-dragon",
+    "capturedAt": "2026-07-22T17:08:47.628Z",
+    "contentHash": "177f8c19d61b0d0240a69f1633a42e1730eb780003c0b3e94164d26d0b2d68fd",
+    "upstreamName": "Serpent Night Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "706",
+  "cardType": "Monster",
+  "description": "A dragon created from the soul of a wicked knight.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/706.webm",
+    "localPath": "/game-assets/models/706.webm",
+    "width": 1116,
+    "height": 404,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 3
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "016",
+      "result": "069"
+    },
+    {
+      "partner": "045",
+      "result": "613"
+    },
+    {
+      "partner": "191",
+      "result": "613"
+    },
+    {
+      "partner": "211",
+      "result": "613"
+    },
+    {
+      "partner": "371",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "458",
+      "result": "613"
+    },
+    {
+      "partner": "459",
+      "result": "613"
+    },
+    {
+      "partner": "460",
+      "result": "613"
+    },
+    {
+      "partner": "461",
+      "result": "613"
+    },
+    {
+      "partner": "462",
+      "result": "613"
+    },
+    {
+      "partner": "463",
+      "result": "613"
+    },
+    {
+      "partner": "537",
+      "result": "613"
+    },
+    {
+      "partner": "610",
+      "result": "613"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "706",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "706",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "706",
+      "boost": 500
+    }
+  ]
+}

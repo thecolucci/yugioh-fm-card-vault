@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/deepsea-shark",
+    "capturedAt": "2026-07-22T17:08:04.591Z",
+    "contentHash": "7a64ce8e9391ce3a4129d4daaec64b971685ec5cb274ad3b3a1f2b966367f025",
+    "upstreamName": "Deepsea Shark",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "437",
+  "cardType": "Monster",
+  "description": "A violent shark that attacks anything in the sea.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/437.webm",
+    "localPath": "/game-assets/models/437.webm",
+    "width": 564,
+    "height": 174,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "437",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "437",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "437",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "437",
+      "boost": 500
+    }
+  ]
+}

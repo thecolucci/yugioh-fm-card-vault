@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/red-medicine",
+    "capturedAt": "2026-07-22T17:07:47.837Z",
+    "contentHash": "52988a1afdf692dedd6a56a002b5da4db655c63abab6be5844f04b59979769f6",
+    "upstreamName": "Red Medicine",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "339",
+  "cardType": "Magic",
+  "description": "A magic potion that increases Life Points by 500!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "339",
+      "result": "340"
+    }
+  ],
+  "equips": []
+}

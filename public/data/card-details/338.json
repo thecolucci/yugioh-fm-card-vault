@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mooyan-curry",
+    "capturedAt": "2026-07-22T17:07:47.620Z",
+    "contentHash": "a9bb80ac70b47e8aaf797f01bfd38199904dd4b859319d2876c40cb2ddd69789",
+    "upstreamName": "Mooyan Curry",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "338",
+  "cardType": "Magic",
+  "description": "A delicious beef curry increases Life Points by 200!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 5,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "315",
+      "result": "329"
+    },
+    {
+      "partner": "323",
+      "result": "677"
+    },
+    {
+      "partner": "338",
+      "result": "688"
+    },
+    {
+      "partner": "343",
+      "result": "326"
+    },
+    {
+      "partner": "434",
+      "result": "376"
+    }
+  ],
+  "equips": []
+}

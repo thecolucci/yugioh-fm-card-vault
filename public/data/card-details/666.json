@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/yamadron-ritual",
+    "capturedAt": "2026-07-22T17:08:24.417Z",
+    "contentHash": "25495e7678b9923b8457ab302ef4f23fe2da65d623c19de8a8e4c96254e59eaa",
+    "upstreamName": "Yamadron Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "666",
+  "cardType": "Ritual",
+  "description": "Sacrifices Beast-Warrior, Dragon, and Pyro monsters to summon Yamadron.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "315",
+      "right": "318"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

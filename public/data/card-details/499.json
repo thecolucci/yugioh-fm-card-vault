@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kattapillar",
+    "capturedAt": "2026-07-22T17:08:11.015Z",
+    "contentHash": "c574a6c0736b035777651e63b57cbb11a6eb2aa8cc421fd7605cfc3087e994bd",
+    "upstreamName": "Kattapillar",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "499",
+  "cardType": "Monster",
+  "description": "Attacks by blowing webs at its enemies. Nobody knows what the final form of this insect might be.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/499.webm",
+    "localPath": "/game-assets/models/499.webm",
+    "width": 634,
+    "height": 171,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "499",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "499",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "499",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "499",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "499",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "499",
+      "boost": 500
+    }
+  ]
+}

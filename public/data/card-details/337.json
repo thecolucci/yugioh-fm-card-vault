@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/raigeki",
+    "capturedAt": "2026-07-22T17:07:47.481Z",
+    "contentHash": "f10b050e80b3d65803404ead860ea60ab0ba2a920c5af34585eff91f81177645",
+    "upstreamName": "Raigeki",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "337",
+  "cardType": "Magic",
+  "description": "Destroys every opposing monster with a stroke of lightning!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "316",
+      "right": "658"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "318",
+      "result": "324"
+    }
+  ],
+  "equips": []
+}

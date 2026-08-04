@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/giant-red-seasnake",
+    "capturedAt": "2026-07-22T17:08:04.697Z",
+    "contentHash": "51e83a3cefdcbfe615a8903e5725fe7549ec3ec22f962daba97bdd11262c4dbb",
+    "upstreamName": "Giant Red Seasnake",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "447",
+  "cardType": "Monster",
+  "description": "A sea serpent that bites anything that passes nearby.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/447.webm",
+    "localPath": "/game-assets/models/447.webm",
+    "width": 942,
+    "height": 302,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "275",
+      "result": "639"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "447",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "447",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "447",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "447",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "447",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "447",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "447",
+      "boost": 500
+    }
+  ]
+}

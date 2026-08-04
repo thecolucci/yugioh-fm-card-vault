@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sanga-of-the-thunder",
+    "capturedAt": "2026-07-22T17:07:52.947Z",
+    "contentHash": "db75e4fc6a7e584a47d8625c20c255609cd02a77b26cd985f2f473a5a6e4e4df",
+    "upstreamName": "Sanga of the Thunder",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "371",
+  "cardType": "Monster",
+  "description": "A golem that uses lightning attacks similar to the Labyrinth Brothers.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "PLUTO",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/371.webm",
+    "localPath": "/game-assets/models/371.webm",
+    "width": 612,
+    "height": 590,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 40,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "613"
+    },
+    {
+      "partner": "007",
+      "result": "613"
+    },
+    {
+      "partner": "010",
+      "result": "613"
+    },
+    {
+      "partner": "011",
+      "result": "613"
+    },
+    {
+      "partner": "031",
+      "result": "613"
+    },
+    {
+      "partner": "037",
+      "result": "613"
+    },
+    {
+      "partner": "039",
+      "result": "613"
+    },
+    {
+      "partner": "069",
+      "result": "613"
+    },
+    {
+      "partner": "073",
+      "result": "613"
+    },
+    {
+      "partner": "081",
+      "result": "613"
+    },
+    {
+      "partner": "082",
+      "result": "613"
+    },
+    {
+      "partner": "094",
+      "result": "613"
+    },
+    {
+      "partner": "097",
+      "result": "613"
+    },
+    {
+      "partner": "122",
+      "result": "613"
+    },
+    {
+      "partner": "138",
+      "result": "613"
+    },
+    {
+      "partner": "168",
+      "result": "613"
+    },
+    {
+      "partner": "200",
+      "result": "613"
+    },
+    {
+      "partner": "296",
+      "result": "613"
+    },
+    {
+      "partner": "298",
+      "result": "613"
+    },
+    {
+      "partner": "353",
+      "result": "613"
+    },
+    {
+      "partner": "357",
+      "result": "613"
+    },
+    {
+      "partner": "358",
+      "result": "613"
+    },
+    {
+      "partner": "383",
+      "result": "613"
+    },
+    {
+      "partner": "386",
+      "result": "613"
+    },
+    {
+      "partner": "409",
+      "result": "613"
+    },
+    {
+      "partner": "424",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "426",
+      "result": "613"
+    },
+    {
+      "partner": "427",
+      "result": "613"
+    },
+    {
+      "partner": "442",
+      "result": "613"
+    },
+    {
+      "partner": "443",
+      "result": "613"
+    },
+    {
+      "partner": "448",
+      "result": "613"
+    },
+    {
+      "partner": "545",
+      "result": "613"
+    },
+    {
+      "partner": "555",
+      "result": "613"
+    },
+    {
+      "partner": "561",
+      "result": "613"
+    },
+    {
+      "partner": "571",
+      "result": "613"
+    },
+    {
+      "partner": "603",
+      "result": "613"
+    },
+    {
+      "partner": "706",
+      "result": "613"
+    },
+    {
+      "partner": "711",
+      "result": "613"
+    },
+    {
+      "partner": "712",
+      "result": "613"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "371",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "371",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "371",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "371",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "371",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "371",
+      "boost": 500
+    }
+  ]
+}

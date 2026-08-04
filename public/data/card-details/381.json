@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/toon-alligator",
+    "capturedAt": "2026-07-22T17:07:55.130Z",
+    "contentHash": "3b4ec0f8b2cf8511423499ce9c3a585144a12cb93396b97021de90484bd72b1a",
+    "upstreamName": "Toon Alligator",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "381",
+  "cardType": "Monster",
+  "description": "An alligator monster straight from the cartoons.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/381.webm",
+    "localPath": "/game-assets/models/381.webm",
+    "width": 506,
+    "height": 238,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 22,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "008",
+      "result": "620"
+    },
+    {
+      "partner": "075",
+      "result": "620"
+    },
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "123",
+      "result": "620"
+    },
+    {
+      "partner": "157",
+      "result": "620"
+    },
+    {
+      "partner": "158",
+      "result": "620"
+    },
+    {
+      "partner": "180",
+      "result": "620"
+    },
+    {
+      "partner": "191",
+      "result": "610"
+    },
+    {
+      "partner": "211",
+      "result": "610"
+    },
+    {
+      "partner": "238",
+      "result": "620"
+    },
+    {
+      "partner": "273",
+      "result": "620"
+    },
+    {
+      "partner": "274",
+      "result": "620"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "463",
+      "result": "610"
+    },
+    {
+      "partner": "488",
+      "result": "620"
+    },
+    {
+      "partner": "510",
+      "result": "620"
+    },
+    {
+      "partner": "537",
+      "result": "610"
+    },
+    {
+      "partner": "547",
+      "result": "620"
+    },
+    {
+      "partner": "579",
+      "result": "620"
+    },
+    {
+      "partner": "588",
+      "result": "620"
+    },
+    {
+      "partner": "589",
+      "result": "620"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "304",
+      "result": "381",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "381",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "381",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "381",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "381",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "381",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "381",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "381",
+      "boost": 500
+    }
+  ]
+}

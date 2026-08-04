@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/giganto",
+    "capturedAt": "2026-07-22T17:08:00.587Z",
+    "contentHash": "5c2b3108ed20f2f931cd453e9b62261e27c6197e660836a393d035a2335a8536",
+    "upstreamName": "Giganto",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "419",
+  "cardType": "Monster",
+  "description": "This creature swings around a huge spiked ball to destroy its enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/419.webm",
+    "localPath": "/game-assets/models/419.webm",
+    "width": 500,
+    "height": 285,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 32,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "304",
+      "result": "419",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "419",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "419",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "419",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "419",
+      "boost": 500
+    }
+  ]
+}

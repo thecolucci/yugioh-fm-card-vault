@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/fiend-kraken",
+    "capturedAt": "2026-07-22T17:04:02.618Z",
+    "contentHash": "67b5c3dc8cbe284273a29ce94bc69fd15b655272d7e2d6c0bb6d88597f40677f",
+    "upstreamName": "Fiend Kraken",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "070",
+  "cardType": "Monster",
+  "description": "A massive squid that suddenly appears from the depths of the sea to attack unwary enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/70.webm",
+    "localPath": "/game-assets/models/070.webm",
+    "width": 798,
+    "height": 421,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 50,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "448"
+    },
+    {
+      "partner": "007",
+      "result": "448"
+    },
+    {
+      "partner": "010",
+      "result": "448"
+    },
+    {
+      "partner": "011",
+      "result": "073"
+    },
+    {
+      "partner": "031",
+      "result": "448"
+    },
+    {
+      "partner": "040",
+      "result": "519"
+    },
+    {
+      "partner": "045",
+      "result": "460"
+    },
+    {
+      "partner": "081",
+      "result": "073"
+    },
+    {
+      "partner": "094",
+      "result": "073"
+    },
+    {
+      "partner": "097",
+      "result": "073"
+    },
+    {
+      "partner": "101",
+      "result": "519"
+    },
+    {
+      "partner": "122",
+      "result": "448"
+    },
+    {
+      "partner": "133",
+      "result": "519"
+    },
+    {
+      "partner": "138",
+      "result": "448"
+    },
+    {
+      "partner": "142",
+      "result": "519"
+    },
+    {
+      "partner": "154",
+      "result": "519"
+    },
+    {
+      "partner": "157",
+      "result": "519"
+    },
+    {
+      "partner": "168",
+      "result": "448"
+    },
+    {
+      "partner": "172",
+      "result": "519"
+    },
+    {
+      "partner": "176",
+      "result": "519"
+    },
+    {
+      "partner": "191",
+      "result": "460"
+    },
+    {
+      "partner": "200",
+      "result": "448"
+    },
+    {
+      "partner": "210",
+      "result": "519"
+    },
+    {
+      "partner": "211",
+      "result": "460"
+    },
+    {
+      "partner": "214",
+      "result": "519"
+    },
+    {
+      "partner": "215",
+      "result": "519"
+    },
+    {
+      "partner": "242",
+      "result": "519"
+    },
+    {
+      "partner": "244",
+      "result": "519"
+    },
+    {
+      "partner": "272",
+      "result": "519"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "291",
+      "result": "519"
+    },
+    {
+      "partner": "292",
+      "result": "647"
+    },
+    {
+      "partner": "296",
+      "result": "448"
+    },
+    {
+      "partner": "298",
+      "result": "448"
+    },
+    {
+      "partner": "353",
+      "result": "448"
+    },
+    {
+      "partner": "357",
+      "result": "073"
+    },
+    {
+      "partner": "417",
+      "result": "519"
+    },
+    {
+      "partner": "425",
+      "result": "073"
+    },
+    {
+      "partner": "448",
+      "result": "073"
+    },
+    {
+      "partner": "450",
+      "result": "647"
+    },
+    {
+      "partner": "459",
+      "result": "460"
+    },
+    {
+      "partner": "461",
+      "result": "460"
+    },
+    {
+      "partner": "463",
+      "result": "460"
+    },
+    {
+      "partner": "537",
+      "result": "460"
+    },
+    {
+      "partner": "545",
+      "result": "073"
+    },
+    {
+      "partner": "555",
+      "result": "073"
+    },
+    {
+      "partner": "561",
+      "result": "448"
+    },
+    {
+      "partner": "603",
+      "result": "448"
+    },
+    {
+      "partner": "610",
+      "result": "460"
+    },
+    {
+      "partner": "644",
+      "result": "519"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "324",
+      "result": "070",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "070",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "070",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "070",
+      "boost": 500
+    }
+  ]
+}

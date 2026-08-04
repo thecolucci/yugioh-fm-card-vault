@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/guardian-of-the-sea",
+    "capturedAt": "2026-07-22T17:08:04.460Z",
+    "contentHash": "7e01e043449fd404c377829342857c4d2be0679493dc4851f5b581d7c38fc19c",
+    "upstreamName": "Guardian of the Sea",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "445",
+  "cardType": "Monster",
+  "description": "A merman warrior that attacks anyone who dares to pollute the sea.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/445.webm",
+    "localPath": "/game-assets/models/445.webm",
+    "width": 440,
+    "height": 380,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 33,
+    "equips": 3
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "448"
+    },
+    {
+      "partner": "007",
+      "result": "448"
+    },
+    {
+      "partner": "010",
+      "result": "448"
+    },
+    {
+      "partner": "011",
+      "result": "073"
+    },
+    {
+      "partner": "031",
+      "result": "448"
+    },
+    {
+      "partner": "045",
+      "result": "460"
+    },
+    {
+      "partner": "081",
+      "result": "073"
+    },
+    {
+      "partner": "094",
+      "result": "073"
+    },
+    {
+      "partner": "097",
+      "result": "073"
+    },
+    {
+      "partner": "122",
+      "result": "448"
+    },
+    {
+      "partner": "138",
+      "result": "448"
+    },
+    {
+      "partner": "168",
+      "result": "448"
+    },
+    {
+      "partner": "191",
+      "result": "460"
+    },
+    {
+      "partner": "200",
+      "result": "448"
+    },
+    {
+      "partner": "211",
+      "result": "460"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "292",
+      "result": "647"
+    },
+    {
+      "partner": "296",
+      "result": "448"
+    },
+    {
+      "partner": "298",
+      "result": "448"
+    },
+    {
+      "partner": "353",
+      "result": "448"
+    },
+    {
+      "partner": "357",
+      "result": "073"
+    },
+    {
+      "partner": "425",
+      "result": "073"
+    },
+    {
+      "partner": "448",
+      "result": "073"
+    },
+    {
+      "partner": "450",
+      "result": "647"
+    },
+    {
+      "partner": "459",
+      "result": "460"
+    },
+    {
+      "partner": "461",
+      "result": "460"
+    },
+    {
+      "partner": "463",
+      "result": "460"
+    },
+    {
+      "partner": "537",
+      "result": "460"
+    },
+    {
+      "partner": "545",
+      "result": "073"
+    },
+    {
+      "partner": "555",
+      "result": "073"
+    },
+    {
+      "partner": "561",
+      "result": "448"
+    },
+    {
+      "partner": "603",
+      "result": "448"
+    },
+    {
+      "partner": "610",
+      "result": "460"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "328",
+      "result": "445",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "445",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "445",
+      "boost": 500
+    }
+  ]
+}

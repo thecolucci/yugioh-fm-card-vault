@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/blue-eyes-ultimate-dragon",
+    "capturedAt": "2026-07-22T17:07:55.001Z",
+    "contentHash": "b9860253ff6691ed74aaa259f1bdbd451bb1e1694ed43aa12e360915696bc3ea",
+    "upstreamName": "Blue-eyes Ultimate Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "380",
+  "cardType": "Monster",
+  "description": "The ultimate dragon formed by the fusion of three Blue-eyes White Dragons.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SUN",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/380.webm",
+    "localPath": "/game-assets/models/380.webm",
+    "width": 1710,
+    "height": 762,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 3
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "380",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "380",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "380",
+      "boost": 500
+    }
+  ]
+}

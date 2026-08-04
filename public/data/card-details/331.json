@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/wasteland",
+    "capturedAt": "2026-07-22T17:07:47.110Z",
+    "contentHash": "a704f8a3ee1e18b2deab9ba21d46d48b67d76944e117880c07e491d0ad08978b",
+    "upstreamName": "Wasteland",
+    "upstreamCardType": "FIELD"
+  },
+  "cardId": "331",
+  "cardType": "Field",
+  "description": "Changes the field in favor of Zombie, Dinosaur and Rock monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "330",
+      "right": "346"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "325",
+      "result": "699"
+    },
+    {
+      "partner": "327",
+      "result": "663"
+    }
+  ],
+  "equips": []
+}

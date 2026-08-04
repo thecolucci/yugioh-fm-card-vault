@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/hitotsu-me-giant",
+    "capturedAt": "2026-07-22T17:01:38.039Z",
+    "contentHash": "6282d80b6da25a9ce960ed26ed4676b25f7af41e59d39170ed6d5a1fba041304",
+    "upstreamName": "Hitotsu-me Giant",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "003",
+  "cardType": "Monster",
+  "description": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "MOON",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/3.webm",
+    "localPath": "/game-assets/models/003.webm",
+    "width": 212,
+    "height": 317,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 10,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "003",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "003",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "003",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "003",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "003",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "003",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "003",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "003",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/shadow-spell",
+    "capturedAt": "2026-07-22T17:08:24.688Z",
+    "contentHash": "df2d56fad463fb268883c6344bc9fdb4d9f21bfc84a3c26f79c29f88e3b1ac3b",
+    "upstreamName": "Shadow Spell",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "669",
+  "cardType": "Magic",
+  "description": "Decreases an opponent's in-play monsters by two levels.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "349",
+      "right": "349"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "350",
+      "result": "348"
+    }
+  ],
+  "equips": []
+}

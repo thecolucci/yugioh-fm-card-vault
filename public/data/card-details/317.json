@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/cyber-shield",
+    "capturedAt": "2026-07-22T17:07:45.500Z",
+    "contentHash": "97c67ced89a9e00d57f05d7b076e0d9ea1eefddc0ff72548daab8b5cff2b44aa",
+    "upstreamName": "Cyber Shield",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "317",
+  "cardType": "Equip",
+  "description": "Increases the power of female monsters by changing their attitudes.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 57
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "321",
+      "result": "698"
+    },
+    {
+      "partner": "376",
+      "result": "434"
+    },
+    {
+      "partner": "659",
+      "result": "676"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "002",
+      "result": "002",
+      "boost": 500
+    },
+    {
+      "partner": "062",
+      "result": "062",
+      "boost": 500
+    },
+    {
+      "partner": "063",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "090",
+      "result": "090",
+      "boost": 500
+    },
+    {
+      "partner": "106",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "109",
+      "result": "109",
+      "boost": 500
+    },
+    {
+      "partner": "128",
+      "result": "128",
+      "boost": 500
+    },
+    {
+      "partner": "129",
+      "result": "129",
+      "boost": 500
+    },
+    {
+      "partner": "170",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "180",
+      "result": "180",
+      "boost": 500
+    },
+    {
+      "partner": "192",
+      "result": "192",
+      "boost": 500
+    },
+    {
+      "partner": "216",
+      "result": "216",
+      "boost": 500
+    },
+    {
+      "partner": "234",
+      "result": "234",
+      "boost": 500
+    },
+    {
+      "partner": "239",
+      "result": "239",
+      "boost": 500
+    },
+    {
+      "partner": "243",
+      "result": "243",
+      "boost": 500
+    },
+    {
+      "partner": "249",
+      "result": "249",
+      "boost": 500
+    },
+    {
+      "partner": "251",
+      "result": "251",
+      "boost": 500
+    },
+    {
+      "partner": "253",
+      "result": "253",
+      "boost": 500
+    },
+    {
+      "partner": "260",
+      "result": "260",
+      "boost": 500
+    },
+    {
+      "partner": "266",
+      "result": "266",
+      "boost": 500
+    },
+    {
+      "partner": "280",
+      "result": "280",
+      "boost": 500
+    },
+    {
+      "partner": "299",
+      "result": "299",
+      "boost": 500
+    },
+    {
+      "partner": "395",
+      "result": "395",
+      "boost": 500
+    },
+    {
+      "partner": "428",
+      "result": "428",
+      "boost": 500
+    },
+    {
+      "partner": "429",
+      "result": "429",
+      "boost": 500
+    },
+    {
+      "partner": "430",
+      "result": "430",
+      "boost": 500
+    },
+    {
+      "partner": "431",
+      "result": "431",
+      "boost": 500
+    },
+    {
+      "partner": "432",
+      "result": "432",
+      "boost": 500
+    },
+    {
+      "partner": "433",
+      "result": "433",
+      "boost": 500
+    },
+    {
+      "partner": "434",
+      "result": "434",
+      "boost": 500
+    },
+    {
+      "partner": "435",
+      "result": "435",
+      "boost": 500
+    },
+    {
+      "partner": "494",
+      "result": "494",
+      "boost": 500
+    },
+    {
+      "partner": "530",
+      "result": "530",
+      "boost": 500
+    },
+    {
+      "partner": "531",
+      "result": "531",
+      "boost": 500
+    },
+    {
+      "partner": "532",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "551",
+      "result": "551",
+      "boost": 500
+    },
+    {
+      "partner": "572",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "574",
+      "result": "574",
+      "boost": 500
+    },
+    {
+      "partner": "582",
+      "result": "582",
+      "boost": 500
+    },
+    {
+      "partner": "592",
+      "result": "592",
+      "boost": 500
+    },
+    {
+      "partner": "594",
+      "result": "594",
+      "boost": 500
+    },
+    {
+      "partner": "600",
+      "result": "600",
+      "boost": 500
+    },
+    {
+      "partner": "612",
+      "result": "612",
+      "boost": 500
+    },
+    {
+      "partner": "618",
+      "result": "618",
+      "boost": 500
+    },
+    {
+      "partner": "621",
+      "result": "621",
+      "boost": 500
+    },
+    {
+      "partner": "622",
+      "result": "622",
+      "boost": 500
+    },
+    {
+      "partner": "625",
+      "result": "625",
+      "boost": 500
+    },
+    {
+      "partner": "626",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "627",
+      "result": "627",
+      "boost": 500
+    },
+    {
+      "partner": "628",
+      "result": "628",
+      "boost": 500
+    },
+    {
+      "partner": "631",
+      "result": "631",
+      "boost": 500
+    },
+    {
+      "partner": "635",
+      "result": "635",
+      "boost": 500
+    },
+    {
+      "partner": "638",
+      "result": "638",
+      "boost": 500
+    },
+    {
+      "partner": "641",
+      "result": "641",
+      "boost": 500
+    },
+    {
+      "partner": "649",
+      "result": "649",
+      "boost": 500
+    },
+    {
+      "partner": "701",
+      "result": "701",
+      "boost": 500
+    },
+    {
+      "partner": "708",
+      "result": "708",
+      "boost": 500
+    }
+  ]
+}

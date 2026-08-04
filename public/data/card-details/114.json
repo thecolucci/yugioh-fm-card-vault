@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/white-magical-hat",
+    "capturedAt": "2026-07-22T17:05:02.098Z",
+    "contentHash": "ccf6ce3473b737891b3c4ff4617d56dd343596c726a2fca633eaa2b75e8523c9",
+    "upstreamName": "White Magical Hat",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "114",
+  "cardType": "Monster",
+  "description": "A gentleman thief that eludes the law despite the fact that he sticks out like a sore thumb with his silk hat and white cape.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/114.webm",
+    "localPath": "/game-assets/models/114.webm",
+    "width": 340,
+    "height": 370,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 38,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "009",
+      "result": "470"
+    },
+    {
+      "partner": "024",
+      "result": "470"
+    },
+    {
+      "partner": "030",
+      "result": "470"
+    },
+    {
+      "partner": "045",
+      "result": "462"
+    },
+    {
+      "partner": "089",
+      "result": "449"
+    },
+    {
+      "partner": "108",
+      "result": "470"
+    },
+    {
+      "partner": "132",
+      "result": "470"
+    },
+    {
+      "partner": "135",
+      "result": "470"
+    },
+    {
+      "partner": "139",
+      "result": "470"
+    },
+    {
+      "partner": "146",
+      "result": "470"
+    },
+    {
+      "partner": "153",
+      "result": "470"
+    },
+    {
+      "partner": "154",
+      "result": "470"
+    },
+    {
+      "partner": "177",
+      "result": "449"
+    },
+    {
+      "partner": "191",
+      "result": "462"
+    },
+    {
+      "partner": "193",
+      "result": "449"
+    },
+    {
+      "partner": "197",
+      "result": "470"
+    },
+    {
+      "partner": "203",
+      "result": "470"
+    },
+    {
+      "partner": "211",
+      "result": "462"
+    },
+    {
+      "partner": "215",
+      "result": "470"
+    },
+    {
+      "partner": "228",
+      "result": "470"
+    },
+    {
+      "partner": "241",
+      "result": "470"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "359",
+      "result": "470"
+    },
+    {
+      "partner": "387",
+      "result": "149"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "462"
+    },
+    {
+      "partner": "460",
+      "result": "462"
+    },
+    {
+      "partner": "461",
+      "result": "462"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "462"
+    },
+    {
+      "partner": "503",
+      "result": "449"
+    },
+    {
+      "partner": "537",
+      "result": "462"
+    },
+    {
+      "partner": "539",
+      "result": "470"
+    },
+    {
+      "partner": "548",
+      "result": "470"
+    },
+    {
+      "partner": "556",
+      "result": "470"
+    },
+    {
+      "partner": "610",
+      "result": "462"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "316",
+      "result": "114",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "114",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "114",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "114",
+      "boost": 500
+    }
+  ]
+}

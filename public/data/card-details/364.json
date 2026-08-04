@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/black-luster-soldier",
+    "capturedAt": "2026-07-22T17:07:52.560Z",
+    "contentHash": "56ef143273a0d9199fb590f189101a17011cc8442d25438bef3c53dd90f0cf62",
+    "upstreamName": "Black Luster Soldier",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "364",
+  "cardType": "Monster",
+  "description": "A powerful warrior with the same capabilities as the legendary Blue-eyes White Dragon.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/364.webm",
+    "localPath": "/game-assets/models/364.webm",
+    "width": 312,
+    "height": 371,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "364",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "364",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "364",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "364",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "364",
+      "boost": 500
+    }
+  ]
+}

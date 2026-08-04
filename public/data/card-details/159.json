@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dig-beak",
+    "capturedAt": "2026-07-22T17:07:13.982Z",
+    "contentHash": "fe27e5f8cc789324d39cbb87448304c2c469927f0607901034db7364fba6da8d",
+    "upstreamName": "Dig Beak",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "159",
+  "cardType": "Monster",
+  "description": "Coiling its serpent-like body, this creature spins and attacks with its snapping beak.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/159.webm",
+    "localPath": "/game-assets/models/159.webm",
+    "width": 412,
+    "height": 245,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 41,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "459"
+    },
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "155",
+      "result": "587"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "177",
+      "result": "193"
+    },
+    {
+      "partner": "189",
+      "result": "483"
+    },
+    {
+      "partner": "191",
+      "result": "459"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "211",
+      "result": "459"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "404"
+    },
+    {
+      "partner": "251",
+      "result": "404"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "404"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "461",
+      "result": "459"
+    },
+    {
+      "partner": "463",
+      "result": "459"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "503",
+      "result": "193"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "537",
+      "result": "459"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "404"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "610",
+      "result": "459"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "404"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "159",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "159",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "159",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "159",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "159",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "159",
+      "boost": 500
+    }
+  ]
+}

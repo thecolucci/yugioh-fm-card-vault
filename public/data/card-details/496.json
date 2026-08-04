@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/wilmee",
+    "capturedAt": "2026-07-22T17:08:11.105Z",
+    "contentHash": "b090317fed3cc837ecd289afd262a67e771f076f2e1f70354f6b4cb7afa91892",
+    "upstreamName": "Wilmee",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "496",
+  "cardType": "Monster",
+  "description": "A ferocious rabbit with sharp claws.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/496.webm",
+    "localPath": "/game-assets/models/496.webm",
+    "width": 316,
+    "height": 278,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 39,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "459"
+    },
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "155",
+      "result": "587"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "189",
+      "result": "483"
+    },
+    {
+      "partner": "191",
+      "result": "459"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "211",
+      "result": "459"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "404"
+    },
+    {
+      "partner": "251",
+      "result": "404"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "404"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "461",
+      "result": "459"
+    },
+    {
+      "partner": "463",
+      "result": "459"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "537",
+      "result": "459"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "404"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "610",
+      "result": "459"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "404"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "496",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "496",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "496",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "496",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "496",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "496",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "496",
+      "boost": 500
+    }
+  ]
+}

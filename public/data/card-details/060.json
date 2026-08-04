@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/great-white",
+    "capturedAt": "2026-07-22T17:03:41.062Z",
+    "contentHash": "4398facbfee3be67bfc3bebf0acbef991a6a0f982676575f265daf6c4a62a2a5",
+    "upstreamName": "Great White",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "060",
+  "cardType": "Monster",
+  "description": "A giant white shark with razor-sharp teeth.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/60.webm",
+    "localPath": "/game-assets/models/060.webm",
+    "width": 308,
+    "height": 429,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 39,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "023",
+      "result": "617"
+    },
+    {
+      "partner": "046",
+      "result": "617"
+    },
+    {
+      "partner": "047",
+      "result": "617"
+    },
+    {
+      "partner": "061",
+      "result": "617"
+    },
+    {
+      "partner": "065",
+      "result": "617"
+    },
+    {
+      "partner": "091",
+      "result": "617"
+    },
+    {
+      "partner": "113",
+      "result": "617"
+    },
+    {
+      "partner": "121",
+      "result": "617"
+    },
+    {
+      "partner": "155",
+      "result": "617"
+    },
+    {
+      "partner": "159",
+      "result": "617"
+    },
+    {
+      "partner": "163",
+      "result": "617"
+    },
+    {
+      "partner": "187",
+      "result": "617"
+    },
+    {
+      "partner": "188",
+      "result": "617"
+    },
+    {
+      "partner": "189",
+      "result": "617"
+    },
+    {
+      "partner": "201",
+      "result": "617"
+    },
+    {
+      "partner": "202",
+      "result": "617"
+    },
+    {
+      "partner": "212",
+      "result": "617"
+    },
+    {
+      "partner": "248",
+      "result": "617"
+    },
+    {
+      "partner": "252",
+      "result": "617"
+    },
+    {
+      "partner": "255",
+      "result": "617"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "282",
+      "result": "617"
+    },
+    {
+      "partner": "384",
+      "result": "617"
+    },
+    {
+      "partner": "404",
+      "result": "617"
+    },
+    {
+      "partner": "481",
+      "result": "617"
+    },
+    {
+      "partner": "488",
+      "result": "440"
+    },
+    {
+      "partner": "492",
+      "result": "440"
+    },
+    {
+      "partner": "494",
+      "result": "440"
+    },
+    {
+      "partner": "496",
+      "result": "617"
+    },
+    {
+      "partner": "527",
+      "result": "617"
+    },
+    {
+      "partner": "528",
+      "result": "617"
+    },
+    {
+      "partner": "541",
+      "result": "617"
+    },
+    {
+      "partner": "587",
+      "result": "617"
+    },
+    {
+      "partner": "597",
+      "result": "617"
+    },
+    {
+      "partner": "598",
+      "result": "617"
+    },
+    {
+      "partner": "604",
+      "result": "617"
+    },
+    {
+      "partner": "607",
+      "result": "617"
+    },
+    {
+      "partner": "629",
+      "result": "617"
+    },
+    {
+      "partner": "642",
+      "result": "617"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "060",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "060",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "060",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "060",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dark-magic-ritual",
+    "capturedAt": "2026-07-22T17:08:48.176Z",
+    "contentHash": "fc96c1c90213d81667bc0f156d66df18c6e6d233963f30d41ba1f119b8cef2d4",
+    "upstreamName": "Dark Magic Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "721",
+  "cardType": "Ritual",
+  "description": "Ceremony for summoning the Magician of Black Chaos. Sacrifice required.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": []
+}

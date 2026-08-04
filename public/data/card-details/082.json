@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/red-eyes-b_-dragon",
+    "capturedAt": "2026-07-22T17:04:04.810Z",
+    "contentHash": "5435fb5ab82ebee18a6cfee3508ce4945ebbf9d222f26bfbdd3819251d22a8cc",
+    "upstreamName": "Red-eyes B. Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "082",
+  "cardType": "Monster",
+  "description": "A very rare card with a high-level ATK factor.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "MOON",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/82.webm",
+    "localPath": "/game-assets/models/082.webm",
+    "width": 1944,
+    "height": 574,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 3,
+    "fusions": 15,
+    "equips": 3
+  },
+  "recipes": [
+    {
+      "left": "010",
+      "right": "555"
+    },
+    {
+      "left": "168",
+      "right": "555"
+    },
+    {
+      "left": "555",
+      "right": "571"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "022",
+      "result": "217"
+    },
+    {
+      "partner": "045",
+      "result": "613"
+    },
+    {
+      "partner": "191",
+      "result": "613"
+    },
+    {
+      "partner": "211",
+      "result": "613"
+    },
+    {
+      "partner": "371",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "458",
+      "result": "613"
+    },
+    {
+      "partner": "459",
+      "result": "613"
+    },
+    {
+      "partner": "460",
+      "result": "613"
+    },
+    {
+      "partner": "461",
+      "result": "613"
+    },
+    {
+      "partner": "462",
+      "result": "613"
+    },
+    {
+      "partner": "463",
+      "result": "613"
+    },
+    {
+      "partner": "537",
+      "result": "613"
+    },
+    {
+      "partner": "610",
+      "result": "613"
+    },
+    {
+      "partner": "712",
+      "result": "713"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "082",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "082",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "082",
+      "boost": 500
+    }
+  ]
+}

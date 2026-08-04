@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/skullbird",
+    "capturedAt": "2026-07-22T17:08:11.828Z",
+    "contentHash": "0f6b65e5f1886bdeda085fbb0c66328547d0d83dfef97376e9065427eeacb991",
+    "upstreamName": "Skullbird",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "521",
+  "cardType": "Monster",
+  "description": "The breath from this bird robs creatures of their life force.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SATURN",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/521.webm",
+    "localPath": "/game-assets/models/521.webm",
+    "width": 424,
+    "height": 293,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 29,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "521",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "521",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "521",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "521",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "521",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "521",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "521",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "521",
+      "boost": 500
+    }
+  ]
+}

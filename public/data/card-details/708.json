@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/cosmo-queen",
+    "capturedAt": "2026-07-22T17:08:47.891Z",
+    "contentHash": "bc8227e0ebb29f6ac87e1c02d86eb572488faff535e9afb70c5719b009531030",
+    "upstreamName": "Cosmo Queen",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "708",
+  "cardType": "Monster",
+  "description": "A queen who rules over all the stars in the universe.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "VENUS",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/708.webm",
+    "localPath": "/game-assets/models/708.webm",
+    "width": 188,
+    "height": 314,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "306",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "307",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "312",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "708",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "708",
+      "boost": 500
+    }
+  ]
+}

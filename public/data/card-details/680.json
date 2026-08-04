@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/curse-of-tri-horned-dragon",
+    "capturedAt": "2026-07-22T17:08:26.584Z",
+    "contentHash": "2a30fee8447d6adc2bca45f0b20c24b6891d7a26d92950a2d4d2aad178905acc",
+    "upstreamName": "Curse of Tri-Horned Dragon",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "680",
+  "cardType": "Ritual",
+  "description": "Sacrifice a horned monster to summon Tri-Horned Dragon.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "313",
+      "right": "318"
+    },
+    {
+      "left": "314",
+      "right": "318"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

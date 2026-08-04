@@ -1,0 +1,656 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/tatsunootoshigo",
+    "capturedAt": "2026-07-22T17:07:59.866Z",
+    "contentHash": "c3c2afcf7db82cbfa8b49593f8fee2b14b76530bf708dc222f305e58a69c7fa6",
+    "upstreamName": "Tatsunootoshigo",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "404",
+  "cardType": "Monster",
+  "description": "A fast-moving sea monster that has the bodies of a horse and a fish.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/404.webm",
+    "localPath": "/game-assets/models/404.webm",
+    "width": 666,
+    "height": 249,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 115,
+    "fusions": 32,
+    "equips": 5
+  },
+  "recipes": [
+    {
+      "left": "046",
+      "right": "247"
+    },
+    {
+      "left": "046",
+      "right": "436"
+    },
+    {
+      "left": "046",
+      "right": "546"
+    },
+    {
+      "left": "047",
+      "right": "247"
+    },
+    {
+      "left": "047",
+      "right": "436"
+    },
+    {
+      "left": "047",
+      "right": "546"
+    },
+    {
+      "left": "061",
+      "right": "247"
+    },
+    {
+      "left": "061",
+      "right": "436"
+    },
+    {
+      "left": "061",
+      "right": "546"
+    },
+    {
+      "left": "065",
+      "right": "247"
+    },
+    {
+      "left": "065",
+      "right": "436"
+    },
+    {
+      "left": "065",
+      "right": "546"
+    },
+    {
+      "left": "091",
+      "right": "247"
+    },
+    {
+      "left": "091",
+      "right": "436"
+    },
+    {
+      "left": "091",
+      "right": "546"
+    },
+    {
+      "left": "113",
+      "right": "247"
+    },
+    {
+      "left": "113",
+      "right": "436"
+    },
+    {
+      "left": "113",
+      "right": "546"
+    },
+    {
+      "left": "121",
+      "right": "247"
+    },
+    {
+      "left": "121",
+      "right": "436"
+    },
+    {
+      "left": "121",
+      "right": "546"
+    },
+    {
+      "left": "155",
+      "right": "247"
+    },
+    {
+      "left": "155",
+      "right": "251"
+    },
+    {
+      "left": "155",
+      "right": "436"
+    },
+    {
+      "left": "155",
+      "right": "546"
+    },
+    {
+      "left": "155",
+      "right": "626"
+    },
+    {
+      "left": "159",
+      "right": "247"
+    },
+    {
+      "left": "159",
+      "right": "251"
+    },
+    {
+      "left": "159",
+      "right": "436"
+    },
+    {
+      "left": "159",
+      "right": "546"
+    },
+    {
+      "left": "159",
+      "right": "626"
+    },
+    {
+      "left": "163",
+      "right": "247"
+    },
+    {
+      "left": "163",
+      "right": "251"
+    },
+    {
+      "left": "163",
+      "right": "436"
+    },
+    {
+      "left": "163",
+      "right": "546"
+    },
+    {
+      "left": "163",
+      "right": "626"
+    },
+    {
+      "left": "187",
+      "right": "247"
+    },
+    {
+      "left": "187",
+      "right": "251"
+    },
+    {
+      "left": "187",
+      "right": "436"
+    },
+    {
+      "left": "187",
+      "right": "546"
+    },
+    {
+      "left": "187",
+      "right": "626"
+    },
+    {
+      "left": "188",
+      "right": "247"
+    },
+    {
+      "left": "188",
+      "right": "436"
+    },
+    {
+      "left": "188",
+      "right": "546"
+    },
+    {
+      "left": "189",
+      "right": "247"
+    },
+    {
+      "left": "189",
+      "right": "436"
+    },
+    {
+      "left": "189",
+      "right": "546"
+    },
+    {
+      "left": "201",
+      "right": "247"
+    },
+    {
+      "left": "201",
+      "right": "436"
+    },
+    {
+      "left": "201",
+      "right": "546"
+    },
+    {
+      "left": "202",
+      "right": "247"
+    },
+    {
+      "left": "202",
+      "right": "436"
+    },
+    {
+      "left": "202",
+      "right": "546"
+    },
+    {
+      "left": "212",
+      "right": "247"
+    },
+    {
+      "left": "212",
+      "right": "251"
+    },
+    {
+      "left": "212",
+      "right": "436"
+    },
+    {
+      "left": "212",
+      "right": "546"
+    },
+    {
+      "left": "212",
+      "right": "626"
+    },
+    {
+      "left": "247",
+      "right": "248"
+    },
+    {
+      "left": "247",
+      "right": "252"
+    },
+    {
+      "left": "247",
+      "right": "255"
+    },
+    {
+      "left": "247",
+      "right": "282"
+    },
+    {
+      "left": "247",
+      "right": "384"
+    },
+    {
+      "left": "247",
+      "right": "481"
+    },
+    {
+      "left": "247",
+      "right": "496"
+    },
+    {
+      "left": "247",
+      "right": "527"
+    },
+    {
+      "left": "247",
+      "right": "541"
+    },
+    {
+      "left": "247",
+      "right": "587"
+    },
+    {
+      "left": "247",
+      "right": "598"
+    },
+    {
+      "left": "247",
+      "right": "604"
+    },
+    {
+      "left": "247",
+      "right": "607"
+    },
+    {
+      "left": "247",
+      "right": "629"
+    },
+    {
+      "left": "247",
+      "right": "642"
+    },
+    {
+      "left": "248",
+      "right": "436"
+    },
+    {
+      "left": "248",
+      "right": "546"
+    },
+    {
+      "left": "251",
+      "right": "252"
+    },
+    {
+      "left": "251",
+      "right": "384"
+    },
+    {
+      "left": "251",
+      "right": "496"
+    },
+    {
+      "left": "251",
+      "right": "541"
+    },
+    {
+      "left": "251",
+      "right": "587"
+    },
+    {
+      "left": "251",
+      "right": "607"
+    },
+    {
+      "left": "252",
+      "right": "436"
+    },
+    {
+      "left": "252",
+      "right": "546"
+    },
+    {
+      "left": "252",
+      "right": "626"
+    },
+    {
+      "left": "255",
+      "right": "436"
+    },
+    {
+      "left": "255",
+      "right": "546"
+    },
+    {
+      "left": "282",
+      "right": "436"
+    },
+    {
+      "left": "282",
+      "right": "546"
+    },
+    {
+      "left": "384",
+      "right": "436"
+    },
+    {
+      "left": "384",
+      "right": "546"
+    },
+    {
+      "left": "384",
+      "right": "626"
+    },
+    {
+      "left": "436",
+      "right": "481"
+    },
+    {
+      "left": "436",
+      "right": "496"
+    },
+    {
+      "left": "436",
+      "right": "527"
+    },
+    {
+      "left": "436",
+      "right": "541"
+    },
+    {
+      "left": "436",
+      "right": "587"
+    },
+    {
+      "left": "436",
+      "right": "598"
+    },
+    {
+      "left": "436",
+      "right": "604"
+    },
+    {
+      "left": "436",
+      "right": "607"
+    },
+    {
+      "left": "436",
+      "right": "629"
+    },
+    {
+      "left": "436",
+      "right": "642"
+    },
+    {
+      "left": "481",
+      "right": "546"
+    },
+    {
+      "left": "496",
+      "right": "546"
+    },
+    {
+      "left": "496",
+      "right": "626"
+    },
+    {
+      "left": "527",
+      "right": "546"
+    },
+    {
+      "left": "541",
+      "right": "546"
+    },
+    {
+      "left": "541",
+      "right": "626"
+    },
+    {
+      "left": "546",
+      "right": "587"
+    },
+    {
+      "left": "546",
+      "right": "598"
+    },
+    {
+      "left": "546",
+      "right": "604"
+    },
+    {
+      "left": "546",
+      "right": "607"
+    },
+    {
+      "left": "546",
+      "right": "629"
+    },
+    {
+      "left": "546",
+      "right": "642"
+    },
+    {
+      "left": "587",
+      "right": "626"
+    },
+    {
+      "left": "607",
+      "right": "626"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "189",
+      "result": "483"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "230"
+    },
+    {
+      "partner": "251",
+      "result": "230"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "230"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "230"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "230"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "404",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "404",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "404",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "404",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "404",
+      "boost": 500
+    }
+  ]
+}

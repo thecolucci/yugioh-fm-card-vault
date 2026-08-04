@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mountain-warrior",
+    "capturedAt": "2026-07-22T17:01:40.666Z",
+    "contentHash": "657ef4062b8daa397fd03af98d522f5e2c9fba7dc2fd0334fd21d0f027bcbeaa",
+    "upstreamName": "Mountain Warrior",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "029",
+  "cardType": "Monster",
+  "description": "A solid warrior that can move swiftly over rough terrain.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/29.webm",
+    "localPath": "/game-assets/models/029.webm",
+    "width": 532,
+    "height": 389,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "029",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "029",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "029",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "029",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "029",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "029",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "029",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/great-moth",
+    "capturedAt": "2026-07-22T17:03:41.085Z",
+    "contentHash": "9981c90657fecea27d00579a07c65cca120011e0026e53c3685909e93ff7bee8",
+    "upstreamName": "Great Moth",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "057",
+  "cardType": "Monster",
+  "description": "A powerful creature of the forest, this huge moth attacks its enemies by spreading poison dust with its wings.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/57.webm",
+    "localPath": "/game-assets/models/057.webm",
+    "width": 789,
+    "height": 443,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "057",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "057",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "057",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "057",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "057",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "057",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "057",
+      "boost": 500
+    }
+  ]
+}

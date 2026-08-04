@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/anthrosaurus",
+    "capturedAt": "2026-07-22T17:08:14.350Z",
+    "contentHash": "57560ce0f5a3d062539ab88122a940fb46cd90a56d11f8dbff867b0128c7566e",
+    "upstreamName": "Anthrosaurus",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "568",
+  "cardType": "Monster",
+  "description": "Man-like dinosaur lacking in strength, but with a high I.Q.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/568.webm",
+    "localPath": "/game-assets/models/568.webm",
+    "width": 460,
+    "height": 269,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 34,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "124",
+      "result": "508"
+    },
+    {
+      "partner": "275",
+      "result": "508"
+    },
+    {
+      "partner": "283",
+      "result": "508"
+    },
+    {
+      "partner": "286",
+      "result": "508"
+    },
+    {
+      "partner": "297",
+      "result": "508"
+    },
+    {
+      "partner": "355",
+      "result": "508"
+    },
+    {
+      "partner": "388",
+      "result": "508"
+    },
+    {
+      "partner": "394",
+      "result": "508"
+    },
+    {
+      "partner": "405",
+      "result": "508"
+    },
+    {
+      "partner": "406",
+      "result": "508"
+    },
+    {
+      "partner": "408",
+      "result": "508"
+    },
+    {
+      "partner": "410",
+      "result": "508"
+    },
+    {
+      "partner": "411",
+      "result": "508"
+    },
+    {
+      "partner": "412",
+      "result": "508"
+    },
+    {
+      "partner": "413",
+      "result": "508"
+    },
+    {
+      "partner": "414",
+      "result": "508"
+    },
+    {
+      "partner": "416",
+      "result": "508"
+    },
+    {
+      "partner": "417",
+      "result": "508"
+    },
+    {
+      "partner": "418",
+      "result": "508"
+    },
+    {
+      "partner": "419",
+      "result": "508"
+    },
+    {
+      "partner": "420",
+      "result": "508"
+    },
+    {
+      "partner": "421",
+      "result": "508"
+    },
+    {
+      "partner": "422",
+      "result": "508"
+    },
+    {
+      "partner": "423",
+      "result": "508"
+    },
+    {
+      "partner": "438",
+      "result": "508"
+    },
+    {
+      "partner": "512",
+      "result": "508"
+    },
+    {
+      "partner": "513",
+      "result": "508"
+    },
+    {
+      "partner": "514",
+      "result": "508"
+    },
+    {
+      "partner": "544",
+      "result": "508"
+    },
+    {
+      "partner": "557",
+      "result": "508"
+    },
+    {
+      "partner": "580",
+      "result": "508"
+    },
+    {
+      "partner": "585",
+      "result": "508"
+    },
+    {
+      "partner": "643",
+      "result": "508"
+    },
+    {
+      "partner": "648",
+      "result": "508"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "306",
+      "result": "568",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "568",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "568",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "568",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "568",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "568",
+      "boost": 500
+    }
+  ]
+}

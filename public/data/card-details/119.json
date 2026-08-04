@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/trial-of-nightmares",
+    "capturedAt": "2026-07-22T17:05:41.836Z",
+    "contentHash": "6da5bb522a035a3000aeefae1ad1687712ca2e11c5ccd041816ef7ef5595bc01",
+    "upstreamName": "Trial of Nightmares",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "119",
+  "cardType": "Monster",
+  "description": "Passes judgment on enemies that are locked in coffins.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/119.webm",
+    "localPath": "/game-assets/models/119.webm",
+    "width": 282,
+    "height": 212,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 12,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "119",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "119",
+      "boost": 500
+    }
+  ]
+}

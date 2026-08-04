@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/soul-hunter",
+    "capturedAt": "2026-07-22T17:08:05.780Z",
+    "contentHash": "5bc4dc405c7f77696f6d165d750fe5209f5442dccec2fc340824cf1406165272",
+    "upstreamName": "Soul Hunter",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "471",
+  "cardType": "Monster",
+  "description": "This clown feeds the life force of its enemies to a monstrous lizard.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/471.webm",
+    "localPath": "/game-assets/models/471.webm",
+    "width": 855,
+    "height": 424,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 24,
+    "fusions": 1,
+    "equips": 8
+  },
+  "recipes": [
+    {
+      "left": "051",
+      "right": "095"
+    },
+    {
+      "left": "051",
+      "right": "098"
+    },
+    {
+      "left": "076",
+      "right": "095"
+    },
+    {
+      "left": "076",
+      "right": "098"
+    },
+    {
+      "left": "077",
+      "right": "095"
+    },
+    {
+      "left": "077",
+      "right": "098"
+    },
+    {
+      "left": "095",
+      "right": "285"
+    },
+    {
+      "left": "095",
+      "right": "381"
+    },
+    {
+      "left": "095",
+      "right": "400"
+    },
+    {
+      "left": "095",
+      "right": "475"
+    },
+    {
+      "left": "095",
+      "right": "536"
+    },
+    {
+      "left": "095",
+      "right": "566"
+    },
+    {
+      "left": "095",
+      "right": "569"
+    },
+    {
+      "left": "095",
+      "right": "590"
+    },
+    {
+      "left": "095",
+      "right": "630"
+    },
+    {
+      "left": "098",
+      "right": "285"
+    },
+    {
+      "left": "098",
+      "right": "381"
+    },
+    {
+      "left": "098",
+      "right": "400"
+    },
+    {
+      "left": "098",
+      "right": "475"
+    },
+    {
+      "left": "098",
+      "right": "536"
+    },
+    {
+      "left": "098",
+      "right": "566"
+    },
+    {
+      "left": "098",
+      "right": "569"
+    },
+    {
+      "left": "098",
+      "right": "590"
+    },
+    {
+      "left": "098",
+      "right": "630"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "471",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "471",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "471",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "471",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "471",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "471",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "471",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "471",
+      "boost": 500
+    }
+  ]
+}

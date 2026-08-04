@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kuwagata-",
+    "capturedAt": "2026-07-22T17:08:05.868Z",
+    "contentHash": "b007521c5ab386287bb033ebdcedef36f6cbafe6df41dc3e3cb5ac55037c0821",
+    "upstreamName": "Kuwagata α",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "480",
+  "cardType": "Monster",
+  "description": "A violent stag beetle with a razor-like cutter.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/480.webm",
+    "localPath": "/game-assets/models/480.webm",
+    "width": 362,
+    "height": 447,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 31,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "049",
+      "result": "533"
+    },
+    {
+      "partner": "050",
+      "result": "533"
+    },
+    {
+      "partner": "052",
+      "result": "533"
+    },
+    {
+      "partner": "053",
+      "result": "533"
+    },
+    {
+      "partner": "054",
+      "result": "533"
+    },
+    {
+      "partner": "055",
+      "result": "533"
+    },
+    {
+      "partner": "056",
+      "result": "533"
+    },
+    {
+      "partner": "072",
+      "result": "533"
+    },
+    {
+      "partner": "116",
+      "result": "533"
+    },
+    {
+      "partner": "141",
+      "result": "533"
+    },
+    {
+      "partner": "209",
+      "result": "533"
+    },
+    {
+      "partner": "221",
+      "result": "533"
+    },
+    {
+      "partner": "278",
+      "result": "533"
+    },
+    {
+      "partner": "375",
+      "result": "533"
+    },
+    {
+      "partner": "397",
+      "result": "533"
+    },
+    {
+      "partner": "476",
+      "result": "533"
+    },
+    {
+      "partner": "477",
+      "result": "533"
+    },
+    {
+      "partner": "478",
+      "result": "533"
+    },
+    {
+      "partner": "479",
+      "result": "533"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "485",
+      "result": "533"
+    },
+    {
+      "partner": "499",
+      "result": "533"
+    },
+    {
+      "partner": "501",
+      "result": "533"
+    },
+    {
+      "partner": "506",
+      "result": "533"
+    },
+    {
+      "partner": "534",
+      "result": "533"
+    },
+    {
+      "partner": "535",
+      "result": "533"
+    },
+    {
+      "partner": "562",
+      "result": "533"
+    },
+    {
+      "partner": "576",
+      "result": "533"
+    },
+    {
+      "partner": "609",
+      "result": "533"
+    },
+    {
+      "partner": "614",
+      "result": "533"
+    },
+    {
+      "partner": "640",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "304",
+      "result": "480",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "480",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "480",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "480",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "480",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "480",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "480",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "480",
+      "boost": 500
+    }
+  ]
+}

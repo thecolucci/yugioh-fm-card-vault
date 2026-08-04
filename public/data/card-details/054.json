@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/gokibore",
+    "capturedAt": "2026-07-22T17:03:22.563Z",
+    "contentHash": "ca75fc16f141b360d2abbf90cd4a778ac77f434b61f2328628ab4810571d16e5",
+    "upstreamName": "Gokibore",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "054",
+  "cardType": "Monster",
+  "description": "A large, spherical roach that attacks its enemies by rolling over them. Its tough defense makes it a formidable foe.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/54.webm",
+    "localPath": "/game-assets/models/054.webm",
+    "width": 194,
+    "height": 113,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "054",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "054",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "054",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "054",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "054",
+      "boost": 500
+    }
+  ]
+}

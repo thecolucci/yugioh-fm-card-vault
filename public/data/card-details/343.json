@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sparks",
+    "capturedAt": "2026-07-22T17:07:48.385Z",
+    "contentHash": "7712f9ae98ce0d08d2919c00e810a684439cca49ec6b0ebbcffe6be5c01a846d",
+    "upstreamName": "Sparks",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "343",
+  "cardType": "Magic",
+  "description": "A shower of sparks inflicts 50 points of damage to your opponent's Life Points!!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "301",
+      "result": "654"
+    },
+    {
+      "partner": "338",
+      "result": "326"
+    },
+    {
+      "partner": "343",
+      "result": "344"
+    }
+  ],
+  "equips": []
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/emperor-of-the-land-and-sea",
+    "capturedAt": "2026-07-22T17:07:57.185Z",
+    "contentHash": "6ea5c90848098687b0c2f48d375603447f1bd788a6a19ed7fa8c974bbef8e84e",
+    "upstreamName": "Emperor of the Land and Sea",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "400",
+  "cardType": "Monster",
+  "description": "A fire-breathing reptilian monster.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/400.webm",
+    "localPath": "/game-assets/models/400.webm",
+    "width": 788,
+    "height": 185,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "400",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "400",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "400",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "yugioh-fm-card-vault",
+  "version": "0.0.82",
+  "description": "Card Vault interativo de Yu-Gi-Oh! Forbidden Memories para consulta de cartas, fusões, custos e dados de duelo.",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Colucci Design & Comunicação Ltda",
+  "keywords": [
+    "yu-gi-oh",
+    "forbidden-memories",
+    "card-book",
+    "fusion",
+    "starchips"
+  ],
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "vinext dev",
+    "build": "vinext build",
+    "start": "vinext start",
+    "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "details:routes": "node scripts/build-fusion-routes.mjs",
+    "details:capture": "node scripts/capture-fusion-cards.mjs",
+    "details:normalize": "node scripts/normalize-fusion-details.mjs",
+    "details:audit": "node scripts/audit-fusion-details.mjs",
+    "details:audit-guardians": "node scripts/audit-guardian-stars.mjs",
+    "details:publish": "node scripts/publish-card-details.mjs",
+    "details:refresh-fields": "node scripts/refresh-card-field-manifest.mjs",
+    "cards:repair-fronts": "node scripts/repair-card-fronts.mjs --publish"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "1.37.1",
+    "@tailwindcss/postcss": "4.2.1",
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.0.2",
+    "@vitejs/plugin-rsc": "0.5.26",
+    "eslint": "9.39.4",
+    "eslint-config-next": "16.2.6",
+    "react-server-dom-webpack": "19.2.6",
+    "tailwindcss": "4.2.1",
+    "typescript": "5.9.3",
+    "vinext": "0.0.50",
+    "vite": "8.0.13",
+    "wrangler": "4.92.0"
+  },
+  "type": "module",
+  "packageManager": "pnpm@11.9.0"
+}

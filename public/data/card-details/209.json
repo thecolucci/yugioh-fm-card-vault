@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/winged-cleaver",
+    "capturedAt": "2026-07-22T17:07:25.373Z",
+    "contentHash": "a6c30a3b35167f2371956e30c7d8a804b9f86da5be63807ff1c9325802e7f312",
+    "upstreamName": "Winged Cleaver",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "209",
+  "cardType": "Monster",
+  "description": "This creature attacks by swinging around its sickle-like arms.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/209.webm",
+    "localPath": "/game-assets/models/209.webm",
+    "width": 361,
+    "height": 223,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "209",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "209",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "209",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "209",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "209",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "209",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "209",
+      "boost": 500
+    }
+  ]
+}

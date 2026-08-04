@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/suijin",
+    "capturedAt": "2026-07-22T17:07:54.543Z",
+    "contentHash": "701b60702c3b91089efb8d16d32a79ab1bd1f103bc4e12f5e238d6a8d3e719ca",
+    "upstreamName": "Suijin",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "373",
+  "cardType": "Monster",
+  "description": "A golem that uses water attacks like the Labyrinth Brothers.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/373.webm",
+    "localPath": "/game-assets/models/373.webm",
+    "width": 832,
+    "height": 438,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "373",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "373",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "373",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "373",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "373",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "373",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sinister-serpent",
+    "capturedAt": "2026-07-22T17:08:05.837Z",
+    "contentHash": "7aeebbb2535aa4ac55633ca4f193887be378d29acb896fbae1ce1ffbe6e7742e",
+    "upstreamName": "Sinister Serpent",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "475",
+  "cardType": "Monster",
+  "description": "A flying poison snake that is not very good at maneuvering on the ground.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/475.webm",
+    "localPath": "/game-assets/models/475.webm",
+    "width": 468,
+    "height": 370,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 23,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "008",
+      "result": "620"
+    },
+    {
+      "partner": "075",
+      "result": "620"
+    },
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "123",
+      "result": "620"
+    },
+    {
+      "partner": "157",
+      "result": "620"
+    },
+    {
+      "partner": "158",
+      "result": "620"
+    },
+    {
+      "partner": "180",
+      "result": "620"
+    },
+    {
+      "partner": "191",
+      "result": "610"
+    },
+    {
+      "partner": "211",
+      "result": "610"
+    },
+    {
+      "partner": "238",
+      "result": "620"
+    },
+    {
+      "partner": "273",
+      "result": "620"
+    },
+    {
+      "partner": "274",
+      "result": "620"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "463",
+      "result": "610"
+    },
+    {
+      "partner": "469",
+      "result": "485"
+    },
+    {
+      "partner": "488",
+      "result": "620"
+    },
+    {
+      "partner": "510",
+      "result": "620"
+    },
+    {
+      "partner": "537",
+      "result": "610"
+    },
+    {
+      "partner": "547",
+      "result": "620"
+    },
+    {
+      "partner": "579",
+      "result": "620"
+    },
+    {
+      "partner": "588",
+      "result": "620"
+    },
+    {
+      "partner": "589",
+      "result": "620"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "475",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "475",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "475",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "475",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "475",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "475",
+      "boost": 500
+    }
+  ]
+}

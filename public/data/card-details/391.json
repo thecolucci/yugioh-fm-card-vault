@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/zoa",
+    "capturedAt": "2026-07-22T17:07:56.505Z",
+    "contentHash": "c79053ee1ed9288858ab9b09b423f173dbc35cab0aa88f7497fa406c26d0b51b",
+    "upstreamName": "Zoa",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "391",
+  "cardType": "Monster",
+  "description": "A monster whose full potential can be achieved when transformed into its metal form.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/391.webm",
+    "localPath": "/game-assets/models/391.webm",
+    "width": 962,
+    "height": 411,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "658",
+      "result": "392"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "391",
+      "boost": 1000
+    },
+    {
+      "partner": "658",
+      "result": "391",
+      "boost": 500
+    },
+    {
+      "partner": "668",
+      "result": "391",
+      "boost": 500
+    }
+  ]
+}

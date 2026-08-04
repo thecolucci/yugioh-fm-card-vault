@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/final-flame",
+    "capturedAt": "2026-07-22T17:07:48.314Z",
+    "contentHash": "c2da47a737f4163ae7ac63256ef41df6e5646ec24909714371225339e587024a",
+    "upstreamName": "Final Flame",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "345",
+  "cardType": "Magic",
+  "description": "Flames inflict 200 points of damage to your opponent's Life Points!!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 5,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "344",
+      "right": "344"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "095",
+      "result": "098"
+    },
+    {
+      "partner": "177",
+      "result": "309"
+    },
+    {
+      "partner": "345",
+      "result": "346"
+    },
+    {
+      "partner": "398",
+      "result": "308"
+    },
+    {
+      "partner": "432",
+      "result": "073"
+    }
+  ],
+  "equips": []
+}

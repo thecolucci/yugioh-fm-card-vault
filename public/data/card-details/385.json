@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/bickuribox",
+    "capturedAt": "2026-07-22T17:07:55.849Z",
+    "contentHash": "e992835d81cd138309f2d0304d4b4c829f6dd8b98be8deecbeafd970fbee03ab",
+    "upstreamName": "Bickuribox",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "385",
+  "cardType": "Monster",
+  "description": "A jack-in-the-box that excels in surprise attacks.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/385.webm",
+    "localPath": "/game-assets/models/385.webm",
+    "width": 428,
+    "height": 323,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "385",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "385",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "385",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "385",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "385",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "385",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "385",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "385",
+      "boost": 500
+    }
+  ]
+}

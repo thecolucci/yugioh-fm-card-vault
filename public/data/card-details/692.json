@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/turtle-oath",
+    "capturedAt": "2026-07-22T17:08:26.610Z",
+    "contentHash": "c67c2f0d2086a51218b3b664f8604a2c5a9c34858db5c8d92fe3344d6b35a67e",
+    "upstreamName": "Turtle Oath",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "692",
+  "cardType": "Ritual",
+  "description": "Sacrifice crab and turtle to summon Crab Turtle.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "309",
+      "right": "690"
+    },
+    {
+      "left": "328",
+      "right": "334"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

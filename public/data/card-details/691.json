@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/revived-of-serpent-night-dragon",
+    "capturedAt": "2026-07-22T17:08:28.204Z",
+    "contentHash": "13eab71931287ea98863114596aaf024784d4a7f19ed40b5ad4e74e344b2a494",
+    "upstreamName": "Revived of Serpent Night Dragon",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "691",
+  "cardType": "Ritual",
+  "description": "Select a specific monster for sacrifice and summon Serpent Night Dragon.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "303",
+      "right": "315"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

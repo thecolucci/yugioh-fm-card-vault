@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/great-mammoth-of-goldfine",
+    "capturedAt": "2026-07-22T17:08:13.929Z",
+    "contentHash": "063b5469ffea2e6f075096451f2d2fb214c5eb16251b97b0020d7473a58f00c9",
+    "upstreamName": "Great Mammoth of Goldfine",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "564",
+  "cardType": "Monster",
+  "description": "A very unusual skeletal zombie elephant with glowing gold bones.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "MOON",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/564.webm",
+    "localPath": "/game-assets/models/564.webm",
+    "width": 874,
+    "height": 379,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 30,
+    "fusions": 0,
+    "equips": 5
+  },
+  "recipes": [
+    {
+      "left": "009",
+      "right": "059"
+    },
+    {
+      "left": "024",
+      "right": "059"
+    },
+    {
+      "left": "030",
+      "right": "059"
+    },
+    {
+      "left": "036",
+      "right": "059"
+    },
+    {
+      "left": "059",
+      "right": "096"
+    },
+    {
+      "left": "059",
+      "right": "097"
+    },
+    {
+      "left": "059",
+      "right": "098"
+    },
+    {
+      "left": "059",
+      "right": "099"
+    },
+    {
+      "left": "059",
+      "right": "108"
+    },
+    {
+      "left": "059",
+      "right": "132"
+    },
+    {
+      "left": "059",
+      "right": "135"
+    },
+    {
+      "left": "059",
+      "right": "139"
+    },
+    {
+      "left": "059",
+      "right": "146"
+    },
+    {
+      "left": "059",
+      "right": "153"
+    },
+    {
+      "left": "059",
+      "right": "154"
+    },
+    {
+      "left": "059",
+      "right": "197"
+    },
+    {
+      "left": "059",
+      "right": "203"
+    },
+    {
+      "left": "059",
+      "right": "215"
+    },
+    {
+      "left": "059",
+      "right": "228"
+    },
+    {
+      "left": "059",
+      "right": "241"
+    },
+    {
+      "left": "059",
+      "right": "351"
+    },
+    {
+      "left": "059",
+      "right": "359"
+    },
+    {
+      "left": "059",
+      "right": "368"
+    },
+    {
+      "left": "059",
+      "right": "470"
+    },
+    {
+      "left": "059",
+      "right": "539"
+    },
+    {
+      "left": "059",
+      "right": "545"
+    },
+    {
+      "left": "059",
+      "right": "548"
+    },
+    {
+      "left": "059",
+      "right": "556"
+    },
+    {
+      "left": "059",
+      "right": "596"
+    },
+    {
+      "left": "059",
+      "right": "719"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "564",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "564",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "564",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "564",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "564",
+      "boost": 500
+    }
+  ]
+}

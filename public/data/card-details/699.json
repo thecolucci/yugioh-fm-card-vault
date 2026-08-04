@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/revival-of-skeleton-rider",
+    "capturedAt": "2026-07-22T17:08:47.554Z",
+    "contentHash": "d6ea71f03327444e10878ea4c1a4e90a3480d815d31bedde3a376510f516d275",
+    "upstreamName": "Revival of Skeleton Rider",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "699",
+  "cardType": "Ritual",
+  "description": "Sacrifice Temple and Cockroach to summon Dokurorider.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "325",
+      "right": "331"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

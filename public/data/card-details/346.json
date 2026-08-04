@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ookazi",
+    "capturedAt": "2026-07-22T17:07:49.720Z",
+    "contentHash": "667cbe3d15dca77bd260e5b4a62b90b76d938d8c1c9c84893757dea29117b110",
+    "upstreamName": "Ookazi",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "346",
+  "cardType": "Magic",
+  "description": "Flames inflict 500 points of damage to your opponent's Life Points!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "345",
+      "right": "345"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "330",
+      "result": "331"
+    },
+    {
+      "partner": "346",
+      "result": "347"
+    }
+  ],
+  "equips": []
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kazejin",
+    "capturedAt": "2026-07-22T17:07:53.257Z",
+    "contentHash": "022611d12be3493a12c7b7812d6dfeec9e95939e83c3ea8c2dbb2eeb24cc5b3c",
+    "upstreamName": "Kazejin",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "372",
+  "cardType": "Monster",
+  "description": "A golem that controls the winds like the Labyrinth Brothers.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SATURN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/372.webm",
+    "localPath": "/game-assets/models/372.webm",
+    "width": 590,
+    "height": 349,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "372",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "372",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "372",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "372",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "372",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "372",
+      "boost": 500
+    }
+  ]
+}

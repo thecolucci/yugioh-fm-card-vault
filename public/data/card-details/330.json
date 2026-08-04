@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/forest",
+    "capturedAt": "2026-07-22T16:46:09.990Z",
+    "contentHash": "b6cf1974835e4a53a0dc4a20504d678b1c9f2c14485a2ac6f1655c137b8bb1fa",
+    "upstreamName": "Forest",
+    "upstreamCardType": "FIELD"
+  },
+  "cardId": "330",
+  "cardType": "Field",
+  "description": "Changes the field in favor of Beast-Warrior, Insect, Plant, and Beast monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 3,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "310",
+      "right": "657"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "328",
+      "result": "696"
+    },
+    {
+      "partner": "346",
+      "result": "331"
+    },
+    {
+      "partner": "661",
+      "result": "310"
+    }
+  ],
+  "equips": []
+}

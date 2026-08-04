@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/zera-ritual",
+    "capturedAt": "2026-07-22T17:08:24.676Z",
+    "contentHash": "7b81dc56aab53fe9499570cd9b5421f6b824f1da0ee5687678e96eddb7b98228",
+    "upstreamName": "Zera Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "671",
+  "cardType": "Ritual",
+  "description": "Ceremony conducted to summon Zera. Sacrifice required.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "303",
+      "right": "321"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

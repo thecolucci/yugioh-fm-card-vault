@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kuriboh",
+    "capturedAt": "2026-07-22T17:03:40.936Z",
+    "contentHash": "ba44eeaf480a6a05b35731b84401ced67c8d41fe454d9f8b9feccda9f0fb1965",
+    "upstreamName": "Kuriboh",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "058",
+  "cardType": "Monster",
+  "description": "By itself, this small creature may not seem like much. But in the dark, it attacks in numbers as a formidable force.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/58.webm",
+    "localPath": "/game-assets/models/058.webm",
+    "width": 158,
+    "height": 156,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 17,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "024",
+      "result": "009"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "318",
+      "result": "310"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "058",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "058",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "058",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "058",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "058",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "058",
+      "boost": 500
+    }
+  ]
+}

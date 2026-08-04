@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/eatgaboon",
+    "capturedAt": "2026-07-22T17:08:26.515Z",
+    "contentHash": "df13dce1de32948df0036fafdac59a33954142d004aa99d6542d28bc7f4ff257",
+    "upstreamName": "Eatgaboon",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "682",
+  "cardType": "Trap",
+  "description": "Monsters with Attack Factors of 1000 or lower are eliminated from the play field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "308",
+      "right": "308"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "062",
+      "result": "672"
+    },
+    {
+      "partner": "063",
+      "result": "672"
+    }
+  ],
+  "equips": []
+}

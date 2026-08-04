@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/eternal-draught",
+    "capturedAt": "2026-07-22T17:08:24.385Z",
+    "contentHash": "352e414e6fcdc60cb04a7c4715038e2cf6d34a6cf35eb57057eeb8da39123945",
+    "upstreamName": "Eternal Draught",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "664",
+  "cardType": "Magic",
+  "description": "A blast of heat dries up and eliminates an opponent's Fish monsters that are currently in play.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 3,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "319",
+      "right": "334"
+    },
+    {
+      "left": "334",
+      "right": "336"
+    },
+    {
+      "left": "334",
+      "right": "347"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

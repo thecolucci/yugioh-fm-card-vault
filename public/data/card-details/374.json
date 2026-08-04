@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/gate-guardian",
+    "capturedAt": "2026-07-22T17:07:53.687Z",
+    "contentHash": "89139cadcf3ff3c37ecdb805b3eb4281fcef45c8f44adf5857c95d75701fc0b3",
+    "upstreamName": "Gate Guardian",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "374",
+  "cardType": "Monster",
+  "description": "Sanga, Kazejin, and Suijin join to form a single, powerful monster.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "MOON",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/374.webm",
+    "localPath": "/game-assets/models/374.webm",
+    "width": 671,
+    "height": 546,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "374",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "374",
+      "boost": 500
+    }
+  ]
+}

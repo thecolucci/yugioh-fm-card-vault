@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/b_-skull-dragon",
+    "capturedAt": "2026-07-22T17:07:26.073Z",
+    "contentHash": "15008c629ed911df96fef109433e64c721da0578452aee75accf87257f22d759",
+    "upstreamName": "B. Skull Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "217",
+  "cardType": "Monster",
+  "description": "A very rare creature created from the fusion of an uncommon beast and a vicious dragon.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/217.webm",
+    "localPath": "/game-assets/models/217.webm",
+    "width": 768,
+    "height": 453,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 3
+  },
+  "recipes": [
+    {
+      "left": "022",
+      "right": "082"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "217",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "217",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "217",
+      "boost": 500
+    }
+  ]
+}

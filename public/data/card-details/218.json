@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/two-mouth-darkruler",
+    "capturedAt": "2026-07-22T17:07:26.160Z",
+    "contentHash": "cb8d0b4b6d3c5e9c7e644decb4e6940d713cc38bdcdaaa634396a9d86fff3b1d",
+    "upstreamName": "Two-mouth Darkruler",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "218",
+  "cardType": "Monster",
+  "description": "A dinosaur with two crushing jaws. Stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/218.webm",
+    "localPath": "/game-assets/models/218.webm",
+    "width": 684,
+    "height": 314,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 45,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "124",
+      "result": "508"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "275",
+      "result": "508"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "283",
+      "result": "508"
+    },
+    {
+      "partner": "286",
+      "result": "508"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "297",
+      "result": "508"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "355",
+      "result": "508"
+    },
+    {
+      "partner": "388",
+      "result": "508"
+    },
+    {
+      "partner": "394",
+      "result": "508"
+    },
+    {
+      "partner": "405",
+      "result": "508"
+    },
+    {
+      "partner": "406",
+      "result": "508"
+    },
+    {
+      "partner": "408",
+      "result": "508"
+    },
+    {
+      "partner": "410",
+      "result": "508"
+    },
+    {
+      "partner": "411",
+      "result": "508"
+    },
+    {
+      "partner": "412",
+      "result": "508"
+    },
+    {
+      "partner": "413",
+      "result": "508"
+    },
+    {
+      "partner": "414",
+      "result": "508"
+    },
+    {
+      "partner": "416",
+      "result": "508"
+    },
+    {
+      "partner": "417",
+      "result": "508"
+    },
+    {
+      "partner": "418",
+      "result": "508"
+    },
+    {
+      "partner": "419",
+      "result": "508"
+    },
+    {
+      "partner": "420",
+      "result": "508"
+    },
+    {
+      "partner": "421",
+      "result": "508"
+    },
+    {
+      "partner": "422",
+      "result": "508"
+    },
+    {
+      "partner": "423",
+      "result": "508"
+    },
+    {
+      "partner": "438",
+      "result": "508"
+    },
+    {
+      "partner": "512",
+      "result": "508"
+    },
+    {
+      "partner": "513",
+      "result": "508"
+    },
+    {
+      "partner": "514",
+      "result": "508"
+    },
+    {
+      "partner": "544",
+      "result": "508"
+    },
+    {
+      "partner": "557",
+      "result": "508"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "580",
+      "result": "508"
+    },
+    {
+      "partner": "585",
+      "result": "508"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    },
+    {
+      "partner": "643",
+      "result": "508"
+    },
+    {
+      "partner": "648",
+      "result": "508"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "218",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "218",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "218",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "218",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "218",
+      "boost": 500
+    }
+  ]
+}

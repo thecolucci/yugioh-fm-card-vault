@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kwagar-hercules",
+    "capturedAt": "2026-07-22T17:08:12.813Z",
+    "contentHash": "02504673cae835dafdcfc1de9a8d70eaf1bb968e20af2d52182783a1fc05388b",
+    "upstreamName": "Kwagar Hercules",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "533",
+  "cardType": "Monster",
+  "description": "An insect monster with the jaws of a stag beetle and the horn of a beetle.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/533.webm",
+    "localPath": "/game-assets/models/533.webm",
+    "width": 453,
+    "height": 184,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 31,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [
+    {
+      "left": "049",
+      "right": "480"
+    },
+    {
+      "left": "050",
+      "right": "480"
+    },
+    {
+      "left": "052",
+      "right": "480"
+    },
+    {
+      "left": "053",
+      "right": "480"
+    },
+    {
+      "left": "054",
+      "right": "480"
+    },
+    {
+      "left": "055",
+      "right": "480"
+    },
+    {
+      "left": "056",
+      "right": "480"
+    },
+    {
+      "left": "072",
+      "right": "480"
+    },
+    {
+      "left": "116",
+      "right": "480"
+    },
+    {
+      "left": "141",
+      "right": "480"
+    },
+    {
+      "left": "209",
+      "right": "480"
+    },
+    {
+      "left": "221",
+      "right": "480"
+    },
+    {
+      "left": "278",
+      "right": "480"
+    },
+    {
+      "left": "375",
+      "right": "480"
+    },
+    {
+      "left": "397",
+      "right": "480"
+    },
+    {
+      "left": "476",
+      "right": "480"
+    },
+    {
+      "left": "477",
+      "right": "480"
+    },
+    {
+      "left": "478",
+      "right": "480"
+    },
+    {
+      "left": "479",
+      "right": "480"
+    },
+    {
+      "left": "480",
+      "right": "480"
+    },
+    {
+      "left": "480",
+      "right": "485"
+    },
+    {
+      "left": "480",
+      "right": "499"
+    },
+    {
+      "left": "480",
+      "right": "501"
+    },
+    {
+      "left": "480",
+      "right": "506"
+    },
+    {
+      "left": "480",
+      "right": "534"
+    },
+    {
+      "left": "480",
+      "right": "535"
+    },
+    {
+      "left": "480",
+      "right": "562"
+    },
+    {
+      "left": "480",
+      "right": "576"
+    },
+    {
+      "left": "480",
+      "right": "609"
+    },
+    {
+      "left": "480",
+      "right": "614"
+    },
+    {
+      "left": "480",
+      "right": "640"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "533",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "533",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "533",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "533",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "533",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "533",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "533",
+      "boost": 500
+    }
+  ]
+}

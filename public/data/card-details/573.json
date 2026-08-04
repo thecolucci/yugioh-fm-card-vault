@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/little-d",
+    "capturedAt": "2026-07-22T17:08:14.194Z",
+    "contentHash": "c3da254513145a69c6a6c642a49be07d3f22cc65f9c94b9651a36c2e348b8d5a",
+    "upstreamName": "Little D",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "573",
+  "cardType": "Monster",
+  "description": "A very ferocious monster spawned from a T-Rex.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/573.webm",
+    "localPath": "/game-assets/models/573.webm",
+    "width": 1085,
+    "height": 298,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 34,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "124",
+      "result": "508"
+    },
+    {
+      "partner": "275",
+      "result": "508"
+    },
+    {
+      "partner": "283",
+      "result": "508"
+    },
+    {
+      "partner": "286",
+      "result": "508"
+    },
+    {
+      "partner": "297",
+      "result": "508"
+    },
+    {
+      "partner": "355",
+      "result": "508"
+    },
+    {
+      "partner": "388",
+      "result": "508"
+    },
+    {
+      "partner": "394",
+      "result": "508"
+    },
+    {
+      "partner": "405",
+      "result": "508"
+    },
+    {
+      "partner": "406",
+      "result": "508"
+    },
+    {
+      "partner": "408",
+      "result": "508"
+    },
+    {
+      "partner": "410",
+      "result": "508"
+    },
+    {
+      "partner": "411",
+      "result": "508"
+    },
+    {
+      "partner": "412",
+      "result": "508"
+    },
+    {
+      "partner": "413",
+      "result": "508"
+    },
+    {
+      "partner": "414",
+      "result": "508"
+    },
+    {
+      "partner": "416",
+      "result": "508"
+    },
+    {
+      "partner": "417",
+      "result": "508"
+    },
+    {
+      "partner": "418",
+      "result": "508"
+    },
+    {
+      "partner": "419",
+      "result": "508"
+    },
+    {
+      "partner": "420",
+      "result": "508"
+    },
+    {
+      "partner": "421",
+      "result": "508"
+    },
+    {
+      "partner": "422",
+      "result": "508"
+    },
+    {
+      "partner": "423",
+      "result": "508"
+    },
+    {
+      "partner": "438",
+      "result": "508"
+    },
+    {
+      "partner": "512",
+      "result": "508"
+    },
+    {
+      "partner": "513",
+      "result": "508"
+    },
+    {
+      "partner": "514",
+      "result": "508"
+    },
+    {
+      "partner": "544",
+      "result": "508"
+    },
+    {
+      "partner": "557",
+      "result": "508"
+    },
+    {
+      "partner": "580",
+      "result": "508"
+    },
+    {
+      "partner": "585",
+      "result": "508"
+    },
+    {
+      "partner": "643",
+      "result": "508"
+    },
+    {
+      "partner": "648",
+      "result": "508"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "573",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "573",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "573",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "573",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "573",
+      "boost": 500
+    }
+  ]
+}

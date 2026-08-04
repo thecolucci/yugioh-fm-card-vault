@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/magician-of-black-chaos",
+    "capturedAt": "2026-07-22T16:46:11.985Z",
+    "contentHash": "53f808216c1a7c6c3e7d476936d8dc029da764a0c96d62d0b3e85ebb728b523f",
+    "upstreamName": "Magician of Black Chaos",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "722",
+  "cardType": "Monster",
+  "description": "The ultimate magic-user, who wields the power of chaos borne from the fusion of Dark and Light.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/722.webm",
+    "localPath": "/game-assets/models/722.webm",
+    "width": 432,
+    "height": 401,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "307",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "722",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "722",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "722",
+      "boost": 500
+    }
+  ]
+}

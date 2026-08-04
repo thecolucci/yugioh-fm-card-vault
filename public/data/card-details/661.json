@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/crush-card",
+    "capturedAt": "2026-07-22T17:08:25.082Z",
+    "contentHash": "670a9748da4924de3c6789a55a4df143b9b7e65868f2aae6a86d88ce02e38838",
+    "upstreamName": "Crush Card",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "661",
+  "cardType": "Magic",
+  "description": "Opponent monsters in play with attack factors of 1500 or more are eliminated.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "310",
+      "right": "658"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "330",
+      "result": "310"
+    }
+  ],
+  "equips": []
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/aqua-dragon",
+    "capturedAt": "2026-07-22T17:08:04.577Z",
+    "contentHash": "3d07acfd2d1567d718f5c0243fdc8fa830a6fb6e8bcd923079edec2db83abbdb",
+    "upstreamName": "Aqua Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "442",
+  "cardType": "Monster",
+  "description": "A dragon that dwells in the sea. It is capable of spitting high-pressure blasts of water.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/442.webm",
+    "localPath": "/game-assets/models/442.webm",
+    "width": 830,
+    "height": 363,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "016",
+      "result": "069"
+    },
+    {
+      "partner": "045",
+      "result": "613"
+    },
+    {
+      "partner": "191",
+      "result": "613"
+    },
+    {
+      "partner": "211",
+      "result": "613"
+    },
+    {
+      "partner": "371",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "458",
+      "result": "613"
+    },
+    {
+      "partner": "459",
+      "result": "613"
+    },
+    {
+      "partner": "460",
+      "result": "613"
+    },
+    {
+      "partner": "461",
+      "result": "613"
+    },
+    {
+      "partner": "462",
+      "result": "613"
+    },
+    {
+      "partner": "463",
+      "result": "613"
+    },
+    {
+      "partner": "537",
+      "result": "613"
+    },
+    {
+      "partner": "610",
+      "result": "613"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "442",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "442",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "442",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "442",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "442",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "442",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "442",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,5062 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-25T05:22:19.343Z",
+  "ids": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "065",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442",
+    "443",
+    "444",
+    "445",
+    "446",
+    "447",
+    "448",
+    "449",
+    "450",
+    "451",
+    "452",
+    "453",
+    "454",
+    "455",
+    "456",
+    "457",
+    "458",
+    "459",
+    "460",
+    "461",
+    "462",
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469",
+    "470",
+    "471",
+    "472",
+    "473",
+    "474",
+    "475",
+    "476",
+    "477",
+    "478",
+    "479",
+    "480",
+    "481",
+    "482",
+    "483",
+    "484",
+    "485",
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497",
+    "498",
+    "499",
+    "500",
+    "501",
+    "502",
+    "503",
+    "504",
+    "505",
+    "506",
+    "507",
+    "508",
+    "509",
+    "510",
+    "511",
+    "512",
+    "513",
+    "514",
+    "515",
+    "516",
+    "517",
+    "518",
+    "519",
+    "520",
+    "521",
+    "522",
+    "523",
+    "524",
+    "525",
+    "526",
+    "527",
+    "528",
+    "529",
+    "530",
+    "531",
+    "532",
+    "533",
+    "534",
+    "535",
+    "536",
+    "537",
+    "538",
+    "539",
+    "540",
+    "541",
+    "542",
+    "543",
+    "544",
+    "545",
+    "546",
+    "547",
+    "548",
+    "549",
+    "550",
+    "551",
+    "552",
+    "553",
+    "554",
+    "555",
+    "556",
+    "557",
+    "558",
+    "559",
+    "560",
+    "561",
+    "562",
+    "563",
+    "564",
+    "565",
+    "566",
+    "567",
+    "568",
+    "569",
+    "570",
+    "571",
+    "572",
+    "573",
+    "574",
+    "575",
+    "576",
+    "577",
+    "578",
+    "579",
+    "580",
+    "581",
+    "582",
+    "583",
+    "584",
+    "585",
+    "586",
+    "587",
+    "588",
+    "589",
+    "590",
+    "591",
+    "592",
+    "593",
+    "594",
+    "595",
+    "596",
+    "597",
+    "598",
+    "599",
+    "600",
+    "601",
+    "602",
+    "603",
+    "604",
+    "605",
+    "606",
+    "607",
+    "608",
+    "609",
+    "610",
+    "611",
+    "612",
+    "613",
+    "614",
+    "615",
+    "616",
+    "617",
+    "618",
+    "619",
+    "620",
+    "621",
+    "622",
+    "623",
+    "624",
+    "625",
+    "626",
+    "627",
+    "628",
+    "629",
+    "630",
+    "631",
+    "632",
+    "633",
+    "634",
+    "635",
+    "636",
+    "637",
+    "638",
+    "639",
+    "640",
+    "641",
+    "642",
+    "643",
+    "644",
+    "645",
+    "646",
+    "647",
+    "648",
+    "649",
+    "650",
+    "651",
+    "652",
+    "653",
+    "654",
+    "655",
+    "656",
+    "657",
+    "658",
+    "659",
+    "660",
+    "661",
+    "662",
+    "663",
+    "664",
+    "665",
+    "666",
+    "667",
+    "668",
+    "669",
+    "670",
+    "671",
+    "672",
+    "673",
+    "674",
+    "675",
+    "676",
+    "677",
+    "678",
+    "679",
+    "680",
+    "681",
+    "682",
+    "683",
+    "684",
+    "685",
+    "686",
+    "687",
+    "688",
+    "689",
+    "690",
+    "691",
+    "692",
+    "693",
+    "694",
+    "695",
+    "696",
+    "697",
+    "698",
+    "699",
+    "700",
+    "701",
+    "702",
+    "703",
+    "704",
+    "705",
+    "706",
+    "707",
+    "708",
+    "709",
+    "710",
+    "711",
+    "712",
+    "713",
+    "714",
+    "715",
+    "716",
+    "717",
+    "718",
+    "719",
+    "720",
+    "721",
+    "722"
+  ],
+  "cards": {
+    "100": {
+      "path": "/data/card-details/100.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "101": {
+      "path": "/data/card-details/101.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "102": {
+      "path": "/data/card-details/102.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "103": {
+      "path": "/data/card-details/103.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "104": {
+      "path": "/data/card-details/104.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "105": {
+      "path": "/data/card-details/105.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "106": {
+      "path": "/data/card-details/106.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "107": {
+      "path": "/data/card-details/107.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "108": {
+      "path": "/data/card-details/108.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "109": {
+      "path": "/data/card-details/109.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "110": {
+      "path": "/data/card-details/110.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "111": {
+      "path": "/data/card-details/111.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "112": {
+      "path": "/data/card-details/112.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "113": {
+      "path": "/data/card-details/113.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "114": {
+      "path": "/data/card-details/114.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "115": {
+      "path": "/data/card-details/115.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "116": {
+      "path": "/data/card-details/116.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "117": {
+      "path": "/data/card-details/117.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "118": {
+      "path": "/data/card-details/118.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "119": {
+      "path": "/data/card-details/119.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "120": {
+      "path": "/data/card-details/120.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "121": {
+      "path": "/data/card-details/121.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "122": {
+      "path": "/data/card-details/122.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "123": {
+      "path": "/data/card-details/123.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "124": {
+      "path": "/data/card-details/124.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "125": {
+      "path": "/data/card-details/125.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "126": {
+      "path": "/data/card-details/126.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "127": {
+      "path": "/data/card-details/127.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "128": {
+      "path": "/data/card-details/128.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "129": {
+      "path": "/data/card-details/129.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "130": {
+      "path": "/data/card-details/130.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "131": {
+      "path": "/data/card-details/131.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "132": {
+      "path": "/data/card-details/132.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "133": {
+      "path": "/data/card-details/133.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "134": {
+      "path": "/data/card-details/134.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "135": {
+      "path": "/data/card-details/135.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "136": {
+      "path": "/data/card-details/136.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "137": {
+      "path": "/data/card-details/137.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "138": {
+      "path": "/data/card-details/138.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "139": {
+      "path": "/data/card-details/139.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "140": {
+      "path": "/data/card-details/140.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "141": {
+      "path": "/data/card-details/141.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "142": {
+      "path": "/data/card-details/142.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "143": {
+      "path": "/data/card-details/143.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "144": {
+      "path": "/data/card-details/144.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "145": {
+      "path": "/data/card-details/145.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "146": {
+      "path": "/data/card-details/146.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "147": {
+      "path": "/data/card-details/147.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "148": {
+      "path": "/data/card-details/148.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "149": {
+      "path": "/data/card-details/149.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "150": {
+      "path": "/data/card-details/150.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "151": {
+      "path": "/data/card-details/151.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "152": {
+      "path": "/data/card-details/152.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "153": {
+      "path": "/data/card-details/153.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "154": {
+      "path": "/data/card-details/154.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "155": {
+      "path": "/data/card-details/155.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "156": {
+      "path": "/data/card-details/156.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "157": {
+      "path": "/data/card-details/157.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "158": {
+      "path": "/data/card-details/158.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "159": {
+      "path": "/data/card-details/159.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "160": {
+      "path": "/data/card-details/160.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "161": {
+      "path": "/data/card-details/161.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "162": {
+      "path": "/data/card-details/162.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "163": {
+      "path": "/data/card-details/163.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "164": {
+      "path": "/data/card-details/164.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "165": {
+      "path": "/data/card-details/165.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "166": {
+      "path": "/data/card-details/166.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "167": {
+      "path": "/data/card-details/167.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "168": {
+      "path": "/data/card-details/168.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "169": {
+      "path": "/data/card-details/169.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "170": {
+      "path": "/data/card-details/170.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "171": {
+      "path": "/data/card-details/171.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "172": {
+      "path": "/data/card-details/172.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "173": {
+      "path": "/data/card-details/173.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "174": {
+      "path": "/data/card-details/174.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "175": {
+      "path": "/data/card-details/175.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "176": {
+      "path": "/data/card-details/176.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "177": {
+      "path": "/data/card-details/177.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "178": {
+      "path": "/data/card-details/178.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "179": {
+      "path": "/data/card-details/179.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "180": {
+      "path": "/data/card-details/180.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "181": {
+      "path": "/data/card-details/181.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "182": {
+      "path": "/data/card-details/182.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "183": {
+      "path": "/data/card-details/183.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "184": {
+      "path": "/data/card-details/184.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "185": {
+      "path": "/data/card-details/185.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "186": {
+      "path": "/data/card-details/186.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "187": {
+      "path": "/data/card-details/187.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "188": {
+      "path": "/data/card-details/188.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "189": {
+      "path": "/data/card-details/189.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "190": {
+      "path": "/data/card-details/190.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "191": {
+      "path": "/data/card-details/191.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "192": {
+      "path": "/data/card-details/192.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "193": {
+      "path": "/data/card-details/193.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "194": {
+      "path": "/data/card-details/194.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "195": {
+      "path": "/data/card-details/195.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "196": {
+      "path": "/data/card-details/196.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "197": {
+      "path": "/data/card-details/197.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "198": {
+      "path": "/data/card-details/198.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "199": {
+      "path": "/data/card-details/199.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "200": {
+      "path": "/data/card-details/200.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "201": {
+      "path": "/data/card-details/201.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "202": {
+      "path": "/data/card-details/202.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "203": {
+      "path": "/data/card-details/203.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "204": {
+      "path": "/data/card-details/204.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "205": {
+      "path": "/data/card-details/205.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "206": {
+      "path": "/data/card-details/206.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "207": {
+      "path": "/data/card-details/207.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "208": {
+      "path": "/data/card-details/208.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "209": {
+      "path": "/data/card-details/209.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "210": {
+      "path": "/data/card-details/210.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "211": {
+      "path": "/data/card-details/211.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "212": {
+      "path": "/data/card-details/212.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "213": {
+      "path": "/data/card-details/213.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "214": {
+      "path": "/data/card-details/214.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "215": {
+      "path": "/data/card-details/215.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "216": {
+      "path": "/data/card-details/216.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "217": {
+      "path": "/data/card-details/217.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "218": {
+      "path": "/data/card-details/218.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "219": {
+      "path": "/data/card-details/219.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "220": {
+      "path": "/data/card-details/220.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "221": {
+      "path": "/data/card-details/221.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "222": {
+      "path": "/data/card-details/222.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "223": {
+      "path": "/data/card-details/223.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "224": {
+      "path": "/data/card-details/224.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "225": {
+      "path": "/data/card-details/225.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "226": {
+      "path": "/data/card-details/226.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "227": {
+      "path": "/data/card-details/227.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "228": {
+      "path": "/data/card-details/228.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "229": {
+      "path": "/data/card-details/229.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "230": {
+      "path": "/data/card-details/230.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "231": {
+      "path": "/data/card-details/231.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "232": {
+      "path": "/data/card-details/232.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "233": {
+      "path": "/data/card-details/233.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "234": {
+      "path": "/data/card-details/234.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "235": {
+      "path": "/data/card-details/235.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "236": {
+      "path": "/data/card-details/236.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "237": {
+      "path": "/data/card-details/237.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "238": {
+      "path": "/data/card-details/238.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "239": {
+      "path": "/data/card-details/239.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "240": {
+      "path": "/data/card-details/240.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "241": {
+      "path": "/data/card-details/241.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "242": {
+      "path": "/data/card-details/242.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "243": {
+      "path": "/data/card-details/243.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "244": {
+      "path": "/data/card-details/244.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "245": {
+      "path": "/data/card-details/245.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "246": {
+      "path": "/data/card-details/246.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "247": {
+      "path": "/data/card-details/247.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "248": {
+      "path": "/data/card-details/248.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "249": {
+      "path": "/data/card-details/249.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "250": {
+      "path": "/data/card-details/250.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "251": {
+      "path": "/data/card-details/251.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "252": {
+      "path": "/data/card-details/252.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "253": {
+      "path": "/data/card-details/253.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "254": {
+      "path": "/data/card-details/254.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "255": {
+      "path": "/data/card-details/255.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "256": {
+      "path": "/data/card-details/256.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "257": {
+      "path": "/data/card-details/257.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "258": {
+      "path": "/data/card-details/258.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "259": {
+      "path": "/data/card-details/259.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "260": {
+      "path": "/data/card-details/260.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "261": {
+      "path": "/data/card-details/261.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "262": {
+      "path": "/data/card-details/262.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "263": {
+      "path": "/data/card-details/263.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "264": {
+      "path": "/data/card-details/264.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "265": {
+      "path": "/data/card-details/265.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "266": {
+      "path": "/data/card-details/266.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "267": {
+      "path": "/data/card-details/267.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "268": {
+      "path": "/data/card-details/268.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "269": {
+      "path": "/data/card-details/269.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "270": {
+      "path": "/data/card-details/270.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "271": {
+      "path": "/data/card-details/271.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "272": {
+      "path": "/data/card-details/272.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "273": {
+      "path": "/data/card-details/273.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "274": {
+      "path": "/data/card-details/274.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "275": {
+      "path": "/data/card-details/275.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "276": {
+      "path": "/data/card-details/276.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "277": {
+      "path": "/data/card-details/277.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "278": {
+      "path": "/data/card-details/278.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "279": {
+      "path": "/data/card-details/279.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "280": {
+      "path": "/data/card-details/280.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "281": {
+      "path": "/data/card-details/281.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "282": {
+      "path": "/data/card-details/282.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "283": {
+      "path": "/data/card-details/283.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "284": {
+      "path": "/data/card-details/284.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "285": {
+      "path": "/data/card-details/285.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "286": {
+      "path": "/data/card-details/286.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "287": {
+      "path": "/data/card-details/287.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "288": {
+      "path": "/data/card-details/288.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "289": {
+      "path": "/data/card-details/289.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "290": {
+      "path": "/data/card-details/290.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "291": {
+      "path": "/data/card-details/291.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "292": {
+      "path": "/data/card-details/292.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "293": {
+      "path": "/data/card-details/293.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "294": {
+      "path": "/data/card-details/294.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "295": {
+      "path": "/data/card-details/295.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "296": {
+      "path": "/data/card-details/296.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "297": {
+      "path": "/data/card-details/297.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "298": {
+      "path": "/data/card-details/298.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "299": {
+      "path": "/data/card-details/299.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "300": {
+      "path": "/data/card-details/300.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "301": {
+      "path": "/data/card-details/301.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "302": {
+      "path": "/data/card-details/302.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "303": {
+      "path": "/data/card-details/303.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "304": {
+      "path": "/data/card-details/304.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "305": {
+      "path": "/data/card-details/305.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "306": {
+      "path": "/data/card-details/306.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "307": {
+      "path": "/data/card-details/307.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "308": {
+      "path": "/data/card-details/308.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "309": {
+      "path": "/data/card-details/309.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "310": {
+      "path": "/data/card-details/310.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "311": {
+      "path": "/data/card-details/311.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "312": {
+      "path": "/data/card-details/312.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "313": {
+      "path": "/data/card-details/313.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "314": {
+      "path": "/data/card-details/314.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "315": {
+      "path": "/data/card-details/315.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "316": {
+      "path": "/data/card-details/316.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "317": {
+      "path": "/data/card-details/317.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "318": {
+      "path": "/data/card-details/318.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "319": {
+      "path": "/data/card-details/319.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "320": {
+      "path": "/data/card-details/320.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "321": {
+      "path": "/data/card-details/321.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "322": {
+      "path": "/data/card-details/322.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "323": {
+      "path": "/data/card-details/323.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "324": {
+      "path": "/data/card-details/324.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "325": {
+      "path": "/data/card-details/325.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "326": {
+      "path": "/data/card-details/326.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "327": {
+      "path": "/data/card-details/327.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "328": {
+      "path": "/data/card-details/328.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "329": {
+      "path": "/data/card-details/329.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "330": {
+      "path": "/data/card-details/330.json",
+      "cardType": "Field",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "331": {
+      "path": "/data/card-details/331.json",
+      "cardType": "Field",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "332": {
+      "path": "/data/card-details/332.json",
+      "cardType": "Field",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "333": {
+      "path": "/data/card-details/333.json",
+      "cardType": "Field",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "334": {
+      "path": "/data/card-details/334.json",
+      "cardType": "Field",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "335": {
+      "path": "/data/card-details/335.json",
+      "cardType": "Field",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "336": {
+      "path": "/data/card-details/336.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "337": {
+      "path": "/data/card-details/337.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "338": {
+      "path": "/data/card-details/338.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "339": {
+      "path": "/data/card-details/339.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "340": {
+      "path": "/data/card-details/340.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "341": {
+      "path": "/data/card-details/341.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "342": {
+      "path": "/data/card-details/342.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "343": {
+      "path": "/data/card-details/343.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "344": {
+      "path": "/data/card-details/344.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "345": {
+      "path": "/data/card-details/345.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "346": {
+      "path": "/data/card-details/346.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "347": {
+      "path": "/data/card-details/347.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "348": {
+      "path": "/data/card-details/348.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "349": {
+      "path": "/data/card-details/349.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "350": {
+      "path": "/data/card-details/350.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "351": {
+      "path": "/data/card-details/351.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "352": {
+      "path": "/data/card-details/352.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "353": {
+      "path": "/data/card-details/353.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "354": {
+      "path": "/data/card-details/354.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "355": {
+      "path": "/data/card-details/355.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "356": {
+      "path": "/data/card-details/356.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "357": {
+      "path": "/data/card-details/357.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "358": {
+      "path": "/data/card-details/358.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "359": {
+      "path": "/data/card-details/359.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "360": {
+      "path": "/data/card-details/360.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "361": {
+      "path": "/data/card-details/361.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "362": {
+      "path": "/data/card-details/362.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "363": {
+      "path": "/data/card-details/363.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "364": {
+      "path": "/data/card-details/364.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "365": {
+      "path": "/data/card-details/365.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "366": {
+      "path": "/data/card-details/366.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "367": {
+      "path": "/data/card-details/367.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "368": {
+      "path": "/data/card-details/368.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "369": {
+      "path": "/data/card-details/369.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "370": {
+      "path": "/data/card-details/370.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "371": {
+      "path": "/data/card-details/371.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "372": {
+      "path": "/data/card-details/372.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "373": {
+      "path": "/data/card-details/373.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "374": {
+      "path": "/data/card-details/374.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "375": {
+      "path": "/data/card-details/375.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "376": {
+      "path": "/data/card-details/376.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "377": {
+      "path": "/data/card-details/377.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "378": {
+      "path": "/data/card-details/378.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "379": {
+      "path": "/data/card-details/379.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "380": {
+      "path": "/data/card-details/380.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "381": {
+      "path": "/data/card-details/381.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "382": {
+      "path": "/data/card-details/382.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "383": {
+      "path": "/data/card-details/383.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "384": {
+      "path": "/data/card-details/384.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "385": {
+      "path": "/data/card-details/385.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "386": {
+      "path": "/data/card-details/386.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "387": {
+      "path": "/data/card-details/387.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "388": {
+      "path": "/data/card-details/388.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "389": {
+      "path": "/data/card-details/389.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "390": {
+      "path": "/data/card-details/390.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "391": {
+      "path": "/data/card-details/391.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "392": {
+      "path": "/data/card-details/392.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "393": {
+      "path": "/data/card-details/393.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "394": {
+      "path": "/data/card-details/394.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "395": {
+      "path": "/data/card-details/395.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "396": {
+      "path": "/data/card-details/396.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "397": {
+      "path": "/data/card-details/397.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "398": {
+      "path": "/data/card-details/398.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "399": {
+      "path": "/data/card-details/399.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "400": {
+      "path": "/data/card-details/400.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "401": {
+      "path": "/data/card-details/401.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "402": {
+      "path": "/data/card-details/402.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "403": {
+      "path": "/data/card-details/403.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "404": {
+      "path": "/data/card-details/404.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "405": {
+      "path": "/data/card-details/405.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "406": {
+      "path": "/data/card-details/406.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "407": {
+      "path": "/data/card-details/407.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "408": {
+      "path": "/data/card-details/408.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "409": {
+      "path": "/data/card-details/409.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "410": {
+      "path": "/data/card-details/410.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "411": {
+      "path": "/data/card-details/411.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "412": {
+      "path": "/data/card-details/412.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "413": {
+      "path": "/data/card-details/413.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "414": {
+      "path": "/data/card-details/414.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "415": {
+      "path": "/data/card-details/415.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "416": {
+      "path": "/data/card-details/416.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "417": {
+      "path": "/data/card-details/417.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "418": {
+      "path": "/data/card-details/418.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "419": {
+      "path": "/data/card-details/419.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "420": {
+      "path": "/data/card-details/420.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "421": {
+      "path": "/data/card-details/421.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "422": {
+      "path": "/data/card-details/422.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "423": {
+      "path": "/data/card-details/423.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "424": {
+      "path": "/data/card-details/424.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "425": {
+      "path": "/data/card-details/425.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "426": {
+      "path": "/data/card-details/426.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "427": {
+      "path": "/data/card-details/427.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "428": {
+      "path": "/data/card-details/428.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "429": {
+      "path": "/data/card-details/429.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "430": {
+      "path": "/data/card-details/430.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "431": {
+      "path": "/data/card-details/431.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "432": {
+      "path": "/data/card-details/432.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "433": {
+      "path": "/data/card-details/433.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "434": {
+      "path": "/data/card-details/434.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "435": {
+      "path": "/data/card-details/435.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "436": {
+      "path": "/data/card-details/436.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "437": {
+      "path": "/data/card-details/437.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "438": {
+      "path": "/data/card-details/438.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "439": {
+      "path": "/data/card-details/439.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "440": {
+      "path": "/data/card-details/440.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "441": {
+      "path": "/data/card-details/441.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "442": {
+      "path": "/data/card-details/442.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "443": {
+      "path": "/data/card-details/443.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "444": {
+      "path": "/data/card-details/444.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "445": {
+      "path": "/data/card-details/445.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "446": {
+      "path": "/data/card-details/446.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "447": {
+      "path": "/data/card-details/447.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "448": {
+      "path": "/data/card-details/448.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "449": {
+      "path": "/data/card-details/449.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "450": {
+      "path": "/data/card-details/450.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "451": {
+      "path": "/data/card-details/451.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "452": {
+      "path": "/data/card-details/452.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "453": {
+      "path": "/data/card-details/453.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "454": {
+      "path": "/data/card-details/454.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "455": {
+      "path": "/data/card-details/455.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "456": {
+      "path": "/data/card-details/456.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "457": {
+      "path": "/data/card-details/457.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "458": {
+      "path": "/data/card-details/458.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "459": {
+      "path": "/data/card-details/459.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "460": {
+      "path": "/data/card-details/460.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "461": {
+      "path": "/data/card-details/461.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "462": {
+      "path": "/data/card-details/462.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "463": {
+      "path": "/data/card-details/463.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "464": {
+      "path": "/data/card-details/464.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "465": {
+      "path": "/data/card-details/465.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "466": {
+      "path": "/data/card-details/466.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "467": {
+      "path": "/data/card-details/467.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "468": {
+      "path": "/data/card-details/468.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "469": {
+      "path": "/data/card-details/469.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "470": {
+      "path": "/data/card-details/470.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "471": {
+      "path": "/data/card-details/471.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "472": {
+      "path": "/data/card-details/472.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "473": {
+      "path": "/data/card-details/473.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "474": {
+      "path": "/data/card-details/474.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "475": {
+      "path": "/data/card-details/475.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "476": {
+      "path": "/data/card-details/476.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "477": {
+      "path": "/data/card-details/477.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "478": {
+      "path": "/data/card-details/478.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "479": {
+      "path": "/data/card-details/479.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "480": {
+      "path": "/data/card-details/480.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "481": {
+      "path": "/data/card-details/481.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "482": {
+      "path": "/data/card-details/482.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "483": {
+      "path": "/data/card-details/483.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "484": {
+      "path": "/data/card-details/484.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "485": {
+      "path": "/data/card-details/485.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "486": {
+      "path": "/data/card-details/486.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "487": {
+      "path": "/data/card-details/487.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "488": {
+      "path": "/data/card-details/488.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "489": {
+      "path": "/data/card-details/489.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "490": {
+      "path": "/data/card-details/490.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "491": {
+      "path": "/data/card-details/491.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "492": {
+      "path": "/data/card-details/492.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "493": {
+      "path": "/data/card-details/493.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "494": {
+      "path": "/data/card-details/494.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "495": {
+      "path": "/data/card-details/495.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "496": {
+      "path": "/data/card-details/496.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "497": {
+      "path": "/data/card-details/497.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "498": {
+      "path": "/data/card-details/498.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "499": {
+      "path": "/data/card-details/499.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "500": {
+      "path": "/data/card-details/500.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "501": {
+      "path": "/data/card-details/501.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "502": {
+      "path": "/data/card-details/502.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "503": {
+      "path": "/data/card-details/503.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "504": {
+      "path": "/data/card-details/504.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "505": {
+      "path": "/data/card-details/505.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "506": {
+      "path": "/data/card-details/506.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "507": {
+      "path": "/data/card-details/507.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "508": {
+      "path": "/data/card-details/508.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "509": {
+      "path": "/data/card-details/509.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "510": {
+      "path": "/data/card-details/510.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "511": {
+      "path": "/data/card-details/511.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "512": {
+      "path": "/data/card-details/512.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "513": {
+      "path": "/data/card-details/513.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "514": {
+      "path": "/data/card-details/514.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "515": {
+      "path": "/data/card-details/515.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "516": {
+      "path": "/data/card-details/516.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "517": {
+      "path": "/data/card-details/517.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "518": {
+      "path": "/data/card-details/518.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "519": {
+      "path": "/data/card-details/519.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "520": {
+      "path": "/data/card-details/520.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "521": {
+      "path": "/data/card-details/521.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "522": {
+      "path": "/data/card-details/522.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "523": {
+      "path": "/data/card-details/523.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "524": {
+      "path": "/data/card-details/524.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "525": {
+      "path": "/data/card-details/525.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "526": {
+      "path": "/data/card-details/526.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "527": {
+      "path": "/data/card-details/527.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "528": {
+      "path": "/data/card-details/528.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "529": {
+      "path": "/data/card-details/529.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "530": {
+      "path": "/data/card-details/530.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "531": {
+      "path": "/data/card-details/531.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "532": {
+      "path": "/data/card-details/532.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "533": {
+      "path": "/data/card-details/533.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "534": {
+      "path": "/data/card-details/534.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "535": {
+      "path": "/data/card-details/535.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "536": {
+      "path": "/data/card-details/536.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "537": {
+      "path": "/data/card-details/537.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "538": {
+      "path": "/data/card-details/538.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "539": {
+      "path": "/data/card-details/539.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "540": {
+      "path": "/data/card-details/540.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "541": {
+      "path": "/data/card-details/541.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "542": {
+      "path": "/data/card-details/542.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "543": {
+      "path": "/data/card-details/543.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "544": {
+      "path": "/data/card-details/544.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "545": {
+      "path": "/data/card-details/545.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "546": {
+      "path": "/data/card-details/546.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "547": {
+      "path": "/data/card-details/547.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "548": {
+      "path": "/data/card-details/548.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "549": {
+      "path": "/data/card-details/549.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "550": {
+      "path": "/data/card-details/550.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "551": {
+      "path": "/data/card-details/551.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "552": {
+      "path": "/data/card-details/552.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "553": {
+      "path": "/data/card-details/553.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "554": {
+      "path": "/data/card-details/554.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "555": {
+      "path": "/data/card-details/555.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "556": {
+      "path": "/data/card-details/556.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "557": {
+      "path": "/data/card-details/557.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "558": {
+      "path": "/data/card-details/558.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "559": {
+      "path": "/data/card-details/559.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "560": {
+      "path": "/data/card-details/560.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "561": {
+      "path": "/data/card-details/561.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "562": {
+      "path": "/data/card-details/562.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "563": {
+      "path": "/data/card-details/563.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "564": {
+      "path": "/data/card-details/564.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "565": {
+      "path": "/data/card-details/565.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "566": {
+      "path": "/data/card-details/566.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "567": {
+      "path": "/data/card-details/567.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "568": {
+      "path": "/data/card-details/568.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "569": {
+      "path": "/data/card-details/569.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "570": {
+      "path": "/data/card-details/570.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "571": {
+      "path": "/data/card-details/571.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "572": {
+      "path": "/data/card-details/572.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "573": {
+      "path": "/data/card-details/573.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "574": {
+      "path": "/data/card-details/574.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "575": {
+      "path": "/data/card-details/575.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "576": {
+      "path": "/data/card-details/576.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "577": {
+      "path": "/data/card-details/577.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "578": {
+      "path": "/data/card-details/578.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "579": {
+      "path": "/data/card-details/579.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "580": {
+      "path": "/data/card-details/580.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "581": {
+      "path": "/data/card-details/581.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "582": {
+      "path": "/data/card-details/582.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "583": {
+      "path": "/data/card-details/583.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "584": {
+      "path": "/data/card-details/584.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "585": {
+      "path": "/data/card-details/585.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "586": {
+      "path": "/data/card-details/586.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "587": {
+      "path": "/data/card-details/587.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "588": {
+      "path": "/data/card-details/588.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "589": {
+      "path": "/data/card-details/589.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "590": {
+      "path": "/data/card-details/590.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "591": {
+      "path": "/data/card-details/591.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "592": {
+      "path": "/data/card-details/592.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "593": {
+      "path": "/data/card-details/593.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "594": {
+      "path": "/data/card-details/594.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "595": {
+      "path": "/data/card-details/595.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "596": {
+      "path": "/data/card-details/596.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "597": {
+      "path": "/data/card-details/597.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "598": {
+      "path": "/data/card-details/598.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "599": {
+      "path": "/data/card-details/599.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "600": {
+      "path": "/data/card-details/600.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "601": {
+      "path": "/data/card-details/601.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "602": {
+      "path": "/data/card-details/602.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "603": {
+      "path": "/data/card-details/603.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "604": {
+      "path": "/data/card-details/604.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "605": {
+      "path": "/data/card-details/605.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "606": {
+      "path": "/data/card-details/606.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "607": {
+      "path": "/data/card-details/607.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "608": {
+      "path": "/data/card-details/608.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "609": {
+      "path": "/data/card-details/609.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "610": {
+      "path": "/data/card-details/610.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "611": {
+      "path": "/data/card-details/611.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "612": {
+      "path": "/data/card-details/612.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "613": {
+      "path": "/data/card-details/613.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "614": {
+      "path": "/data/card-details/614.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "615": {
+      "path": "/data/card-details/615.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "616": {
+      "path": "/data/card-details/616.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "617": {
+      "path": "/data/card-details/617.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "618": {
+      "path": "/data/card-details/618.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "619": {
+      "path": "/data/card-details/619.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "620": {
+      "path": "/data/card-details/620.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "621": {
+      "path": "/data/card-details/621.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "622": {
+      "path": "/data/card-details/622.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "623": {
+      "path": "/data/card-details/623.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "624": {
+      "path": "/data/card-details/624.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "625": {
+      "path": "/data/card-details/625.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "626": {
+      "path": "/data/card-details/626.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "627": {
+      "path": "/data/card-details/627.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "628": {
+      "path": "/data/card-details/628.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "629": {
+      "path": "/data/card-details/629.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "630": {
+      "path": "/data/card-details/630.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "631": {
+      "path": "/data/card-details/631.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "632": {
+      "path": "/data/card-details/632.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "633": {
+      "path": "/data/card-details/633.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "634": {
+      "path": "/data/card-details/634.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "635": {
+      "path": "/data/card-details/635.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "636": {
+      "path": "/data/card-details/636.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "637": {
+      "path": "/data/card-details/637.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "638": {
+      "path": "/data/card-details/638.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "639": {
+      "path": "/data/card-details/639.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "640": {
+      "path": "/data/card-details/640.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "641": {
+      "path": "/data/card-details/641.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "642": {
+      "path": "/data/card-details/642.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "643": {
+      "path": "/data/card-details/643.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "644": {
+      "path": "/data/card-details/644.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "645": {
+      "path": "/data/card-details/645.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "646": {
+      "path": "/data/card-details/646.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "647": {
+      "path": "/data/card-details/647.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "648": {
+      "path": "/data/card-details/648.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "649": {
+      "path": "/data/card-details/649.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "650": {
+      "path": "/data/card-details/650.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "651": {
+      "path": "/data/card-details/651.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "652": {
+      "path": "/data/card-details/652.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "653": {
+      "path": "/data/card-details/653.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "654": {
+      "path": "/data/card-details/654.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "655": {
+      "path": "/data/card-details/655.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "656": {
+      "path": "/data/card-details/656.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "657": {
+      "path": "/data/card-details/657.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "658": {
+      "path": "/data/card-details/658.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "659": {
+      "path": "/data/card-details/659.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "660": {
+      "path": "/data/card-details/660.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "661": {
+      "path": "/data/card-details/661.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "662": {
+      "path": "/data/card-details/662.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "663": {
+      "path": "/data/card-details/663.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "664": {
+      "path": "/data/card-details/664.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "665": {
+      "path": "/data/card-details/665.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "666": {
+      "path": "/data/card-details/666.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "667": {
+      "path": "/data/card-details/667.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "668": {
+      "path": "/data/card-details/668.json",
+      "cardType": "Equip",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "669": {
+      "path": "/data/card-details/669.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "670": {
+      "path": "/data/card-details/670.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "671": {
+      "path": "/data/card-details/671.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "672": {
+      "path": "/data/card-details/672.json",
+      "cardType": "Magic",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "673": {
+      "path": "/data/card-details/673.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "674": {
+      "path": "/data/card-details/674.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "675": {
+      "path": "/data/card-details/675.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "676": {
+      "path": "/data/card-details/676.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "677": {
+      "path": "/data/card-details/677.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "678": {
+      "path": "/data/card-details/678.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "679": {
+      "path": "/data/card-details/679.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "680": {
+      "path": "/data/card-details/680.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "681": {
+      "path": "/data/card-details/681.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "682": {
+      "path": "/data/card-details/682.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "683": {
+      "path": "/data/card-details/683.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "684": {
+      "path": "/data/card-details/684.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "685": {
+      "path": "/data/card-details/685.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "686": {
+      "path": "/data/card-details/686.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "687": {
+      "path": "/data/card-details/687.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "688": {
+      "path": "/data/card-details/688.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "689": {
+      "path": "/data/card-details/689.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "690": {
+      "path": "/data/card-details/690.json",
+      "cardType": "Trap",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "691": {
+      "path": "/data/card-details/691.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "692": {
+      "path": "/data/card-details/692.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "693": {
+      "path": "/data/card-details/693.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "694": {
+      "path": "/data/card-details/694.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "695": {
+      "path": "/data/card-details/695.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "696": {
+      "path": "/data/card-details/696.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "697": {
+      "path": "/data/card-details/697.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "698": {
+      "path": "/data/card-details/698.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "699": {
+      "path": "/data/card-details/699.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "700": {
+      "path": "/data/card-details/700.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "701": {
+      "path": "/data/card-details/701.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "702": {
+      "path": "/data/card-details/702.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "703": {
+      "path": "/data/card-details/703.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "704": {
+      "path": "/data/card-details/704.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "705": {
+      "path": "/data/card-details/705.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "706": {
+      "path": "/data/card-details/706.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "707": {
+      "path": "/data/card-details/707.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "708": {
+      "path": "/data/card-details/708.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "709": {
+      "path": "/data/card-details/709.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "710": {
+      "path": "/data/card-details/710.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "711": {
+      "path": "/data/card-details/711.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "712": {
+      "path": "/data/card-details/712.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "713": {
+      "path": "/data/card-details/713.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "714": {
+      "path": "/data/card-details/714.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "715": {
+      "path": "/data/card-details/715.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "716": {
+      "path": "/data/card-details/716.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "717": {
+      "path": "/data/card-details/717.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "718": {
+      "path": "/data/card-details/718.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "719": {
+      "path": "/data/card-details/719.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "720": {
+      "path": "/data/card-details/720.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "721": {
+      "path": "/data/card-details/721.json",
+      "cardType": "Ritual",
+      "mediaKind": "animated-fallback",
+      "fieldGameName": null
+    },
+    "722": {
+      "path": "/data/card-details/722.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "001": {
+      "path": "/data/card-details/001.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "002": {
+      "path": "/data/card-details/002.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "003": {
+      "path": "/data/card-details/003.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "004": {
+      "path": "/data/card-details/004.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "005": {
+      "path": "/data/card-details/005.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "006": {
+      "path": "/data/card-details/006.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "007": {
+      "path": "/data/card-details/007.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "008": {
+      "path": "/data/card-details/008.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "009": {
+      "path": "/data/card-details/009.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "010": {
+      "path": "/data/card-details/010.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "011": {
+      "path": "/data/card-details/011.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "012": {
+      "path": "/data/card-details/012.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "013": {
+      "path": "/data/card-details/013.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "014": {
+      "path": "/data/card-details/014.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "015": {
+      "path": "/data/card-details/015.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "016": {
+      "path": "/data/card-details/016.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "017": {
+      "path": "/data/card-details/017.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "018": {
+      "path": "/data/card-details/018.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "019": {
+      "path": "/data/card-details/019.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "020": {
+      "path": "/data/card-details/020.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "021": {
+      "path": "/data/card-details/021.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "022": {
+      "path": "/data/card-details/022.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "023": {
+      "path": "/data/card-details/023.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "024": {
+      "path": "/data/card-details/024.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "025": {
+      "path": "/data/card-details/025.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "026": {
+      "path": "/data/card-details/026.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "027": {
+      "path": "/data/card-details/027.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "028": {
+      "path": "/data/card-details/028.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "029": {
+      "path": "/data/card-details/029.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "030": {
+      "path": "/data/card-details/030.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "031": {
+      "path": "/data/card-details/031.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "032": {
+      "path": "/data/card-details/032.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "033": {
+      "path": "/data/card-details/033.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "034": {
+      "path": "/data/card-details/034.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "035": {
+      "path": "/data/card-details/035.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "036": {
+      "path": "/data/card-details/036.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "037": {
+      "path": "/data/card-details/037.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "038": {
+      "path": "/data/card-details/038.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "039": {
+      "path": "/data/card-details/039.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "040": {
+      "path": "/data/card-details/040.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "041": {
+      "path": "/data/card-details/041.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "042": {
+      "path": "/data/card-details/042.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "043": {
+      "path": "/data/card-details/043.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "044": {
+      "path": "/data/card-details/044.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "045": {
+      "path": "/data/card-details/045.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "046": {
+      "path": "/data/card-details/046.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "047": {
+      "path": "/data/card-details/047.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "048": {
+      "path": "/data/card-details/048.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "049": {
+      "path": "/data/card-details/049.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "050": {
+      "path": "/data/card-details/050.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "051": {
+      "path": "/data/card-details/051.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "052": {
+      "path": "/data/card-details/052.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "053": {
+      "path": "/data/card-details/053.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "054": {
+      "path": "/data/card-details/054.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "055": {
+      "path": "/data/card-details/055.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "056": {
+      "path": "/data/card-details/056.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "057": {
+      "path": "/data/card-details/057.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "058": {
+      "path": "/data/card-details/058.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "059": {
+      "path": "/data/card-details/059.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "060": {
+      "path": "/data/card-details/060.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "061": {
+      "path": "/data/card-details/061.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "062": {
+      "path": "/data/card-details/062.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "063": {
+      "path": "/data/card-details/063.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "064": {
+      "path": "/data/card-details/064.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "065": {
+      "path": "/data/card-details/065.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "066": {
+      "path": "/data/card-details/066.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "067": {
+      "path": "/data/card-details/067.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "068": {
+      "path": "/data/card-details/068.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "069": {
+      "path": "/data/card-details/069.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "070": {
+      "path": "/data/card-details/070.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "071": {
+      "path": "/data/card-details/071.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "072": {
+      "path": "/data/card-details/072.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "073": {
+      "path": "/data/card-details/073.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "074": {
+      "path": "/data/card-details/074.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "075": {
+      "path": "/data/card-details/075.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "076": {
+      "path": "/data/card-details/076.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "077": {
+      "path": "/data/card-details/077.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": null
+    },
+    "078": {
+      "path": "/data/card-details/078.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "079": {
+      "path": "/data/card-details/079.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "080": {
+      "path": "/data/card-details/080.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "081": {
+      "path": "/data/card-details/081.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "082": {
+      "path": "/data/card-details/082.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "083": {
+      "path": "/data/card-details/083.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "084": {
+      "path": "/data/card-details/084.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "085": {
+      "path": "/data/card-details/085.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "086": {
+      "path": "/data/card-details/086.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "087": {
+      "path": "/data/card-details/087.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "088": {
+      "path": "/data/card-details/088.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "089": {
+      "path": "/data/card-details/089.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "UMI"
+    },
+    "090": {
+      "path": "/data/card-details/090.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "091": {
+      "path": "/data/card-details/091.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "092": {
+      "path": "/data/card-details/092.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "FOREST"
+    },
+    "093": {
+      "path": "/data/card-details/093.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "SOGEN"
+    },
+    "094": {
+      "path": "/data/card-details/094.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "MOUNTAIN"
+    },
+    "095": {
+      "path": "/data/card-details/095.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "YAMI"
+    },
+    "096": {
+      "path": "/data/card-details/096.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "097": {
+      "path": "/data/card-details/097.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "098": {
+      "path": "/data/card-details/098.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    },
+    "099": {
+      "path": "/data/card-details/099.json",
+      "cardType": "Monster",
+      "mediaKind": "model-video",
+      "fieldGameName": "WASTELAND"
+    }
+  }
+}

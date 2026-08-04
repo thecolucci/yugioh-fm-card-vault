@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/monster-tamer",
+    "capturedAt": "2026-07-22T17:07:53.910Z",
+    "contentHash": "9b34f53ceae7bca1fac42b63e1c2cc55557145df83dbede8d695d5d5d95b2fd5",
+    "upstreamName": "Monster Tamer",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "376",
+  "cardType": "Monster",
+  "description": "A master of monsters that exercises control over several creatures.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/376.webm",
+    "localPath": "/game-assets/models/376.webm",
+    "width": 592,
+    "height": 248,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 27,
+    "equips": 7
+  },
+  "recipes": [
+    {
+      "left": "338",
+      "right": "434"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "015",
+      "result": "473"
+    },
+    {
+      "partner": "040",
+      "result": "473"
+    },
+    {
+      "partner": "068",
+      "result": "473"
+    },
+    {
+      "partner": "101",
+      "result": "473"
+    },
+    {
+      "partner": "133",
+      "result": "473"
+    },
+    {
+      "partner": "142",
+      "result": "473"
+    },
+    {
+      "partner": "154",
+      "result": "473"
+    },
+    {
+      "partner": "157",
+      "result": "473"
+    },
+    {
+      "partner": "165",
+      "result": "033"
+    },
+    {
+      "partner": "168",
+      "result": "473"
+    },
+    {
+      "partner": "172",
+      "result": "473"
+    },
+    {
+      "partner": "176",
+      "result": "473"
+    },
+    {
+      "partner": "210",
+      "result": "473"
+    },
+    {
+      "partner": "214",
+      "result": "473"
+    },
+    {
+      "partner": "215",
+      "result": "473"
+    },
+    {
+      "partner": "242",
+      "result": "473"
+    },
+    {
+      "partner": "244",
+      "result": "473"
+    },
+    {
+      "partner": "272",
+      "result": "473"
+    },
+    {
+      "partner": "291",
+      "result": "473"
+    },
+    {
+      "partner": "317",
+      "result": "434"
+    },
+    {
+      "partner": "357",
+      "result": "473"
+    },
+    {
+      "partner": "409",
+      "result": "473"
+    },
+    {
+      "partner": "417",
+      "result": "473"
+    },
+    {
+      "partner": "519",
+      "result": "473"
+    },
+    {
+      "partner": "555",
+      "result": "473"
+    },
+    {
+      "partner": "644",
+      "result": "473"
+    },
+    {
+      "partner": "653",
+      "result": "316"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "376",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "376",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "376",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "376",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "376",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "376",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "376",
+      "boost": 500
+    }
+  ]
+}

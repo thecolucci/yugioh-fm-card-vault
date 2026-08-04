@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/summoned-skull",
+    "capturedAt": "2026-07-22T17:01:39.649Z",
+    "contentHash": "73490947866cd8ad74132646f88adc0eb0bacff958240b81fe7f1b1b2c2a5257",
+    "upstreamName": "Summoned Skull",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "022",
+  "cardType": "Monster",
+  "description": "An entity with dark powers for confusing the enemy. Among the FIEND class of monsters, this is a pretty rare card.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/22.webm",
+    "localPath": "/game-assets/models/022.webm",
+    "width": 376,
+    "height": 552,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 66,
+    "fusions": 2,
+    "equips": 11
+  },
+  "recipes": [
+    {
+      "left": "005",
+      "right": "103"
+    },
+    {
+      "left": "006",
+      "right": "103"
+    },
+    {
+      "left": "016",
+      "right": "254"
+    },
+    {
+      "left": "025",
+      "right": "103"
+    },
+    {
+      "left": "048",
+      "right": "103"
+    },
+    {
+      "left": "058",
+      "right": "103"
+    },
+    {
+      "left": "083",
+      "right": "103"
+    },
+    {
+      "left": "084",
+      "right": "103"
+    },
+    {
+      "left": "085",
+      "right": "103"
+    },
+    {
+      "left": "086",
+      "right": "103"
+    },
+    {
+      "left": "087",
+      "right": "103"
+    },
+    {
+      "left": "088",
+      "right": "103"
+    },
+    {
+      "left": "095",
+      "right": "103"
+    },
+    {
+      "left": "102",
+      "right": "103"
+    },
+    {
+      "left": "103",
+      "right": "103"
+    },
+    {
+      "left": "103",
+      "right": "112"
+    },
+    {
+      "left": "103",
+      "right": "119"
+    },
+    {
+      "left": "103",
+      "right": "136"
+    },
+    {
+      "left": "103",
+      "right": "137"
+    },
+    {
+      "left": "103",
+      "right": "148"
+    },
+    {
+      "left": "103",
+      "right": "149"
+    },
+    {
+      "left": "103",
+      "right": "162"
+    },
+    {
+      "left": "103",
+      "right": "164"
+    },
+    {
+      "left": "103",
+      "right": "169"
+    },
+    {
+      "left": "103",
+      "right": "171"
+    },
+    {
+      "left": "103",
+      "right": "173"
+    },
+    {
+      "left": "103",
+      "right": "175"
+    },
+    {
+      "left": "103",
+      "right": "178"
+    },
+    {
+      "left": "103",
+      "right": "181"
+    },
+    {
+      "left": "103",
+      "right": "194"
+    },
+    {
+      "left": "103",
+      "right": "204"
+    },
+    {
+      "left": "103",
+      "right": "222"
+    },
+    {
+      "left": "103",
+      "right": "232"
+    },
+    {
+      "left": "103",
+      "right": "233"
+    },
+    {
+      "left": "103",
+      "right": "240"
+    },
+    {
+      "left": "103",
+      "right": "242"
+    },
+    {
+      "left": "103",
+      "right": "245"
+    },
+    {
+      "left": "103",
+      "right": "254"
+    },
+    {
+      "left": "103",
+      "right": "261"
+    },
+    {
+      "left": "103",
+      "right": "269"
+    },
+    {
+      "left": "103",
+      "right": "271"
+    },
+    {
+      "left": "103",
+      "right": "277"
+    },
+    {
+      "left": "103",
+      "right": "279"
+    },
+    {
+      "left": "103",
+      "right": "281"
+    },
+    {
+      "left": "103",
+      "right": "288"
+    },
+    {
+      "left": "103",
+      "right": "295"
+    },
+    {
+      "left": "103",
+      "right": "365"
+    },
+    {
+      "left": "103",
+      "right": "377"
+    },
+    {
+      "left": "103",
+      "right": "379"
+    },
+    {
+      "left": "103",
+      "right": "385"
+    },
+    {
+      "left": "103",
+      "right": "401"
+    },
+    {
+      "left": "103",
+      "right": "402"
+    },
+    {
+      "left": "103",
+      "right": "471"
+    },
+    {
+      "left": "103",
+      "right": "472"
+    },
+    {
+      "left": "103",
+      "right": "490"
+    },
+    {
+      "left": "103",
+      "right": "498"
+    },
+    {
+      "left": "103",
+      "right": "500"
+    },
+    {
+      "left": "103",
+      "right": "523"
+    },
+    {
+      "left": "103",
+      "right": "526"
+    },
+    {
+      "left": "103",
+      "right": "560"
+    },
+    {
+      "left": "103",
+      "right": "563"
+    },
+    {
+      "left": "103",
+      "right": "600"
+    },
+    {
+      "left": "103",
+      "right": "611"
+    },
+    {
+      "left": "103",
+      "right": "650"
+    },
+    {
+      "left": "103",
+      "right": "709"
+    },
+    {
+      "left": "103",
+      "right": "715"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "031",
+      "result": "072"
+    },
+    {
+      "partner": "082",
+      "result": "217"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "022",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "022",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/faith-bird",
+    "capturedAt": "2026-07-22T17:05:42.195Z",
+    "contentHash": "d5b0eaa9c41f8683d355eea75c78228ce63a0f24e2dc3e08593ba3f238063706",
+    "upstreamName": "Faith Bird",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "125",
+  "cardType": "Monster",
+  "description": "A bird with a very long tail that attacks with a light that emanates from its entire being.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SUN",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/125.webm",
+    "localPath": "/game-assets/models/125.webm",
+    "width": 894,
+    "height": 468,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 41,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "005",
+      "result": "650"
+    },
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "089",
+      "result": "520"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "177",
+      "result": "520"
+    },
+    {
+      "partner": "193",
+      "result": "520"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "325",
+      "result": "672"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "449",
+      "result": "520"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "503",
+      "result": "520"
+    },
+    {
+      "partner": "518",
+      "result": "520"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "593",
+      "result": "520"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    },
+    {
+      "partner": "683",
+      "result": "672"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "125",
+      "boost": 500
+    },
+    {
+      "partner": "307",
+      "result": "125",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "125",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "125",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "125",
+      "boost": 500
+    }
+  ]
+}

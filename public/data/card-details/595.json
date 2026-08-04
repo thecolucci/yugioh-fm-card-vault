@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/fiend-refrection-1",
+    "capturedAt": "2026-07-22T17:08:18.027Z",
+    "contentHash": "a1bcc5938a91675e6139110f9ed25d949c351bf1710edf8ec0c9ca3f2168d82a",
+    "upstreamName": "Fiend Refrection #1",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "595",
+  "cardType": "Monster",
+  "description": "Drags enemies into a mirror world.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "VENUS",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/595.webm",
+    "localPath": "/game-assets/models/595.webm",
+    "width": 436,
+    "height": 288,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 21,
+    "fusions": 38,
+    "equips": 7
+  },
+  "recipes": [
+    {
+      "left": "013",
+      "right": "103"
+    },
+    {
+      "left": "013",
+      "right": "186"
+    },
+    {
+      "left": "013",
+      "right": "261"
+    },
+    {
+      "left": "103",
+      "right": "186"
+    },
+    {
+      "left": "103",
+      "right": "207"
+    },
+    {
+      "left": "103",
+      "right": "300"
+    },
+    {
+      "left": "103",
+      "right": "468"
+    },
+    {
+      "left": "103",
+      "right": "538"
+    },
+    {
+      "left": "103",
+      "right": "552"
+    },
+    {
+      "left": "186",
+      "right": "186"
+    },
+    {
+      "left": "186",
+      "right": "207"
+    },
+    {
+      "left": "186",
+      "right": "261"
+    },
+    {
+      "left": "186",
+      "right": "300"
+    },
+    {
+      "left": "186",
+      "right": "468"
+    },
+    {
+      "left": "186",
+      "right": "538"
+    },
+    {
+      "left": "186",
+      "right": "552"
+    },
+    {
+      "left": "207",
+      "right": "261"
+    },
+    {
+      "left": "261",
+      "right": "300"
+    },
+    {
+      "left": "261",
+      "right": "468"
+    },
+    {
+      "left": "261",
+      "right": "538"
+    },
+    {
+      "left": "261",
+      "right": "552"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "005",
+      "result": "650"
+    },
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "089",
+      "result": "520"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "177",
+      "result": "520"
+    },
+    {
+      "partner": "193",
+      "result": "520"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "449",
+      "result": "520"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "486",
+      "result": "117"
+    },
+    {
+      "partner": "503",
+      "result": "520"
+    },
+    {
+      "partner": "518",
+      "result": "520"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "593",
+      "result": "520"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "595",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "595",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "595",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "595",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "595",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "595",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "595",
+      "boost": 500
+    }
+  ]
+}

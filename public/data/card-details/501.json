@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/man-eater-bug",
+    "capturedAt": "2026-07-22T17:08:11.028Z",
+    "contentHash": "8c9d6117864aca19265328a54c6ab7cf01fddba7f15d642dcf7cab0714ef4849",
+    "upstreamName": "Man-eater Bug",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "501",
+  "cardType": "Monster",
+  "description": "A creature that slices and dices with its scissors and feeds off its victims.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/501.webm",
+    "localPath": "/game-assets/models/501.webm",
+    "width": 368,
+    "height": 306,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "501",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "501",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "501",
+      "boost": 500
+    }
+  ]
+}

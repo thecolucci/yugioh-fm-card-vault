@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/axe-raider",
+    "capturedAt": "2026-07-22T17:04:03.062Z",
+    "contentHash": "d8c1d87d26209f751d4344aee8277a45cb622e69edbfa8984d9d7c486591431c",
+    "upstreamName": "Axe Raider",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "078",
+  "cardType": "Monster",
+  "description": "An axe-wielding monster of tremendous strength and agility.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/78.webm",
+    "localPath": "/game-assets/models/078.webm",
+    "width": 372,
+    "height": 241,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 43,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "011"
+    },
+    {
+      "partner": "007",
+      "result": "011"
+    },
+    {
+      "partner": "010",
+      "result": "011"
+    },
+    {
+      "partner": "015",
+      "result": "473"
+    },
+    {
+      "partner": "031",
+      "result": "011"
+    },
+    {
+      "partner": "040",
+      "result": "015"
+    },
+    {
+      "partner": "068",
+      "result": "473"
+    },
+    {
+      "partner": "081",
+      "result": "011"
+    },
+    {
+      "partner": "094",
+      "result": "011"
+    },
+    {
+      "partner": "097",
+      "result": "011"
+    },
+    {
+      "partner": "101",
+      "result": "015"
+    },
+    {
+      "partner": "122",
+      "result": "011"
+    },
+    {
+      "partner": "133",
+      "result": "015"
+    },
+    {
+      "partner": "138",
+      "result": "011"
+    },
+    {
+      "partner": "142",
+      "result": "015"
+    },
+    {
+      "partner": "154",
+      "result": "015"
+    },
+    {
+      "partner": "157",
+      "result": "015"
+    },
+    {
+      "partner": "165",
+      "result": "033"
+    },
+    {
+      "partner": "168",
+      "result": "015"
+    },
+    {
+      "partner": "172",
+      "result": "015"
+    },
+    {
+      "partner": "176",
+      "result": "015"
+    },
+    {
+      "partner": "200",
+      "result": "011"
+    },
+    {
+      "partner": "210",
+      "result": "015"
+    },
+    {
+      "partner": "214",
+      "result": "015"
+    },
+    {
+      "partner": "215",
+      "result": "015"
+    },
+    {
+      "partner": "242",
+      "result": "015"
+    },
+    {
+      "partner": "244",
+      "result": "015"
+    },
+    {
+      "partner": "272",
+      "result": "015"
+    },
+    {
+      "partner": "291",
+      "result": "015"
+    },
+    {
+      "partner": "296",
+      "result": "011"
+    },
+    {
+      "partner": "298",
+      "result": "011"
+    },
+    {
+      "partner": "353",
+      "result": "011"
+    },
+    {
+      "partner": "357",
+      "result": "015"
+    },
+    {
+      "partner": "409",
+      "result": "473"
+    },
+    {
+      "partner": "417",
+      "result": "015"
+    },
+    {
+      "partner": "425",
+      "result": "011"
+    },
+    {
+      "partner": "448",
+      "result": "011"
+    },
+    {
+      "partner": "519",
+      "result": "015"
+    },
+    {
+      "partner": "545",
+      "result": "011"
+    },
+    {
+      "partner": "555",
+      "result": "015"
+    },
+    {
+      "partner": "561",
+      "result": "011"
+    },
+    {
+      "partner": "603",
+      "result": "011"
+    },
+    {
+      "partner": "644",
+      "result": "015"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "078",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "078",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "078",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "078",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "078",
+      "boost": 500
+    }
+  ]
+}

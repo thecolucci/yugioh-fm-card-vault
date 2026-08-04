@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/elegant-egotist",
+    "capturedAt": "2026-07-22T17:07:45.513Z",
+    "contentHash": "b05e1ac54d9fc8411e1b30f0008265819eaa531249e61093c1f87347f566136e",
+    "upstreamName": "Elegant Egotist",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "318",
+  "cardType": "Equip",
+  "description": "Creates two doppelgangers of Harpy Lady for three-pronged attacks!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 3,
+    "fusions": 12,
+    "equips": 1
+  },
+  "recipes": [
+    {
+      "left": "103",
+      "right": "316"
+    },
+    {
+      "left": "261",
+      "right": "316"
+    },
+    {
+      "left": "316",
+      "right": "365"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "058",
+      "result": "310"
+    },
+    {
+      "partner": "062",
+      "result": "063"
+    },
+    {
+      "partner": "192",
+      "result": "655"
+    },
+    {
+      "partner": "298",
+      "result": "357"
+    },
+    {
+      "partner": "301",
+      "result": "697"
+    },
+    {
+      "partner": "303",
+      "result": "674"
+    },
+    {
+      "partner": "308",
+      "result": "673"
+    },
+    {
+      "partner": "313",
+      "result": "680"
+    },
+    {
+      "partner": "314",
+      "result": "680"
+    },
+    {
+      "partner": "315",
+      "result": "666"
+    },
+    {
+      "partner": "319",
+      "result": "678"
+    },
+    {
+      "partner": "337",
+      "result": "324"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "062",
+      "result": "062",
+      "boost": 500
+    }
+  ]
+}

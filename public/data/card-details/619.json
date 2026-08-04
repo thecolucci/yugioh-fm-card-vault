@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/rock-spirit",
+    "capturedAt": "2026-07-22T17:08:22.282Z",
+    "contentHash": "9d3e47682737a41f5084b4da22eedfe0859eb04a0fdd937eda01346c1ca9ba3f",
+    "upstreamName": "Rock Spirit",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "619",
+  "cardType": "Monster",
+  "description": "A clay idol representing a rock spirit. The creature has significant attack and defense factors.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/619.webm",
+    "localPath": "/game-assets/models/619.webm",
+    "width": 300,
+    "height": 272,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 12,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "458"
+    },
+    {
+      "partner": "191",
+      "result": "458"
+    },
+    {
+      "partner": "211",
+      "result": "458"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "458"
+    },
+    {
+      "partner": "460",
+      "result": "458"
+    },
+    {
+      "partner": "461",
+      "result": "458"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "458"
+    },
+    {
+      "partner": "537",
+      "result": "458"
+    },
+    {
+      "partner": "610",
+      "result": "458"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "306",
+      "result": "619",
+      "boost": 500
+    },
+    {
+      "partner": "307",
+      "result": "619",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "619",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "619",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "619",
+      "boost": 500
+    }
+  ]
+}

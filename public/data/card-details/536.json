@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mechaleon",
+    "capturedAt": "2026-07-22T17:08:12.734Z",
+    "contentHash": "482de3a832c40d8dbdf11ff676139851c3f0c26cfcf3baaef9b50fd1e7cc2ad9",
+    "upstreamName": "Mechaleon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "536",
+  "cardType": "Monster",
+  "description": "A chameleon-like monster that can hide anywhere by changing colors.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/536.webm",
+    "localPath": "/game-assets/models/536.webm",
+    "width": 416,
+    "height": 255,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 22,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "008",
+      "result": "620"
+    },
+    {
+      "partner": "075",
+      "result": "620"
+    },
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "123",
+      "result": "620"
+    },
+    {
+      "partner": "157",
+      "result": "620"
+    },
+    {
+      "partner": "158",
+      "result": "620"
+    },
+    {
+      "partner": "180",
+      "result": "620"
+    },
+    {
+      "partner": "191",
+      "result": "610"
+    },
+    {
+      "partner": "211",
+      "result": "610"
+    },
+    {
+      "partner": "238",
+      "result": "620"
+    },
+    {
+      "partner": "273",
+      "result": "620"
+    },
+    {
+      "partner": "274",
+      "result": "620"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "463",
+      "result": "610"
+    },
+    {
+      "partner": "488",
+      "result": "620"
+    },
+    {
+      "partner": "510",
+      "result": "620"
+    },
+    {
+      "partner": "537",
+      "result": "610"
+    },
+    {
+      "partner": "547",
+      "result": "620"
+    },
+    {
+      "partner": "579",
+      "result": "620"
+    },
+    {
+      "partner": "588",
+      "result": "620"
+    },
+    {
+      "partner": "589",
+      "result": "620"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "326",
+      "result": "536",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "536",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "536",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "536",
+      "boost": 500
+    }
+  ]
+}

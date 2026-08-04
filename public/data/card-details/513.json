@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/guardian-of-the-throne-room",
+    "capturedAt": "2026-07-22T17:08:11.495Z",
+    "contentHash": "bb278f1864c55ceee092b91028c4ef92b198654537e6273594239ebc531fe2f0",
+    "upstreamName": "Guardian of the Throne Room",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "513",
+  "cardType": "Monster",
+  "description": "A sentry robot armed with homing rockets for guarding throne rooms from intruders.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/513.webm",
+    "localPath": "/game-assets/models/513.webm",
+    "width": 388,
+    "height": 265,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 34,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "513",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "513",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "513",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "513",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "513",
+      "boost": 500
+    }
+  ]
+}

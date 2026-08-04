@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/minar",
+    "capturedAt": "2026-07-22T17:08:12.824Z",
+    "contentHash": "ad563ce231898edd1a09507bc34366cdc523fe14e7c2012d351cbc09cb2d800c",
+    "upstreamName": "Minar",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "534",
+  "cardType": "Monster",
+  "description": "A monster with four highly dexterous arms for executing separate attacks.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "MOON",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/534.webm",
+    "localPath": "/game-assets/models/534.webm",
+    "width": 478,
+    "height": 399,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 12,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "534",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "534",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "534",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "534",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "534",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "534",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "534",
+      "boost": 500
+    }
+  ]
+}

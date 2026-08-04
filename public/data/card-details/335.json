@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/yami",
+    "capturedAt": "2026-07-22T17:07:46.958Z",
+    "contentHash": "b0e47ab0028eed3e66d6e01d8218218b9d9f249fee00c2d3ed2a7b39f5308c41",
+    "upstreamName": "Yami",
+    "upstreamCardType": "FIELD"
+  },
+  "cardId": "335",
+  "cardType": "Field",
+  "description": "Changes the field in favor of Magic-User and Fiend monsters, but unfavorable to Fairy monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "311",
+      "result": "684"
+    },
+    {
+      "partner": "335",
+      "result": "303"
+    }
+  ],
+  "equips": []
+}

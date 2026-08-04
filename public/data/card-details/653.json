@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/warrior-elimination",
+    "capturedAt": "2026-07-22T17:08:24.585Z",
+    "contentHash": "7136cb03577dd047a116074fe0004062d7f2f32d0d41c821495b167ae0fb4afb",
+    "upstreamName": "Warrior Elimination",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "653",
+  "cardType": "Magic",
+  "description": "Destroys all opponent Warrior cards played on the field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "093",
+      "result": "096"
+    },
+    {
+      "partner": "376",
+      "result": "316"
+    },
+    {
+      "partner": "434",
+      "result": "316"
+    }
+  ],
+  "equips": []
+}

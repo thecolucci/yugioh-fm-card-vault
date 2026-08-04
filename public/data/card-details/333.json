@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sogen",
+    "capturedAt": "2026-07-22T17:07:47.311Z",
+    "contentHash": "c2a1a8483af1adb693b080aa17795de929c39bec80a0a7564c6697d8072c323e",
+    "upstreamName": "Sogen",
+    "upstreamCardType": "FIELD"
+  },
+  "cardId": "333",
+  "cardType": "Field",
+  "description": "Changes the field to meadow land in favor of Warrior and Beast-Warrior monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": []
+}

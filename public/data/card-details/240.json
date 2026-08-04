@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/the-drdek",
+    "capturedAt": "2026-07-22T17:07:30.520Z",
+    "contentHash": "fe4689698f0411d8454a2deacdbbb356f1c955c638816f48df07cfce6d843c65",
+    "upstreamName": "The Drdek",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "240",
+  "cardType": "Monster",
+  "description": "An eyeball creature with legs for jumping high and delivering finishing blows with its sharp claws.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/240.webm",
+    "localPath": "/game-assets/models/240.webm",
+    "width": 248,
+    "height": 353,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 15,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "240",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "240",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "240",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "240",
+      "boost": 500
+    }
+  ]
+}

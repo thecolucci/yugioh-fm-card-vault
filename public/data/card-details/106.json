@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/spirit-of-the-winds",
+    "capturedAt": "2026-07-22T17:05:01.616Z",
+    "contentHash": "f8cdc11ceb1aad4bb81cb580e896aee3f3d324480d1b8349b426b43d57c59eeb",
+    "upstreamName": "Spirit of the Winds",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "106",
+  "cardType": "Monster",
+  "description": "A spirit of the wind that freely sails the skies. Known to generate storms when it's in a bad mood.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SATURN",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/106.webm",
+    "localPath": "/game-assets/models/106.webm",
+    "width": 264,
+    "height": 331,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 12,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "458"
+    },
+    {
+      "partner": "191",
+      "result": "458"
+    },
+    {
+      "partner": "211",
+      "result": "458"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "458"
+    },
+    {
+      "partner": "460",
+      "result": "458"
+    },
+    {
+      "partner": "461",
+      "result": "458"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "458"
+    },
+    {
+      "partner": "537",
+      "result": "458"
+    },
+    {
+      "partner": "610",
+      "result": "458"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "316",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "106",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "106",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "106",
+      "boost": 500
+    }
+  ]
+}

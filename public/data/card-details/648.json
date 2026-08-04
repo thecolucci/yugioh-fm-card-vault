@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/machine-attacker",
+    "capturedAt": "2026-07-22T17:08:23.889Z",
+    "contentHash": "eb938afb580aed11b1e008ca9881aeee0cb4f77a8753a76fb582de10328d4b68",
+    "upstreamName": "Machine Attacker",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "648",
+  "cardType": "Monster",
+  "description": "A machine designed to blitz its enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/648.webm",
+    "localPath": "/game-assets/models/648.webm",
+    "width": 488,
+    "height": 472,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 54,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "046",
+      "result": "423"
+    },
+    {
+      "partner": "047",
+      "result": "423"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "061",
+      "result": "423"
+    },
+    {
+      "partner": "065",
+      "result": "423"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "091",
+      "result": "423"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "113",
+      "result": "423"
+    },
+    {
+      "partner": "121",
+      "result": "423"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "188",
+      "result": "423"
+    },
+    {
+      "partner": "189",
+      "result": "423"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "201",
+      "result": "423"
+    },
+    {
+      "partner": "202",
+      "result": "423"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "248",
+      "result": "423"
+    },
+    {
+      "partner": "255",
+      "result": "423"
+    },
+    {
+      "partner": "282",
+      "result": "423"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "481",
+      "result": "423"
+    },
+    {
+      "partner": "527",
+      "result": "423"
+    },
+    {
+      "partner": "528",
+      "result": "423"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "597",
+      "result": "423"
+    },
+    {
+      "partner": "598",
+      "result": "423"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "604",
+      "result": "423"
+    },
+    {
+      "partner": "629",
+      "result": "423"
+    },
+    {
+      "partner": "642",
+      "result": "423"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "648",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "648",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "648",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "648",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "648",
+      "boost": 500
+    }
+  ]
+}

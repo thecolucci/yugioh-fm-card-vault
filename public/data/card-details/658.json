@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/metalmorph",
+    "capturedAt": "2026-07-22T17:08:24.752Z",
+    "contentHash": "5b12f6b97f47d4edd9c7d0b6750162d881cbd3feea5e588df800004d113a3709",
+    "upstreamName": "Metalmorph",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "658",
+  "cardType": "Equip",
+  "description": "A card that changes any selected monster to a Machine monster.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 11,
+    "equips": 1
+  },
+  "recipes": [
+    {
+      "left": "088",
+      "right": "316"
+    },
+    {
+      "left": "088",
+      "right": "325"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "310",
+      "result": "661"
+    },
+    {
+      "partner": "316",
+      "result": "337"
+    },
+    {
+      "partner": "367",
+      "result": "390"
+    },
+    {
+      "partner": "391",
+      "result": "392"
+    },
+    {
+      "partner": "428",
+      "result": "433"
+    },
+    {
+      "partner": "543",
+      "result": "438"
+    },
+    {
+      "partner": "652",
+      "result": "667"
+    },
+    {
+      "partner": "658",
+      "result": "665"
+    },
+    {
+      "partner": "660",
+      "result": "695"
+    },
+    {
+      "partner": "681",
+      "result": "325"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "391",
+      "result": "391",
+      "boost": 500
+    }
+  ]
+}

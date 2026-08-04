@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/seiyaryu",
+    "capturedAt": "2026-07-22T17:07:51.734Z",
+    "contentHash": "0aabc7f8e822123849991ba68d8b997b598c576396d85aa3c226316db1ee02df",
+    "upstreamName": "Seiyaryu",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "358",
+  "cardType": "Monster",
+  "description": "A sacred dragon that burns away wickedness with its mystical flames.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SUN",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/358.webm",
+    "localPath": "/game-assets/models/358.webm",
+    "width": 574,
+    "height": 299,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 13,
+    "equips": 3
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "613"
+    },
+    {
+      "partner": "191",
+      "result": "613"
+    },
+    {
+      "partner": "211",
+      "result": "613"
+    },
+    {
+      "partner": "371",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "458",
+      "result": "613"
+    },
+    {
+      "partner": "459",
+      "result": "613"
+    },
+    {
+      "partner": "460",
+      "result": "613"
+    },
+    {
+      "partner": "461",
+      "result": "613"
+    },
+    {
+      "partner": "462",
+      "result": "613"
+    },
+    {
+      "partner": "463",
+      "result": "613"
+    },
+    {
+      "partner": "537",
+      "result": "613"
+    },
+    {
+      "partner": "610",
+      "result": "613"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "358",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "358",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "358",
+      "boost": 500
+    }
+  ]
+}

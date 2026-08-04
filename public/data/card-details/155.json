@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/larvas",
+    "capturedAt": "2026-07-22T17:06:57.483Z",
+    "contentHash": "dea96b8de919a427536ec6a4d96d2047eb4c8065f7d479aa3ad4748d979f8cb8",
+    "upstreamName": "Larvas",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "155",
+  "cardType": "Monster",
+  "description": "A fast-moving, bird-like creature that strangles an opposing monster with its long, thin arms.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/155.webm",
+    "localPath": "/game-assets/models/155.webm",
+    "width": 226,
+    "height": 197,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 67,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "459"
+    },
+    {
+      "partner": "046",
+      "result": "587"
+    },
+    {
+      "partner": "047",
+      "result": "587"
+    },
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "061",
+      "result": "587"
+    },
+    {
+      "partner": "065",
+      "result": "587"
+    },
+    {
+      "partner": "113",
+      "result": "587"
+    },
+    {
+      "partner": "121",
+      "result": "587"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "155",
+      "result": "587"
+    },
+    {
+      "partner": "159",
+      "result": "587"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "177",
+      "result": "193"
+    },
+    {
+      "partner": "187",
+      "result": "587"
+    },
+    {
+      "partner": "188",
+      "result": "587"
+    },
+    {
+      "partner": "189",
+      "result": "587"
+    },
+    {
+      "partner": "191",
+      "result": "459"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "201",
+      "result": "587"
+    },
+    {
+      "partner": "202",
+      "result": "587"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "211",
+      "result": "459"
+    },
+    {
+      "partner": "212",
+      "result": "587"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "404"
+    },
+    {
+      "partner": "248",
+      "result": "587"
+    },
+    {
+      "partner": "251",
+      "result": "404"
+    },
+    {
+      "partner": "252",
+      "result": "587"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "255",
+      "result": "587"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "282",
+      "result": "587"
+    },
+    {
+      "partner": "384",
+      "result": "587"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "404"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "461",
+      "result": "459"
+    },
+    {
+      "partner": "463",
+      "result": "459"
+    },
+    {
+      "partner": "481",
+      "result": "587"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "496",
+      "result": "587"
+    },
+    {
+      "partner": "503",
+      "result": "193"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "527",
+      "result": "587"
+    },
+    {
+      "partner": "537",
+      "result": "459"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "541",
+      "result": "587"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "404"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "598",
+      "result": "587"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "604",
+      "result": "587"
+    },
+    {
+      "partner": "607",
+      "result": "587"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "610",
+      "result": "459"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "404"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "629",
+      "result": "587"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    },
+    {
+      "partner": "642",
+      "result": "587"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "155",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "155",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "155",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "155",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "155",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "155",
+      "boost": 500
+    }
+  ]
+}

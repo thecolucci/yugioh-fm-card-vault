@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/puppet-ritual",
+    "capturedAt": "2026-07-22T17:08:26.869Z",
+    "contentHash": "b388cfaaec9777d8ed6cb79ebf42fba018f348c7881c53d8b8494f8e222e87e9",
+    "upstreamName": "Puppet Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "695",
+  "cardType": "Ritual",
+  "description": "Sacrifice Puppeteer and Machine monsters to summon the Puppet.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "658",
+      "right": "660"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "665",
+      "result": "678"
+    }
+  ],
+  "equips": []
+}

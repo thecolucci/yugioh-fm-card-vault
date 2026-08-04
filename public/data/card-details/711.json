@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mikazukinoyaiba",
+    "capturedAt": "2026-07-22T17:08:47.694Z",
+    "contentHash": "380b63a494c798f6a3c1da87ebcee1da7c9b5a6207972940a9475811b50f18a9",
+    "upstreamName": "Mikazukinoyaiba",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "711",
+  "cardType": "Monster",
+  "description": "A dragon warrior armed with a crescent-shaped sword. Rumored to be from the moon.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SUN",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/711.webm",
+    "localPath": "/game-assets/models/711.webm",
+    "width": 350,
+    "height": 341,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 3
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "016",
+      "result": "069"
+    },
+    {
+      "partner": "045",
+      "result": "613"
+    },
+    {
+      "partner": "191",
+      "result": "613"
+    },
+    {
+      "partner": "211",
+      "result": "613"
+    },
+    {
+      "partner": "371",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "458",
+      "result": "613"
+    },
+    {
+      "partner": "459",
+      "result": "613"
+    },
+    {
+      "partner": "460",
+      "result": "613"
+    },
+    {
+      "partner": "461",
+      "result": "613"
+    },
+    {
+      "partner": "462",
+      "result": "613"
+    },
+    {
+      "partner": "463",
+      "result": "613"
+    },
+    {
+      "partner": "537",
+      "result": "613"
+    },
+    {
+      "partner": "610",
+      "result": "613"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "711",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "711",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "711",
+      "boost": 500
+    }
+  ]
+}

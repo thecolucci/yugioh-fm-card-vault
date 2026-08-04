@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/insect-soldiers-of-the-sky",
+    "capturedAt": "2026-07-22T17:08:06.129Z",
+    "contentHash": "763a1f97d5725abbad9f1df91260e7003628204cbd7a284f7647de42e8adc4e0",
+    "upstreamName": "Insect Soldiers of the Sky",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "478",
+  "cardType": "Monster",
+  "description": "Insect soldiers that attack in swarms.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "SATURN",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/478.webm",
+    "localPath": "/game-assets/models/478.webm",
+    "width": 402,
+    "height": 200,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "478",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "478",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "478",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "478",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "478",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "478",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "478",
+      "boost": 500
+    }
+  ]
+}

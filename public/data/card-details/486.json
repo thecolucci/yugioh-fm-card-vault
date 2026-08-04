@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/boo-koo",
+    "capturedAt": "2026-07-22T17:08:10.748Z",
+    "contentHash": "415cb75096b045698f38446075ca7338d322143dca3eb5b3aa04333b4bf39f9f",
+    "upstreamName": "Boo Koo",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "486",
+  "cardType": "Monster",
+  "description": "A book wizard with page after page of potent spells.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/486.webm",
+    "localPath": "/game-assets/models/486.webm",
+    "width": 204,
+    "height": 204,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 51,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "009",
+      "result": "470"
+    },
+    {
+      "partner": "013",
+      "result": "117"
+    },
+    {
+      "partner": "024",
+      "result": "470"
+    },
+    {
+      "partner": "030",
+      "result": "470"
+    },
+    {
+      "partner": "045",
+      "result": "462"
+    },
+    {
+      "partner": "062",
+      "result": "117"
+    },
+    {
+      "partner": "089",
+      "result": "449"
+    },
+    {
+      "partner": "108",
+      "result": "470"
+    },
+    {
+      "partner": "132",
+      "result": "470"
+    },
+    {
+      "partner": "135",
+      "result": "470"
+    },
+    {
+      "partner": "139",
+      "result": "470"
+    },
+    {
+      "partner": "146",
+      "result": "470"
+    },
+    {
+      "partner": "153",
+      "result": "470"
+    },
+    {
+      "partner": "154",
+      "result": "470"
+    },
+    {
+      "partner": "177",
+      "result": "449"
+    },
+    {
+      "partner": "186",
+      "result": "117"
+    },
+    {
+      "partner": "191",
+      "result": "462"
+    },
+    {
+      "partner": "193",
+      "result": "449"
+    },
+    {
+      "partner": "197",
+      "result": "470"
+    },
+    {
+      "partner": "203",
+      "result": "470"
+    },
+    {
+      "partner": "207",
+      "result": "117"
+    },
+    {
+      "partner": "211",
+      "result": "462"
+    },
+    {
+      "partner": "215",
+      "result": "470"
+    },
+    {
+      "partner": "228",
+      "result": "470"
+    },
+    {
+      "partner": "241",
+      "result": "470"
+    },
+    {
+      "partner": "264",
+      "result": "002"
+    },
+    {
+      "partner": "272",
+      "result": "117"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "300",
+      "result": "117"
+    },
+    {
+      "partner": "350",
+      "result": "323"
+    },
+    {
+      "partner": "359",
+      "result": "470"
+    },
+    {
+      "partner": "387",
+      "result": "149"
+    },
+    {
+      "partner": "395",
+      "result": "002"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "462"
+    },
+    {
+      "partner": "460",
+      "result": "462"
+    },
+    {
+      "partner": "461",
+      "result": "462"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "462"
+    },
+    {
+      "partner": "468",
+      "result": "117"
+    },
+    {
+      "partner": "503",
+      "result": "449"
+    },
+    {
+      "partner": "537",
+      "result": "462"
+    },
+    {
+      "partner": "538",
+      "result": "117"
+    },
+    {
+      "partner": "539",
+      "result": "470"
+    },
+    {
+      "partner": "548",
+      "result": "470"
+    },
+    {
+      "partner": "552",
+      "result": "117"
+    },
+    {
+      "partner": "556",
+      "result": "470"
+    },
+    {
+      "partner": "595",
+      "result": "117"
+    },
+    {
+      "partner": "610",
+      "result": "462"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "307",
+      "result": "486",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "486",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "486",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "486",
+      "boost": 500
+    }
+  ]
+}

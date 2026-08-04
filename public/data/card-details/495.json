@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/musician-king",
+    "capturedAt": "2026-07-22T17:08:10.394Z",
+    "contentHash": "a0251c5312cd6b2fd5f0c14ce30576a8929708cd31bd139ae15803b8b1662a67",
+    "upstreamName": "Musician King",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "495",
+  "cardType": "Monster",
+  "description": "A fantastic guitar player that attacks enemies with ultrasonic emissions.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/495.webm",
+    "localPath": "/game-assets/models/495.webm",
+    "width": 230,
+    "height": 343,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 68,
+    "fusions": 12,
+    "equips": 6
+  },
+  "recipes": [
+    {
+      "left": "041",
+      "right": "299"
+    },
+    {
+      "left": "044",
+      "right": "299"
+    },
+    {
+      "left": "044",
+      "right": "649"
+    },
+    {
+      "left": "109",
+      "right": "299"
+    },
+    {
+      "left": "109",
+      "right": "649"
+    },
+    {
+      "left": "114",
+      "right": "299"
+    },
+    {
+      "left": "114",
+      "right": "649"
+    },
+    {
+      "left": "125",
+      "right": "299"
+    },
+    {
+      "left": "125",
+      "right": "649"
+    },
+    {
+      "left": "128",
+      "right": "299"
+    },
+    {
+      "left": "128",
+      "right": "649"
+    },
+    {
+      "left": "130",
+      "right": "299"
+    },
+    {
+      "left": "130",
+      "right": "649"
+    },
+    {
+      "left": "134",
+      "right": "299"
+    },
+    {
+      "left": "134",
+      "right": "649"
+    },
+    {
+      "left": "165",
+      "right": "299"
+    },
+    {
+      "left": "165",
+      "right": "649"
+    },
+    {
+      "left": "170",
+      "right": "299"
+    },
+    {
+      "left": "170",
+      "right": "649"
+    },
+    {
+      "left": "183",
+      "right": "299"
+    },
+    {
+      "left": "183",
+      "right": "649"
+    },
+    {
+      "left": "192",
+      "right": "299"
+    },
+    {
+      "left": "192",
+      "right": "649"
+    },
+    {
+      "left": "198",
+      "right": "299"
+    },
+    {
+      "left": "198",
+      "right": "649"
+    },
+    {
+      "left": "208",
+      "right": "299"
+    },
+    {
+      "left": "208",
+      "right": "649"
+    },
+    {
+      "left": "229",
+      "right": "299"
+    },
+    {
+      "left": "229",
+      "right": "649"
+    },
+    {
+      "left": "260",
+      "right": "299"
+    },
+    {
+      "left": "260",
+      "right": "649"
+    },
+    {
+      "left": "290",
+      "right": "299"
+    },
+    {
+      "left": "290",
+      "right": "649"
+    },
+    {
+      "left": "293",
+      "right": "299"
+    },
+    {
+      "left": "293",
+      "right": "649"
+    },
+    {
+      "left": "299",
+      "right": "299"
+    },
+    {
+      "left": "299",
+      "right": "428"
+    },
+    {
+      "left": "299",
+      "right": "429"
+    },
+    {
+      "left": "299",
+      "right": "433"
+    },
+    {
+      "left": "299",
+      "right": "486"
+    },
+    {
+      "left": "299",
+      "right": "492"
+    },
+    {
+      "left": "299",
+      "right": "493"
+    },
+    {
+      "left": "299",
+      "right": "513"
+    },
+    {
+      "left": "299",
+      "right": "540"
+    },
+    {
+      "left": "299",
+      "right": "584"
+    },
+    {
+      "left": "299",
+      "right": "592"
+    },
+    {
+      "left": "299",
+      "right": "601"
+    },
+    {
+      "left": "299",
+      "right": "608"
+    },
+    {
+      "left": "299",
+      "right": "612"
+    },
+    {
+      "left": "299",
+      "right": "616"
+    },
+    {
+      "left": "299",
+      "right": "622"
+    },
+    {
+      "left": "299",
+      "right": "633"
+    },
+    {
+      "left": "299",
+      "right": "649"
+    },
+    {
+      "left": "428",
+      "right": "649"
+    },
+    {
+      "left": "429",
+      "right": "649"
+    },
+    {
+      "left": "486",
+      "right": "649"
+    },
+    {
+      "left": "492",
+      "right": "649"
+    },
+    {
+      "left": "493",
+      "right": "649"
+    },
+    {
+      "left": "513",
+      "right": "649"
+    },
+    {
+      "left": "540",
+      "right": "649"
+    },
+    {
+      "left": "584",
+      "right": "649"
+    },
+    {
+      "left": "592",
+      "right": "649"
+    },
+    {
+      "left": "601",
+      "right": "649"
+    },
+    {
+      "left": "608",
+      "right": "649"
+    },
+    {
+      "left": "612",
+      "right": "649"
+    },
+    {
+      "left": "616",
+      "right": "649"
+    },
+    {
+      "left": "622",
+      "right": "649"
+    },
+    {
+      "left": "633",
+      "right": "649"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "458"
+    },
+    {
+      "partner": "191",
+      "result": "458"
+    },
+    {
+      "partner": "211",
+      "result": "458"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "458"
+    },
+    {
+      "partner": "460",
+      "result": "458"
+    },
+    {
+      "partner": "461",
+      "result": "458"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "458"
+    },
+    {
+      "partner": "537",
+      "result": "458"
+    },
+    {
+      "partner": "610",
+      "result": "458"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "306",
+      "result": "495",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "495",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "495",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "495",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "495",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "495",
+      "boost": 500
+    }
+  ]
+}

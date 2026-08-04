@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/kamakiriman",
+    "capturedAt": "2026-07-22T17:08:12.502Z",
+    "contentHash": "50d6787c5ef3d5ad4a2780cc94e6f60db334baa1539ab9eb4e763194e8de6b21",
+    "upstreamName": "Kamakiriman",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "535",
+  "cardType": "Monster",
+  "description": "A man-shaped mantis with two razor-sharp scythes.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/535.webm",
+    "localPath": "/game-assets/models/535.webm",
+    "width": 312,
+    "height": 319,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "535",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "535",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "535",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "535",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "535",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "535",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "535",
+      "boost": 500
+    }
+  ]
+}

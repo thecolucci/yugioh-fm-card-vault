@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/shadow-ghoul",
+    "capturedAt": "2026-07-22T17:07:53.300Z",
+    "contentHash": "2b63f25756dcaefbe732aebf388fb0c01191a057ade5875d2114cf72e61329b5",
+    "upstreamName": "Shadow Ghoul",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "368",
+  "cardType": "Monster",
+  "description": "A dangerous zombie that crawls in the dark.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "MOON",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/368.webm",
+    "localPath": "/game-assets/models/368.webm",
+    "width": 341,
+    "height": 353,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 47,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "545"
+    },
+    {
+      "partner": "007",
+      "result": "545"
+    },
+    {
+      "partner": "008",
+      "result": "099"
+    },
+    {
+      "partner": "010",
+      "result": "545"
+    },
+    {
+      "partner": "011",
+      "result": "039"
+    },
+    {
+      "partner": "031",
+      "result": "545"
+    },
+    {
+      "partner": "059",
+      "result": "564"
+    },
+    {
+      "partner": "073",
+      "result": "039"
+    },
+    {
+      "partner": "075",
+      "result": "099"
+    },
+    {
+      "partner": "081",
+      "result": "545"
+    },
+    {
+      "partner": "094",
+      "result": "545"
+    },
+    {
+      "partner": "097",
+      "result": "545"
+    },
+    {
+      "partner": "122",
+      "result": "545"
+    },
+    {
+      "partner": "123",
+      "result": "099"
+    },
+    {
+      "partner": "138",
+      "result": "545"
+    },
+    {
+      "partner": "157",
+      "result": "099"
+    },
+    {
+      "partner": "158",
+      "result": "099"
+    },
+    {
+      "partner": "168",
+      "result": "545"
+    },
+    {
+      "partner": "180",
+      "result": "099"
+    },
+    {
+      "partner": "200",
+      "result": "545"
+    },
+    {
+      "partner": "238",
+      "result": "099"
+    },
+    {
+      "partner": "273",
+      "result": "099"
+    },
+    {
+      "partner": "274",
+      "result": "099"
+    },
+    {
+      "partner": "296",
+      "result": "545"
+    },
+    {
+      "partner": "298",
+      "result": "545"
+    },
+    {
+      "partner": "353",
+      "result": "545"
+    },
+    {
+      "partner": "357",
+      "result": "545"
+    },
+    {
+      "partner": "409",
+      "result": "039"
+    },
+    {
+      "partner": "424",
+      "result": "039"
+    },
+    {
+      "partner": "425",
+      "result": "545"
+    },
+    {
+      "partner": "448",
+      "result": "545"
+    },
+    {
+      "partner": "488",
+      "result": "099"
+    },
+    {
+      "partner": "489",
+      "result": "099"
+    },
+    {
+      "partner": "510",
+      "result": "099"
+    },
+    {
+      "partner": "511",
+      "result": "099"
+    },
+    {
+      "partner": "545",
+      "result": "039"
+    },
+    {
+      "partner": "547",
+      "result": "099"
+    },
+    {
+      "partner": "555",
+      "result": "039"
+    },
+    {
+      "partner": "561",
+      "result": "545"
+    },
+    {
+      "partner": "567",
+      "result": "099"
+    },
+    {
+      "partner": "579",
+      "result": "099"
+    },
+    {
+      "partner": "588",
+      "result": "099"
+    },
+    {
+      "partner": "589",
+      "result": "099"
+    },
+    {
+      "partner": "603",
+      "result": "545"
+    },
+    {
+      "partner": "620",
+      "result": "099"
+    },
+    {
+      "partner": "637",
+      "result": "099"
+    },
+    {
+      "partner": "712",
+      "result": "039"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "368",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "368",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "368",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "368",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "368",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "368",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/spirit-of-the-harp",
+    "capturedAt": "2026-07-22T17:07:14.655Z",
+    "contentHash": "9d843267142963b03cdf32e818b6ac4a51270c2aeeca43785c63301ca3468255",
+    "upstreamName": "Spirit of the Harp",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "170",
+  "cardType": "Monster",
+  "description": "A spirit that soothes the soul with the music of its glorious harp.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/170.webm",
+    "localPath": "/game-assets/models/170.webm",
+    "width": 232,
+    "height": 326,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 46,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "582"
+    },
+    {
+      "partner": "045",
+      "result": "136"
+    },
+    {
+      "partner": "062",
+      "result": "582"
+    },
+    {
+      "partner": "109",
+      "result": "582"
+    },
+    {
+      "partner": "128",
+      "result": "582"
+    },
+    {
+      "partner": "129",
+      "result": "582"
+    },
+    {
+      "partner": "180",
+      "result": "582"
+    },
+    {
+      "partner": "192",
+      "result": "582"
+    },
+    {
+      "partner": "216",
+      "result": "582"
+    },
+    {
+      "partner": "234",
+      "result": "582"
+    },
+    {
+      "partner": "239",
+      "result": "582"
+    },
+    {
+      "partner": "243",
+      "result": "582"
+    },
+    {
+      "partner": "249",
+      "result": "582"
+    },
+    {
+      "partner": "251",
+      "result": "582"
+    },
+    {
+      "partner": "252",
+      "result": "582"
+    },
+    {
+      "partner": "253",
+      "result": "582"
+    },
+    {
+      "partner": "260",
+      "result": "582"
+    },
+    {
+      "partner": "266",
+      "result": "582"
+    },
+    {
+      "partner": "280",
+      "result": "582"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "352",
+      "result": "582"
+    },
+    {
+      "partner": "363",
+      "result": "582"
+    },
+    {
+      "partner": "395",
+      "result": "582"
+    },
+    {
+      "partner": "428",
+      "result": "582"
+    },
+    {
+      "partner": "429",
+      "result": "582"
+    },
+    {
+      "partner": "430",
+      "result": "582"
+    },
+    {
+      "partner": "431",
+      "result": "582"
+    },
+    {
+      "partner": "432",
+      "result": "582"
+    },
+    {
+      "partner": "433",
+      "result": "582"
+    },
+    {
+      "partner": "434",
+      "result": "582"
+    },
+    {
+      "partner": "435",
+      "result": "582"
+    },
+    {
+      "partner": "494",
+      "result": "582"
+    },
+    {
+      "partner": "530",
+      "result": "582"
+    },
+    {
+      "partner": "574",
+      "result": "582"
+    },
+    {
+      "partner": "592",
+      "result": "582"
+    },
+    {
+      "partner": "600",
+      "result": "582"
+    },
+    {
+      "partner": "612",
+      "result": "582"
+    },
+    {
+      "partner": "621",
+      "result": "582"
+    },
+    {
+      "partner": "622",
+      "result": "582"
+    },
+    {
+      "partner": "625",
+      "result": "582"
+    },
+    {
+      "partner": "626",
+      "result": "582"
+    },
+    {
+      "partner": "628",
+      "result": "582"
+    },
+    {
+      "partner": "631",
+      "result": "582"
+    },
+    {
+      "partner": "635",
+      "result": "582"
+    },
+    {
+      "partner": "641",
+      "result": "582"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "307",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "312",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "170",
+      "boost": 1000
+    },
+    {
+      "partner": "659",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "668",
+      "result": "170",
+      "boost": 500
+    }
+  ]
+}

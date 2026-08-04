@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dragon-capture-jar",
+    "capturedAt": "2026-07-22T17:07:46.764Z",
+    "contentHash": "caed382678094e641a86b7120b30030b95d48fc52ba79d6a58d1ed24615e0cf1",
+    "upstreamName": "Dragon Capture Jar",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "329",
+  "cardType": "Magic",
+  "description": "Destroys all opponent Dragon monsters on the playfield!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "315",
+      "right": "338"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "094",
+      "result": "097"
+    },
+    {
+      "partner": "347",
+      "result": "686"
+    }
+  ],
+  "equips": []
+}

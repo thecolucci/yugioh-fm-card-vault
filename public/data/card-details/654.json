@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/salamandra",
+    "capturedAt": "2026-07-22T17:08:25.249Z",
+    "contentHash": "5b20b9ec4aca2abe88bc911bebbaa4be5ef8d1735eb42b7805a8983f8c0a002f",
+    "upstreamName": "Salamandra",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "654",
+  "cardType": "Equip",
+  "description": "Increases the strength of those who control the power of Salamandra.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 31
+  },
+  "recipes": [
+    {
+      "left": "301",
+      "right": "343"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "015",
+      "result": "015",
+      "boost": 500
+    },
+    {
+      "partner": "040",
+      "result": "040",
+      "boost": 500
+    },
+    {
+      "partner": "068",
+      "result": "068",
+      "boost": 500
+    },
+    {
+      "partner": "101",
+      "result": "101",
+      "boost": 500
+    },
+    {
+      "partner": "133",
+      "result": "133",
+      "boost": 500
+    },
+    {
+      "partner": "142",
+      "result": "142",
+      "boost": 500
+    },
+    {
+      "partner": "154",
+      "result": "154",
+      "boost": 500
+    },
+    {
+      "partner": "157",
+      "result": "157",
+      "boost": 500
+    },
+    {
+      "partner": "168",
+      "result": "168",
+      "boost": 500
+    },
+    {
+      "partner": "172",
+      "result": "172",
+      "boost": 500
+    },
+    {
+      "partner": "176",
+      "result": "176",
+      "boost": 500
+    },
+    {
+      "partner": "210",
+      "result": "210",
+      "boost": 500
+    },
+    {
+      "partner": "214",
+      "result": "214",
+      "boost": 500
+    },
+    {
+      "partner": "215",
+      "result": "215",
+      "boost": 500
+    },
+    {
+      "partner": "242",
+      "result": "242",
+      "boost": 500
+    },
+    {
+      "partner": "244",
+      "result": "244",
+      "boost": 500
+    },
+    {
+      "partner": "272",
+      "result": "272",
+      "boost": 500
+    },
+    {
+      "partner": "291",
+      "result": "291",
+      "boost": 500
+    },
+    {
+      "partner": "357",
+      "result": "357",
+      "boost": 500
+    },
+    {
+      "partner": "390",
+      "result": "390",
+      "boost": 500
+    },
+    {
+      "partner": "407",
+      "result": "407",
+      "boost": 500
+    },
+    {
+      "partner": "409",
+      "result": "409",
+      "boost": 500
+    },
+    {
+      "partner": "417",
+      "result": "417",
+      "boost": 500
+    },
+    {
+      "partner": "467",
+      "result": "467",
+      "boost": 500
+    },
+    {
+      "partner": "473",
+      "result": "473",
+      "boost": 500
+    },
+    {
+      "partner": "519",
+      "result": "519",
+      "boost": 500
+    },
+    {
+      "partner": "529",
+      "result": "529",
+      "boost": 500
+    },
+    {
+      "partner": "555",
+      "result": "555",
+      "boost": 500
+    },
+    {
+      "partner": "644",
+      "result": "644",
+      "boost": 500
+    },
+    {
+      "partner": "713",
+      "result": "713",
+      "boost": 500
+    },
+    {
+      "partner": "714",
+      "result": "714",
+      "boost": 500
+    }
+  ]
+}

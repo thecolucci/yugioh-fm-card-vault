@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/hiros-shadow-scout",
+    "capturedAt": "2026-07-22T17:08:22.072Z",
+    "contentHash": "51de63bb63f46fdd016392d1a139b6701f7346fe17b08856a3e985e97a97bd78",
+    "upstreamName": "Hiro's Shadow Scout",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "611",
+  "cardType": "Monster",
+  "description": "A servant of fiends used primarily for scouting an area.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/611.webm",
+    "localPath": "/game-assets/models/611.webm",
+    "width": 365,
+    "height": 496,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 15,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "611",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "611",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "611",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "611",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "611",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "611",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "611",
+      "boost": 500
+    }
+  ]
+}

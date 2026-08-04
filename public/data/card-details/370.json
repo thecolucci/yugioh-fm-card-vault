@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/labyrinth-tank",
+    "capturedAt": "2026-07-22T17:07:53.365Z",
+    "contentHash": "4244fbd85475e3b7a395ff08c17763f608b4f34846cc9d4c3ca237e802f939d1",
+    "upstreamName": "Labyrinth Tank",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "370",
+  "cardType": "Monster",
+  "description": "A tank that races around a labyrinth hunting down its enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/370.webm",
+    "localPath": "/game-assets/models/370.webm",
+    "width": 646,
+    "height": 240,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "370",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "370",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "370",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "370",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "370",
+      "boost": 500
+    }
+  ]
+}

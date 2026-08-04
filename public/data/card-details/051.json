@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/armored-lizard",
+    "capturedAt": "2026-07-22T17:03:22.805Z",
+    "contentHash": "2780f078ec068605ec48f33887e5666640d8b98e1ecdf29ce82c189c07df5564",
+    "upstreamName": "Armored Lizard",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "051",
+  "cardType": "Monster",
+  "description": "A lizard with a very tough hide and a very vicious bite.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/51.webm",
+    "localPath": "/game-assets/models/051.webm",
+    "width": 475,
+    "height": 262,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "051",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "051",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "051",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "051",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "051",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "051",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "051",
+      "boost": 500
+    }
+  ]
+}

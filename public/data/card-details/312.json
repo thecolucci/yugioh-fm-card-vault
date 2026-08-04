@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/silver-bow-and-arrow",
+    "capturedAt": "2026-07-22T17:07:45.040Z",
+    "contentHash": "04322e4dbb44a9e9df5844bb2121b1f78bec8ebd658102679d44ae675d332040",
+    "upstreamName": "Silver Bow and Arrow",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "312",
+  "cardType": "Equip",
+  "description": "Silver bow and arrow enhances the power of Fairies.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 64
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "307",
+      "result": "656"
+    },
+    {
+      "partner": "325",
+      "result": "659"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "002",
+      "result": "002",
+      "boost": 500
+    },
+    {
+      "partner": "062",
+      "result": "062",
+      "boost": 500
+    },
+    {
+      "partner": "063",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "090",
+      "result": "090",
+      "boost": 500
+    },
+    {
+      "partner": "109",
+      "result": "109",
+      "boost": 500
+    },
+    {
+      "partner": "111",
+      "result": "111",
+      "boost": 500
+    },
+    {
+      "partner": "122",
+      "result": "122",
+      "boost": 500
+    },
+    {
+      "partner": "126",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "128",
+      "result": "128",
+      "boost": 500
+    },
+    {
+      "partner": "130",
+      "result": "130",
+      "boost": 500
+    },
+    {
+      "partner": "134",
+      "result": "134",
+      "boost": 500
+    },
+    {
+      "partner": "170",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "175",
+      "result": "175",
+      "boost": 500
+    },
+    {
+      "partner": "189",
+      "result": "189",
+      "boost": 500
+    },
+    {
+      "partner": "192",
+      "result": "192",
+      "boost": 500
+    },
+    {
+      "partner": "198",
+      "result": "198",
+      "boost": 500
+    },
+    {
+      "partner": "208",
+      "result": "208",
+      "boost": 500
+    },
+    {
+      "partner": "216",
+      "result": "216",
+      "boost": 500
+    },
+    {
+      "partner": "229",
+      "result": "229",
+      "boost": 500
+    },
+    {
+      "partner": "253",
+      "result": "253",
+      "boost": 500
+    },
+    {
+      "partner": "260",
+      "result": "260",
+      "boost": 500
+    },
+    {
+      "partner": "264",
+      "result": "264",
+      "boost": 500
+    },
+    {
+      "partner": "276",
+      "result": "276",
+      "boost": 500
+    },
+    {
+      "partner": "395",
+      "result": "395",
+      "boost": 500
+    },
+    {
+      "partner": "396",
+      "result": "396",
+      "boost": 500
+    },
+    {
+      "partner": "428",
+      "result": "428",
+      "boost": 500
+    },
+    {
+      "partner": "429",
+      "result": "429",
+      "boost": 500
+    },
+    {
+      "partner": "430",
+      "result": "430",
+      "boost": 500
+    },
+    {
+      "partner": "431",
+      "result": "431",
+      "boost": 500
+    },
+    {
+      "partner": "432",
+      "result": "432",
+      "boost": 500
+    },
+    {
+      "partner": "433",
+      "result": "433",
+      "boost": 500
+    },
+    {
+      "partner": "434",
+      "result": "434",
+      "boost": 500
+    },
+    {
+      "partner": "435",
+      "result": "435",
+      "boost": 500
+    },
+    {
+      "partner": "492",
+      "result": "492",
+      "boost": 500
+    },
+    {
+      "partner": "494",
+      "result": "494",
+      "boost": 500
+    },
+    {
+      "partner": "530",
+      "result": "530",
+      "boost": 500
+    },
+    {
+      "partner": "531",
+      "result": "531",
+      "boost": 500
+    },
+    {
+      "partner": "532",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "540",
+      "result": "540",
+      "boost": 500
+    },
+    {
+      "partner": "572",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "574",
+      "result": "574",
+      "boost": 500
+    },
+    {
+      "partner": "582",
+      "result": "582",
+      "boost": 500
+    },
+    {
+      "partner": "584",
+      "result": "584",
+      "boost": 500
+    },
+    {
+      "partner": "592",
+      "result": "592",
+      "boost": 500
+    },
+    {
+      "partner": "594",
+      "result": "594",
+      "boost": 500
+    },
+    {
+      "partner": "600",
+      "result": "600",
+      "boost": 500
+    },
+    {
+      "partner": "601",
+      "result": "601",
+      "boost": 500
+    },
+    {
+      "partner": "608",
+      "result": "608",
+      "boost": 500
+    },
+    {
+      "partner": "612",
+      "result": "612",
+      "boost": 500
+    },
+    {
+      "partner": "616",
+      "result": "616",
+      "boost": 500
+    },
+    {
+      "partner": "618",
+      "result": "618",
+      "boost": 500
+    },
+    {
+      "partner": "622",
+      "result": "622",
+      "boost": 500
+    },
+    {
+      "partner": "625",
+      "result": "625",
+      "boost": 500
+    },
+    {
+      "partner": "626",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "627",
+      "result": "627",
+      "boost": 500
+    },
+    {
+      "partner": "628",
+      "result": "628",
+      "boost": 500
+    },
+    {
+      "partner": "631",
+      "result": "631",
+      "boost": 500
+    },
+    {
+      "partner": "633",
+      "result": "633",
+      "boost": 500
+    },
+    {
+      "partner": "635",
+      "result": "635",
+      "boost": 500
+    },
+    {
+      "partner": "638",
+      "result": "638",
+      "boost": 500
+    },
+    {
+      "partner": "641",
+      "result": "641",
+      "boost": 500
+    },
+    {
+      "partner": "649",
+      "result": "649",
+      "boost": 500
+    },
+    {
+      "partner": "701",
+      "result": "701",
+      "boost": 500
+    },
+    {
+      "partner": "708",
+      "result": "708",
+      "boost": 500
+    }
+  ]
+}

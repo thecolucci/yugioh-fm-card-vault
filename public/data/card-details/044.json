@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/rogue-doll",
+    "capturedAt": "2026-07-22T17:02:48.272Z",
+    "contentHash": "a6abdf12eb45080ea8ecfdbf17d1dc98da49600be04b646fa5aab76cbc476e31",
+    "upstreamName": "Rogue Doll",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "044",
+  "cardType": "Monster",
+  "description": "A unique doll gifted with mystical power. Particularly powerful when attacking against dark forces.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/44.webm",
+    "localPath": "/game-assets/models/044.webm",
+    "width": 434,
+    "height": 323,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "458"
+    },
+    {
+      "partner": "191",
+      "result": "458"
+    },
+    {
+      "partner": "211",
+      "result": "458"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "458"
+    },
+    {
+      "partner": "460",
+      "result": "458"
+    },
+    {
+      "partner": "461",
+      "result": "458"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "458"
+    },
+    {
+      "partner": "537",
+      "result": "458"
+    },
+    {
+      "partner": "610",
+      "result": "458"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "307",
+      "result": "044",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "044",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "044",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "044",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "044",
+      "boost": 500
+    }
+  ]
+}

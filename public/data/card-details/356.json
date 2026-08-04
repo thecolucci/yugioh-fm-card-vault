@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/super-war-lion",
+    "capturedAt": "2026-07-22T17:07:51.601Z",
+    "contentHash": "e06de0549cc535389fbad54644fd9e1ca399ce776599f6ab1ae06fa1fa5c859e",
+    "upstreamName": "Super War-lion",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "356",
+  "cardType": "Monster",
+  "description": "A very vicious lion with sharp and long claws.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/356.webm",
+    "localPath": "/game-assets/models/356.webm",
+    "width": 424,
+    "height": 442,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "356",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "356",
+      "boost": 500
+    }
+  ]
+}

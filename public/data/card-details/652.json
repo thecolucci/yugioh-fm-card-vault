@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/magical-labyrinth",
+    "capturedAt": "2026-07-22T17:08:24.424Z",
+    "contentHash": "07be7307e5a59fefdaf4b68fcfa05cfa308c00eaf1ad527b2d59efeb0349b0a4",
+    "upstreamName": "Magical Labyrinth",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "652",
+  "cardType": "Equip",
+  "description": "A card for boosting the power of the Labyrinth Wall.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 4,
+    "equips": 1
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "062",
+      "result": "672"
+    },
+    {
+      "partner": "063",
+      "result": "672"
+    },
+    {
+      "partner": "658",
+      "result": "667"
+    },
+    {
+      "partner": "662",
+      "result": "681"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "366",
+      "result": "366",
+      "boost": 500
+    }
+  ]
+}

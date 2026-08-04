@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/revival-of-sennen-genjin",
+    "capturedAt": "2026-07-22T17:08:27.496Z",
+    "contentHash": "5d70f69aab3d9c9ee01dd6cfacd6a465aba548d9bbe73b64e656808dd2d46e9a",
+    "upstreamName": "Revival of Sennen Genjin",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "678",
+  "cardType": "Ritual",
+  "description": "Sacrifice Beast-Warrior and Golem to summon Sengenjin.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "318",
+      "right": "319"
+    },
+    {
+      "left": "665",
+      "right": "695"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

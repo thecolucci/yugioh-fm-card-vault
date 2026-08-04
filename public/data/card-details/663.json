@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/breath-of-light",
+    "capturedAt": "2026-07-22T17:08:24.593Z",
+    "contentHash": "913f3280cbc0324e033cb21025bf009f7d26f2c42fcd099a92bba1ccc8421032",
+    "upstreamName": "Breath of Light",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "663",
+  "cardType": "Magic",
+  "description": "A magic wind that reduces to rubble an opponent's Rock monsters that are currently in play.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 3,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "327",
+      "right": "331"
+    },
+    {
+      "left": "687",
+      "right": "688"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "327",
+      "result": "687"
+    },
+    {
+      "partner": "334",
+      "result": "328"
+    },
+    {
+      "partner": "505",
+      "result": "322"
+    }
+  ],
+  "equips": []
+}

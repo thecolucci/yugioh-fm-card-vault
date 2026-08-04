@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/crazy-fish",
+    "capturedAt": "2026-07-22T17:08:11.654Z",
+    "contentHash": "3db23609c94001a4ec2b18fca46eadd9b2d29ad4ae3d320d04d5dc4002f9ee13",
+    "upstreamName": "Crazy Fish",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "507",
+  "cardType": "Monster",
+  "description": "A flying fish with a sharp head for piercing targets.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/507.webm",
+    "localPath": "/game-assets/models/507.webm",
+    "width": 614,
+    "height": 205,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 39,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "023",
+      "result": "617"
+    },
+    {
+      "partner": "046",
+      "result": "617"
+    },
+    {
+      "partner": "047",
+      "result": "617"
+    },
+    {
+      "partner": "061",
+      "result": "617"
+    },
+    {
+      "partner": "065",
+      "result": "617"
+    },
+    {
+      "partner": "091",
+      "result": "617"
+    },
+    {
+      "partner": "113",
+      "result": "617"
+    },
+    {
+      "partner": "121",
+      "result": "617"
+    },
+    {
+      "partner": "155",
+      "result": "617"
+    },
+    {
+      "partner": "159",
+      "result": "617"
+    },
+    {
+      "partner": "163",
+      "result": "617"
+    },
+    {
+      "partner": "187",
+      "result": "617"
+    },
+    {
+      "partner": "188",
+      "result": "617"
+    },
+    {
+      "partner": "189",
+      "result": "617"
+    },
+    {
+      "partner": "201",
+      "result": "617"
+    },
+    {
+      "partner": "202",
+      "result": "617"
+    },
+    {
+      "partner": "212",
+      "result": "617"
+    },
+    {
+      "partner": "248",
+      "result": "617"
+    },
+    {
+      "partner": "252",
+      "result": "617"
+    },
+    {
+      "partner": "255",
+      "result": "617"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "282",
+      "result": "617"
+    },
+    {
+      "partner": "384",
+      "result": "617"
+    },
+    {
+      "partner": "404",
+      "result": "617"
+    },
+    {
+      "partner": "481",
+      "result": "617"
+    },
+    {
+      "partner": "488",
+      "result": "440"
+    },
+    {
+      "partner": "492",
+      "result": "440"
+    },
+    {
+      "partner": "494",
+      "result": "440"
+    },
+    {
+      "partner": "496",
+      "result": "617"
+    },
+    {
+      "partner": "527",
+      "result": "617"
+    },
+    {
+      "partner": "528",
+      "result": "617"
+    },
+    {
+      "partner": "541",
+      "result": "617"
+    },
+    {
+      "partner": "587",
+      "result": "617"
+    },
+    {
+      "partner": "597",
+      "result": "617"
+    },
+    {
+      "partner": "598",
+      "result": "617"
+    },
+    {
+      "partner": "604",
+      "result": "617"
+    },
+    {
+      "partner": "607",
+      "result": "617"
+    },
+    {
+      "partner": "629",
+      "result": "617"
+    },
+    {
+      "partner": "642",
+      "result": "617"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "507",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "507",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "507",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "507",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "507",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "507",
+      "boost": 500
+    }
+  ]
+}

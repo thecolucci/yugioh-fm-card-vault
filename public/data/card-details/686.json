@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/widespread-ruin",
+    "capturedAt": "2026-07-22T17:08:26.486Z",
+    "contentHash": "09abf1e44ee0fb7c9e7c448a5fe0b0ed1948b84cc4e4e640e18ffc1bbc7e6178",
+    "upstreamName": "Widespread Ruin",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "686",
+  "cardType": "Trap",
+  "description": "When an opponent's monster attacks, it is blown to smithereens and eliminated from the play field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "329",
+      "right": "347"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "393",
+      "result": "168"
+    },
+    {
+      "partner": "689",
+      "result": "690"
+    }
+  ],
+  "equips": []
+}

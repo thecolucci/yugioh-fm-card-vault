@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/psycho-puppet",
+    "capturedAt": "2026-07-22T17:08:47.423Z",
+    "contentHash": "5f50beb9daee4fcfd97a8ffa945f7a5f75bfe291265f220fa076e9b292c01502",
+    "upstreamName": "Psycho-Puppet",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "715",
+  "cardType": "Monster",
+  "description": "A mysterious doll with a strange dance that robs the power of opposing monsters.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/715.webm",
+    "localPath": "/game-assets/models/715.webm",
+    "width": 333,
+    "height": 337,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "715",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "715",
+      "boost": 500
+    }
+  ]
+}

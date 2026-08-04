@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/cursebreaker",
+    "capturedAt": "2026-07-22T17:08:24.563Z",
+    "contentHash": "f35e741d61fc9efe200b9508e0c43713611b50e32c340a7b161db454fa1322d1",
+    "upstreamName": "Cursebreaker",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "655",
+  "cardType": "Magic",
+  "description": "Cancels the magic over all level-reduced monsters and sets them at level 0.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "192",
+      "right": "318"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "349",
+      "result": "690"
+    },
+    {
+      "partner": "657",
+      "result": "689"
+    }
+  ],
+  "equips": []
+}

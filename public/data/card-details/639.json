@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/amphibious-bugroth",
+    "capturedAt": "2026-07-22T17:08:23.821Z",
+    "contentHash": "6a3f14312db5ea90b591e46d522cd52f056acd1bf5d8f67e006bdf88b32e4b5c",
+    "upstreamName": "Amphibious Bugroth",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "639",
+  "cardType": "Monster",
+  "description": "A Bugroth unit modified for underwater warfare.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/639.webm",
+    "localPath": "/game-assets/models/639.webm",
+    "width": 498,
+    "height": 318,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 83,
+    "fusions": 0,
+    "equips": 6
+  },
+  "recipes": [
+    {
+      "left": "051",
+      "right": "275"
+    },
+    {
+      "left": "060",
+      "right": "275"
+    },
+    {
+      "left": "070",
+      "right": "275"
+    },
+    {
+      "left": "071",
+      "right": "275"
+    },
+    {
+      "left": "076",
+      "right": "275"
+    },
+    {
+      "left": "077",
+      "right": "275"
+    },
+    {
+      "left": "089",
+      "right": "275"
+    },
+    {
+      "left": "131",
+      "right": "275"
+    },
+    {
+      "left": "140",
+      "right": "275"
+    },
+    {
+      "left": "150",
+      "right": "275"
+    },
+    {
+      "left": "151",
+      "right": "275"
+    },
+    {
+      "left": "152",
+      "right": "275"
+    },
+    {
+      "left": "177",
+      "right": "275"
+    },
+    {
+      "left": "193",
+      "right": "275"
+    },
+    {
+      "left": "195",
+      "right": "275"
+    },
+    {
+      "left": "196",
+      "right": "275"
+    },
+    {
+      "left": "199",
+      "right": "275"
+    },
+    {
+      "left": "205",
+      "right": "275"
+    },
+    {
+      "left": "206",
+      "right": "275"
+    },
+    {
+      "left": "213",
+      "right": "275"
+    },
+    {
+      "left": "227",
+      "right": "275"
+    },
+    {
+      "left": "243",
+      "right": "275"
+    },
+    {
+      "left": "249",
+      "right": "275"
+    },
+    {
+      "left": "250",
+      "right": "275"
+    },
+    {
+      "left": "258",
+      "right": "275"
+    },
+    {
+      "left": "262",
+      "right": "275"
+    },
+    {
+      "left": "265",
+      "right": "275"
+    },
+    {
+      "left": "270",
+      "right": "275"
+    },
+    {
+      "left": "275",
+      "right": "285"
+    },
+    {
+      "left": "275",
+      "right": "289"
+    },
+    {
+      "left": "275",
+      "right": "292"
+    },
+    {
+      "left": "275",
+      "right": "361"
+    },
+    {
+      "left": "275",
+      "right": "381"
+    },
+    {
+      "left": "275",
+      "right": "393"
+    },
+    {
+      "left": "275",
+      "right": "398"
+    },
+    {
+      "left": "275",
+      "right": "400"
+    },
+    {
+      "left": "275",
+      "right": "404"
+    },
+    {
+      "left": "275",
+      "right": "430"
+    },
+    {
+      "left": "275",
+      "right": "431"
+    },
+    {
+      "left": "275",
+      "right": "432"
+    },
+    {
+      "left": "275",
+      "right": "435"
+    },
+    {
+      "left": "275",
+      "right": "438"
+    },
+    {
+      "left": "275",
+      "right": "439"
+    },
+    {
+      "left": "275",
+      "right": "440"
+    },
+    {
+      "left": "275",
+      "right": "441"
+    },
+    {
+      "left": "275",
+      "right": "444"
+    },
+    {
+      "left": "275",
+      "right": "445"
+    },
+    {
+      "left": "275",
+      "right": "446"
+    },
+    {
+      "left": "275",
+      "right": "447"
+    },
+    {
+      "left": "275",
+      "right": "449"
+    },
+    {
+      "left": "275",
+      "right": "450"
+    },
+    {
+      "left": "275",
+      "right": "451"
+    },
+    {
+      "left": "275",
+      "right": "452"
+    },
+    {
+      "left": "275",
+      "right": "469"
+    },
+    {
+      "left": "275",
+      "right": "474"
+    },
+    {
+      "left": "275",
+      "right": "475"
+    },
+    {
+      "left": "275",
+      "right": "484"
+    },
+    {
+      "left": "275",
+      "right": "497"
+    },
+    {
+      "left": "275",
+      "right": "503"
+    },
+    {
+      "left": "275",
+      "right": "507"
+    },
+    {
+      "left": "275",
+      "right": "518"
+    },
+    {
+      "left": "275",
+      "right": "519"
+    },
+    {
+      "left": "275",
+      "right": "524"
+    },
+    {
+      "left": "275",
+      "right": "536"
+    },
+    {
+      "left": "275",
+      "right": "549"
+    },
+    {
+      "left": "275",
+      "right": "550"
+    },
+    {
+      "left": "275",
+      "right": "566"
+    },
+    {
+      "left": "275",
+      "right": "569"
+    },
+    {
+      "left": "275",
+      "right": "583"
+    },
+    {
+      "left": "275",
+      "right": "590"
+    },
+    {
+      "left": "275",
+      "right": "593"
+    },
+    {
+      "left": "275",
+      "right": "599"
+    },
+    {
+      "left": "275",
+      "right": "602"
+    },
+    {
+      "left": "275",
+      "right": "605"
+    },
+    {
+      "left": "275",
+      "right": "606"
+    },
+    {
+      "left": "275",
+      "right": "615"
+    },
+    {
+      "left": "275",
+      "right": "617"
+    },
+    {
+      "left": "275",
+      "right": "624"
+    },
+    {
+      "left": "275",
+      "right": "625"
+    },
+    {
+      "left": "275",
+      "right": "630"
+    },
+    {
+      "left": "275",
+      "right": "634"
+    },
+    {
+      "left": "275",
+      "right": "646"
+    },
+    {
+      "left": "275",
+      "right": "647"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "639",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "639",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "639",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "639",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "639",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "639",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/giant-scorpion-of-the-tundra",
+    "capturedAt": "2026-07-22T17:08:14.185Z",
+    "contentHash": "f933bbeb7f0d07e55f0f8987858dc65adef0065386b1350b344aa7b41b545eaa",
+    "upstreamName": "Giant Scorpion of the Tundra",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "576",
+  "cardType": "Monster",
+  "description": "A rare scarlet scorpion that can be found in the tundra -- not in the desert.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/576.webm",
+    "localPath": "/game-assets/models/576.webm",
+    "width": 446,
+    "height": 233,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "576",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "576",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "576",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "576",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "576",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "576",
+      "boost": 500
+    }
+  ]
+}

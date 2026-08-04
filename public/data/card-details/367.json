@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/jirai-gumo",
+    "capturedAt": "2026-07-22T17:07:53.120Z",
+    "contentHash": "e3efb11517f08110e47d2908455f48797ed2f0212128812e1bf6137dc93b2518",
+    "upstreamName": "Jirai Gumo",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "367",
+  "cardType": "Monster",
+  "description": "A monster spider that dwells under the earth.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/367.webm",
+    "localPath": "/game-assets/models/367.webm",
+    "width": 611,
+    "height": 356,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "658",
+      "result": "390"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "367",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "367",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "367",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "367",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "367",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "367",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "367",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "367",
+      "boost": 500
+    }
+  ]
+}

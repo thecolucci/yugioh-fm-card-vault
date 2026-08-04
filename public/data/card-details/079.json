@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/megazowler",
+    "capturedAt": "2026-07-22T17:04:04.503Z",
+    "contentHash": "aa63b5a348ad11017198eb06a9c482f4653722bf4e56e6ca281c7857fc3c64b1",
+    "upstreamName": "Megazowler",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "079",
+  "cardType": "Monster",
+  "description": "Nothing stands in the way of this spike-covered dinosaur.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "URANUS",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/79.webm",
+    "localPath": "/game-assets/models/079.webm",
+    "width": 822,
+    "height": 352,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "079",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "079",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "079",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "079",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "079",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "079",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "079",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/the-wicked-worm-beast",
+    "capturedAt": "2026-07-22T17:01:40.035Z",
+    "contentHash": "24c7a8c864e0138f4ee99b1e9eef8f7f9d1b2f189cc5a749a6ab8fa4cef00c93",
+    "upstreamName": "The Wicked Worm Beast",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "023",
+  "cardType": "Monster",
+  "description": "A monster worm created by the powers of darkness. It suddenly appears from under the ground to attack its enemies.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "URANUS",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/23.webm",
+    "localPath": "/game-assets/models/023.webm",
+    "width": 456,
+    "height": 396,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 32,
+    "equips": 9
+  },
+  "recipes": [
+    {
+      "left": "137",
+      "right": "167"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "147",
+      "result": "004"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "189",
+      "result": "483"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "230"
+    },
+    {
+      "partner": "251",
+      "result": "230"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "230"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "230"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "230"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "023",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "023",
+      "boost": 500
+    }
+  ]
+}

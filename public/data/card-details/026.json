@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/battle-ox",
+    "capturedAt": "2026-07-22T17:01:40.569Z",
+    "contentHash": "dba8308a50c6e980b7dbfac8999ebabbc0b86889a506b68a35a6abf789e7e0e1",
+    "upstreamName": "Battle Ox",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "026",
+  "cardType": "Monster",
+  "description": "A monster with tremendous power. Destroys enemies with a swing of its axe.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/26.webm",
+    "localPath": "/game-assets/models/026.webm",
+    "width": 294,
+    "height": 319,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "091",
+      "result": "092"
+    },
+    {
+      "partner": "138",
+      "result": "004"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "026",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "026",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "026",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "026",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "026",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "026",
+      "boost": 500
+    }
+  ]
+}

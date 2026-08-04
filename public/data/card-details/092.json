@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/rabid-horseman",
+    "capturedAt": "2026-07-22T17:04:06.219Z",
+    "contentHash": "e6b9253f6cb79bb06d8ab71f40c22a691eb27abdf89c5a0a3cf9668b2bf83fc9",
+    "upstreamName": "Rabid Horseman",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "092",
+  "cardType": "Monster",
+  "description": "A powerful and unstoppable combination of bull and horse.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/92.webm",
+    "localPath": "/game-assets/models/092.webm",
+    "width": 532,
+    "height": 390,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [
+    {
+      "left": "026",
+      "right": "091"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "092",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "092",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "092",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "092",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "092",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "092",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "092",
+      "boost": 500
+    }
+  ]
+}

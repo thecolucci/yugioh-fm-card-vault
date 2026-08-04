@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dragon-treasure",
+    "capturedAt": "2026-07-22T17:07:45.595Z",
+    "contentHash": "0047fa8c527503e7c263ce0ef1e93d45206081006c0fb9b289cd95e485ae8613",
+    "upstreamName": "Dragon Treasure",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "315",
+  "cardType": "Equip",
+  "description": "A legendary treasure that increases the power of dragons.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 4,
+    "equips": 76
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "303",
+      "result": "691"
+    },
+    {
+      "partner": "318",
+      "result": "666"
+    },
+    {
+      "partner": "338",
+      "result": "329"
+    },
+    {
+      "partner": "657",
+      "result": "675"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "001",
+      "result": "001",
+      "boost": 500
+    },
+    {
+      "partner": "004",
+      "result": "004",
+      "boost": 500
+    },
+    {
+      "partner": "007",
+      "result": "007",
+      "boost": 500
+    },
+    {
+      "partner": "010",
+      "result": "010",
+      "boost": 500
+    },
+    {
+      "partner": "011",
+      "result": "011",
+      "boost": 500
+    },
+    {
+      "partner": "031",
+      "result": "031",
+      "boost": 500
+    },
+    {
+      "partner": "032",
+      "result": "032",
+      "boost": 500
+    },
+    {
+      "partner": "037",
+      "result": "037",
+      "boost": 500
+    },
+    {
+      "partner": "039",
+      "result": "039",
+      "boost": 500
+    },
+    {
+      "partner": "046",
+      "result": "046",
+      "boost": 500
+    },
+    {
+      "partner": "047",
+      "result": "047",
+      "boost": 500
+    },
+    {
+      "partner": "051",
+      "result": "051",
+      "boost": 500
+    },
+    {
+      "partner": "068",
+      "result": "068",
+      "boost": 500
+    },
+    {
+      "partner": "069",
+      "result": "069",
+      "boost": 500
+    },
+    {
+      "partner": "073",
+      "result": "073",
+      "boost": 500
+    },
+    {
+      "partner": "076",
+      "result": "076",
+      "boost": 500
+    },
+    {
+      "partner": "077",
+      "result": "077",
+      "boost": 500
+    },
+    {
+      "partner": "079",
+      "result": "079",
+      "boost": 500
+    },
+    {
+      "partner": "080",
+      "result": "080",
+      "boost": 500
+    },
+    {
+      "partner": "081",
+      "result": "081",
+      "boost": 500
+    },
+    {
+      "partner": "082",
+      "result": "082",
+      "boost": 500
+    },
+    {
+      "partner": "087",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "094",
+      "result": "094",
+      "boost": 500
+    },
+    {
+      "partner": "097",
+      "result": "097",
+      "boost": 500
+    },
+    {
+      "partner": "105",
+      "result": "105",
+      "boost": 500
+    },
+    {
+      "partner": "122",
+      "result": "122",
+      "boost": 500
+    },
+    {
+      "partner": "138",
+      "result": "138",
+      "boost": 500
+    },
+    {
+      "partner": "168",
+      "result": "168",
+      "boost": 500
+    },
+    {
+      "partner": "188",
+      "result": "188",
+      "boost": 500
+    },
+    {
+      "partner": "200",
+      "result": "200",
+      "boost": 500
+    },
+    {
+      "partner": "217",
+      "result": "217",
+      "boost": 500
+    },
+    {
+      "partner": "222",
+      "result": "222",
+      "boost": 500
+    },
+    {
+      "partner": "223",
+      "result": "223",
+      "boost": 500
+    },
+    {
+      "partner": "294",
+      "result": "294",
+      "boost": 500
+    },
+    {
+      "partner": "296",
+      "result": "296",
+      "boost": 500
+    },
+    {
+      "partner": "298",
+      "result": "298",
+      "boost": 500
+    },
+    {
+      "partner": "300",
+      "result": "300",
+      "boost": 500
+    },
+    {
+      "partner": "353",
+      "result": "353",
+      "boost": 500
+    },
+    {
+      "partner": "357",
+      "result": "357",
+      "boost": 500
+    },
+    {
+      "partner": "358",
+      "result": "358",
+      "boost": 500
+    },
+    {
+      "partner": "360",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "380",
+      "result": "380",
+      "boost": 500
+    },
+    {
+      "partner": "382",
+      "result": "382",
+      "boost": 500
+    },
+    {
+      "partner": "383",
+      "result": "383",
+      "boost": 500
+    },
+    {
+      "partner": "386",
+      "result": "386",
+      "boost": 500
+    },
+    {
+      "partner": "409",
+      "result": "409",
+      "boost": 500
+    },
+    {
+      "partner": "424",
+      "result": "424",
+      "boost": 500
+    },
+    {
+      "partner": "425",
+      "result": "425",
+      "boost": 500
+    },
+    {
+      "partner": "426",
+      "result": "426",
+      "boost": 500
+    },
+    {
+      "partner": "427",
+      "result": "427",
+      "boost": 500
+    },
+    {
+      "partner": "442",
+      "result": "442",
+      "boost": 500
+    },
+    {
+      "partner": "443",
+      "result": "443",
+      "boost": 500
+    },
+    {
+      "partner": "447",
+      "result": "447",
+      "boost": 500
+    },
+    {
+      "partner": "448",
+      "result": "448",
+      "boost": 500
+    },
+    {
+      "partner": "472",
+      "result": "472",
+      "boost": 500
+    },
+    {
+      "partner": "497",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "500",
+      "result": "500",
+      "boost": 500
+    },
+    {
+      "partner": "502",
+      "result": "502",
+      "boost": 500
+    },
+    {
+      "partner": "508",
+      "result": "508",
+      "boost": 500
+    },
+    {
+      "partner": "509",
+      "result": "509",
+      "boost": 500
+    },
+    {
+      "partner": "545",
+      "result": "545",
+      "boost": 500
+    },
+    {
+      "partner": "552",
+      "result": "552",
+      "boost": 500
+    },
+    {
+      "partner": "555",
+      "result": "555",
+      "boost": 500
+    },
+    {
+      "partner": "561",
+      "result": "561",
+      "boost": 500
+    },
+    {
+      "partner": "566",
+      "result": "566",
+      "boost": 500
+    },
+    {
+      "partner": "568",
+      "result": "568",
+      "boost": 500
+    },
+    {
+      "partner": "570",
+      "result": "570",
+      "boost": 500
+    },
+    {
+      "partner": "571",
+      "result": "571",
+      "boost": 500
+    },
+    {
+      "partner": "573",
+      "result": "573",
+      "boost": 500
+    },
+    {
+      "partner": "603",
+      "result": "603",
+      "boost": 500
+    },
+    {
+      "partner": "613",
+      "result": "613",
+      "boost": 500
+    },
+    {
+      "partner": "705",
+      "result": "705",
+      "boost": 500
+    },
+    {
+      "partner": "706",
+      "result": "706",
+      "boost": 500
+    },
+    {
+      "partner": "711",
+      "result": "711",
+      "boost": 500
+    },
+    {
+      "partner": "712",
+      "result": "712",
+      "boost": 500
+    },
+    {
+      "partner": "713",
+      "result": "713",
+      "boost": 500
+    }
+  ]
+}

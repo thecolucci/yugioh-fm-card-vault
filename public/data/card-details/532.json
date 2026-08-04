@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/gemini-elf",
+    "capturedAt": "2026-07-22T17:08:12.452Z",
+    "contentHash": "9e05d5decd389c4356f850573f5409b9e1b647c0ee9fa084173fdc8e878bb884",
+    "upstreamName": "Gemini Elf",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "532",
+  "cardType": "Monster",
+  "description": "Elf twins that attack an enemy from opposite sides.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/532.webm",
+    "localPath": "/game-assets/models/532.webm",
+    "width": 260,
+    "height": 356,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 81,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "010",
+      "result": "551"
+    },
+    {
+      "partner": "012",
+      "result": "551"
+    },
+    {
+      "partner": "017",
+      "result": "551"
+    },
+    {
+      "partner": "018",
+      "result": "551"
+    },
+    {
+      "partner": "019",
+      "result": "551"
+    },
+    {
+      "partner": "020",
+      "result": "551"
+    },
+    {
+      "partner": "021",
+      "result": "551"
+    },
+    {
+      "partner": "028",
+      "result": "531"
+    },
+    {
+      "partner": "034",
+      "result": "551"
+    },
+    {
+      "partner": "074",
+      "result": "531"
+    },
+    {
+      "partner": "083",
+      "result": "551"
+    },
+    {
+      "partner": "102",
+      "result": "551"
+    },
+    {
+      "partner": "103",
+      "result": "551"
+    },
+    {
+      "partner": "104",
+      "result": "551"
+    },
+    {
+      "partner": "111",
+      "result": "551"
+    },
+    {
+      "partner": "112",
+      "result": "551"
+    },
+    {
+      "partner": "115",
+      "result": "551"
+    },
+    {
+      "partner": "127",
+      "result": "551"
+    },
+    {
+      "partner": "129",
+      "result": "551"
+    },
+    {
+      "partner": "136",
+      "result": "551"
+    },
+    {
+      "partner": "146",
+      "result": "551"
+    },
+    {
+      "partner": "148",
+      "result": "551"
+    },
+    {
+      "partner": "149",
+      "result": "551"
+    },
+    {
+      "partner": "164",
+      "result": "551"
+    },
+    {
+      "partner": "167",
+      "result": "531"
+    },
+    {
+      "partner": "169",
+      "result": "551"
+    },
+    {
+      "partner": "173",
+      "result": "551"
+    },
+    {
+      "partner": "175",
+      "result": "551"
+    },
+    {
+      "partner": "178",
+      "result": "551"
+    },
+    {
+      "partner": "179",
+      "result": "551"
+    },
+    {
+      "partner": "182",
+      "result": "551"
+    },
+    {
+      "partner": "190",
+      "result": "551"
+    },
+    {
+      "partner": "220",
+      "result": "551"
+    },
+    {
+      "partner": "224",
+      "result": "551"
+    },
+    {
+      "partner": "231",
+      "result": "551"
+    },
+    {
+      "partner": "233",
+      "result": "551"
+    },
+    {
+      "partner": "234",
+      "result": "551"
+    },
+    {
+      "partner": "236",
+      "result": "551"
+    },
+    {
+      "partner": "237",
+      "result": "531"
+    },
+    {
+      "partner": "239",
+      "result": "551"
+    },
+    {
+      "partner": "244",
+      "result": "531"
+    },
+    {
+      "partner": "253",
+      "result": "551"
+    },
+    {
+      "partner": "257",
+      "result": "531"
+    },
+    {
+      "partner": "259",
+      "result": "551"
+    },
+    {
+      "partner": "263",
+      "result": "531"
+    },
+    {
+      "partner": "267",
+      "result": "551"
+    },
+    {
+      "partner": "268",
+      "result": "551"
+    },
+    {
+      "partner": "269",
+      "result": "551"
+    },
+    {
+      "partner": "271",
+      "result": "551"
+    },
+    {
+      "partner": "279",
+      "result": "551"
+    },
+    {
+      "partner": "281",
+      "result": "551"
+    },
+    {
+      "partner": "286",
+      "result": "551"
+    },
+    {
+      "partner": "288",
+      "result": "551"
+    },
+    {
+      "partner": "366",
+      "result": "531"
+    },
+    {
+      "partner": "379",
+      "result": "551"
+    },
+    {
+      "partner": "387",
+      "result": "551"
+    },
+    {
+      "partner": "388",
+      "result": "551"
+    },
+    {
+      "partner": "426",
+      "result": "531"
+    },
+    {
+      "partner": "453",
+      "result": "531"
+    },
+    {
+      "partner": "454",
+      "result": "531"
+    },
+    {
+      "partner": "455",
+      "result": "531"
+    },
+    {
+      "partner": "456",
+      "result": "531"
+    },
+    {
+      "partner": "457",
+      "result": "531"
+    },
+    {
+      "partner": "505",
+      "result": "531"
+    },
+    {
+      "partner": "515",
+      "result": "531"
+    },
+    {
+      "partner": "516",
+      "result": "531"
+    },
+    {
+      "partner": "517",
+      "result": "531"
+    },
+    {
+      "partner": "530",
+      "result": "551"
+    },
+    {
+      "partner": "554",
+      "result": "551"
+    },
+    {
+      "partner": "558",
+      "result": "531"
+    },
+    {
+      "partner": "563",
+      "result": "551"
+    },
+    {
+      "partner": "574",
+      "result": "551"
+    },
+    {
+      "partner": "578",
+      "result": "551"
+    },
+    {
+      "partner": "591",
+      "result": "531"
+    },
+    {
+      "partner": "600",
+      "result": "551"
+    },
+    {
+      "partner": "618",
+      "result": "551"
+    },
+    {
+      "partner": "621",
+      "result": "551"
+    },
+    {
+      "partner": "623",
+      "result": "531"
+    },
+    {
+      "partner": "628",
+      "result": "551"
+    },
+    {
+      "partner": "632",
+      "result": "531"
+    },
+    {
+      "partner": "649",
+      "result": "551"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "307",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "312",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "532",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "532",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/killer-needle",
+    "capturedAt": "2026-07-22T17:03:22.355Z",
+    "contentHash": "e5030f6535f53662ecae2a5251b3d0b435c76497f96889da5e89f4984209fc8e",
+    "upstreamName": "Killer Needle",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "053",
+  "cardType": "Monster",
+  "description": "A huge bee with exceptional strength. Particularly dangerous when a swarm is encountered.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/53.webm",
+    "localPath": "/game-assets/models/053.webm",
+    "width": 262,
+    "height": 199,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "480",
+      "result": "533"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "053",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "053",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "053",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "053",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "053",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "053",
+      "boost": 500
+    }
+  ]
+}

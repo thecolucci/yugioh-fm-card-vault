@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/petit-moth",
+    "capturedAt": "2026-07-22T17:07:37.078Z",
+    "contentHash": "d1bdf18e99c8181894d6b9d48a27985b1611963cd67f79e772bb99437dcc1c82",
+    "upstreamName": "Petit Moth",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "278",
+  "cardType": "Monster",
+  "description": "Nobody has any idea what creature may spawn from this mysterious larva.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/278.webm",
+    "localPath": "/game-assets/models/278.webm",
+    "width": 498,
+    "height": 154,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "278",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "278",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "278",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "278",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "278",
+      "boost": 500
+    }
+  ]
+}

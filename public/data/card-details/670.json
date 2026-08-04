@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/black-luster-ritual",
+    "capturedAt": "2026-07-22T17:08:26.105Z",
+    "contentHash": "3e82028afb5e29a6802756ffa36272a38d63c8113478dfffb41621628d875bbd",
+    "upstreamName": "Black Luster Ritual",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "670",
+  "cardType": "Ritual",
+  "description": "Ceremony conducted to summon Black Luster Soldier. Sacrifice required.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "303",
+      "right": "350"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

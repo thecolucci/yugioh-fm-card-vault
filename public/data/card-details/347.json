@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/tremendous-fire",
+    "capturedAt": "2026-07-22T17:07:50.563Z",
+    "contentHash": "995b0eb544224d5b097a4e188d50fa6bbcc3774aa032b96a8b516ddb607cffe3",
+    "upstreamName": "Tremendous Fire",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "347",
+  "cardType": "Magic",
+  "description": "An inferno inflicts 1000 points of damage to your opponent's Life Points!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "346",
+      "right": "346"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "329",
+      "result": "686"
+    },
+    {
+      "partner": "334",
+      "result": "664"
+    }
+  ],
+  "equips": []
+}

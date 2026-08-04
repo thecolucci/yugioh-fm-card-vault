@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/elfs-light",
+    "capturedAt": "2026-07-22T17:07:45.100Z",
+    "contentHash": "247bbf269b7259dc725fdbb4524bed1a7a5ed345b5c3a6e86edd3f67b65b77bb",
+    "upstreamName": "Elf's Light",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "307",
+  "cardType": "Equip",
+  "description": "Increases the power of elves with mystical light!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 80
+  },
+  "recipes": [
+    {
+      "left": "433",
+      "right": "681"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "312",
+      "result": "656"
+    },
+    {
+      "partner": "321",
+      "result": "693"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "002",
+      "result": "002",
+      "boost": 500
+    },
+    {
+      "partner": "041",
+      "result": "041",
+      "boost": 500
+    },
+    {
+      "partner": "044",
+      "result": "044",
+      "boost": 500
+    },
+    {
+      "partner": "045",
+      "result": "045",
+      "boost": 500
+    },
+    {
+      "partner": "090",
+      "result": "090",
+      "boost": 500
+    },
+    {
+      "partner": "109",
+      "result": "109",
+      "boost": 500
+    },
+    {
+      "partner": "125",
+      "result": "125",
+      "boost": 500
+    },
+    {
+      "partner": "126",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "128",
+      "result": "128",
+      "boost": 500
+    },
+    {
+      "partner": "129",
+      "result": "129",
+      "boost": 500
+    },
+    {
+      "partner": "130",
+      "result": "130",
+      "boost": 500
+    },
+    {
+      "partner": "147",
+      "result": "147",
+      "boost": 500
+    },
+    {
+      "partner": "170",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "183",
+      "result": "183",
+      "boost": 500
+    },
+    {
+      "partner": "184",
+      "result": "184",
+      "boost": 500
+    },
+    {
+      "partner": "192",
+      "result": "192",
+      "boost": 500
+    },
+    {
+      "partner": "198",
+      "result": "198",
+      "boost": 500
+    },
+    {
+      "partner": "208",
+      "result": "208",
+      "boost": 500
+    },
+    {
+      "partner": "216",
+      "result": "216",
+      "boost": 500
+    },
+    {
+      "partner": "229",
+      "result": "229",
+      "boost": 500
+    },
+    {
+      "partner": "243",
+      "result": "243",
+      "boost": 500
+    },
+    {
+      "partner": "249",
+      "result": "249",
+      "boost": 500
+    },
+    {
+      "partner": "252",
+      "result": "252",
+      "boost": 500
+    },
+    {
+      "partner": "253",
+      "result": "253",
+      "boost": 500
+    },
+    {
+      "partner": "260",
+      "result": "260",
+      "boost": 500
+    },
+    {
+      "partner": "273",
+      "result": "273",
+      "boost": 500
+    },
+    {
+      "partner": "274",
+      "result": "274",
+      "boost": 500
+    },
+    {
+      "partner": "276",
+      "result": "276",
+      "boost": 500
+    },
+    {
+      "partner": "282",
+      "result": "282",
+      "boost": 500
+    },
+    {
+      "partner": "299",
+      "result": "299",
+      "boost": 500
+    },
+    {
+      "partner": "353",
+      "result": "353",
+      "boost": 500
+    },
+    {
+      "partner": "361",
+      "result": "361",
+      "boost": 500
+    },
+    {
+      "partner": "363",
+      "result": "363",
+      "boost": 500
+    },
+    {
+      "partner": "395",
+      "result": "395",
+      "boost": 500
+    },
+    {
+      "partner": "396",
+      "result": "396",
+      "boost": 500
+    },
+    {
+      "partner": "428",
+      "result": "428",
+      "boost": 500
+    },
+    {
+      "partner": "429",
+      "result": "429",
+      "boost": 500
+    },
+    {
+      "partner": "430",
+      "result": "430",
+      "boost": 500
+    },
+    {
+      "partner": "431",
+      "result": "431",
+      "boost": 500
+    },
+    {
+      "partner": "432",
+      "result": "432",
+      "boost": 500
+    },
+    {
+      "partner": "433",
+      "result": "433",
+      "boost": 500
+    },
+    {
+      "partner": "434",
+      "result": "434",
+      "boost": 500
+    },
+    {
+      "partner": "435",
+      "result": "435",
+      "boost": 500
+    },
+    {
+      "partner": "486",
+      "result": "486",
+      "boost": 500
+    },
+    {
+      "partner": "492",
+      "result": "492",
+      "boost": 500
+    },
+    {
+      "partner": "494",
+      "result": "494",
+      "boost": 500
+    },
+    {
+      "partner": "525",
+      "result": "525",
+      "boost": 500
+    },
+    {
+      "partner": "530",
+      "result": "530",
+      "boost": 500
+    },
+    {
+      "partner": "531",
+      "result": "531",
+      "boost": 500
+    },
+    {
+      "partner": "532",
+      "result": "532",
+      "boost": 500
+    },
+    {
+      "partner": "540",
+      "result": "540",
+      "boost": 500
+    },
+    {
+      "partner": "547",
+      "result": "547",
+      "boost": 500
+    },
+    {
+      "partner": "551",
+      "result": "551",
+      "boost": 500
+    },
+    {
+      "partner": "572",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "574",
+      "result": "574",
+      "boost": 500
+    },
+    {
+      "partner": "582",
+      "result": "582",
+      "boost": 500
+    },
+    {
+      "partner": "592",
+      "result": "592",
+      "boost": 500
+    },
+    {
+      "partner": "600",
+      "result": "600",
+      "boost": 500
+    },
+    {
+      "partner": "601",
+      "result": "601",
+      "boost": 500
+    },
+    {
+      "partner": "603",
+      "result": "603",
+      "boost": 500
+    },
+    {
+      "partner": "608",
+      "result": "608",
+      "boost": 500
+    },
+    {
+      "partner": "612",
+      "result": "612",
+      "boost": 500
+    },
+    {
+      "partner": "616",
+      "result": "616",
+      "boost": 500
+    },
+    {
+      "partner": "618",
+      "result": "618",
+      "boost": 500
+    },
+    {
+      "partner": "619",
+      "result": "619",
+      "boost": 500
+    },
+    {
+      "partner": "621",
+      "result": "621",
+      "boost": 500
+    },
+    {
+      "partner": "622",
+      "result": "622",
+      "boost": 500
+    },
+    {
+      "partner": "625",
+      "result": "625",
+      "boost": 500
+    },
+    {
+      "partner": "626",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "627",
+      "result": "627",
+      "boost": 500
+    },
+    {
+      "partner": "628",
+      "result": "628",
+      "boost": 500
+    },
+    {
+      "partner": "631",
+      "result": "631",
+      "boost": 500
+    },
+    {
+      "partner": "633",
+      "result": "633",
+      "boost": 500
+    },
+    {
+      "partner": "635",
+      "result": "635",
+      "boost": 500
+    },
+    {
+      "partner": "638",
+      "result": "638",
+      "boost": 500
+    },
+    {
+      "partner": "641",
+      "result": "641",
+      "boost": 500
+    },
+    {
+      "partner": "649",
+      "result": "649",
+      "boost": 500
+    },
+    {
+      "partner": "701",
+      "result": "701",
+      "boost": 500
+    },
+    {
+      "partner": "708",
+      "result": "708",
+      "boost": 500
+    },
+    {
+      "partner": "722",
+      "result": "722",
+      "boost": 500
+    }
+  ]
+}

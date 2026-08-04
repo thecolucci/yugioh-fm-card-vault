@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/fiends-mirror",
+    "capturedAt": "2026-07-22T17:07:52.774Z",
+    "contentHash": "fa450e3784e4289018fbc44c249cccd0dc57c550e61ab0f6142273cf57f9e219",
+    "upstreamName": "Fiend's Mirror",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "365",
+  "cardType": "Monster",
+  "description": "An arcane glass that draws its enemies into the mirror world.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "VENUS",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/365.webm",
+    "localPath": "/game-assets/models/365.webm",
+    "width": 184,
+    "height": 256,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "316",
+      "result": "318"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "365",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "365",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "365",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "365",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "365",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "365",
+      "boost": 500
+    }
+  ]
+}

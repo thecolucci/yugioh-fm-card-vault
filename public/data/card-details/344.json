@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/hinotama",
+    "capturedAt": "2026-07-22T17:07:48.475Z",
+    "contentHash": "728b38038ea0f6da3f8668a7b07af8b982fa96ae792510b987eacc2266dbdb01",
+    "upstreamName": "Hinotama",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "344",
+  "cardType": "Magic",
+  "description": "A fireball inflicts 100 points of damage to your opponent's Life Points!!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "343",
+      "right": "343"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "325",
+      "result": "306"
+    },
+    {
+      "partner": "344",
+      "result": "345"
+    }
+  ],
+  "equips": []
+}

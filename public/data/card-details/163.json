@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/lisark",
+    "capturedAt": "2026-07-22T17:07:14.332Z",
+    "contentHash": "93ba83b9846a7f52cc000bf77225003cf9471e105e43f73690242aaaf959d6c0",
+    "upstreamName": "Lisark",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "163",
+  "cardType": "Monster",
+  "description": "An unusual creature with sapphire eyes that creates visions to confuse the enemy.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "SATURN",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/163.webm",
+    "localPath": "/game-assets/models/163.webm",
+    "width": 282,
+    "height": 361,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 33,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "060",
+      "result": "617"
+    },
+    {
+      "partner": "128",
+      "result": "483"
+    },
+    {
+      "partner": "175",
+      "result": "483"
+    },
+    {
+      "partner": "189",
+      "result": "483"
+    },
+    {
+      "partner": "198",
+      "result": "483"
+    },
+    {
+      "partner": "208",
+      "result": "483"
+    },
+    {
+      "partner": "229",
+      "result": "483"
+    },
+    {
+      "partner": "230",
+      "result": "617"
+    },
+    {
+      "partner": "247",
+      "result": "404"
+    },
+    {
+      "partner": "251",
+      "result": "404"
+    },
+    {
+      "partner": "253",
+      "result": "483"
+    },
+    {
+      "partner": "260",
+      "result": "483"
+    },
+    {
+      "partner": "264",
+      "result": "483"
+    },
+    {
+      "partner": "325",
+      "result": "672"
+    },
+    {
+      "partner": "395",
+      "result": "483"
+    },
+    {
+      "partner": "396",
+      "result": "483"
+    },
+    {
+      "partner": "436",
+      "result": "404"
+    },
+    {
+      "partner": "439",
+      "result": "617"
+    },
+    {
+      "partner": "494",
+      "result": "617"
+    },
+    {
+      "partner": "507",
+      "result": "617"
+    },
+    {
+      "partner": "540",
+      "result": "483"
+    },
+    {
+      "partner": "542",
+      "result": "230"
+    },
+    {
+      "partner": "543",
+      "result": "230"
+    },
+    {
+      "partner": "546",
+      "result": "404"
+    },
+    {
+      "partner": "582",
+      "result": "483"
+    },
+    {
+      "partner": "601",
+      "result": "483"
+    },
+    {
+      "partner": "608",
+      "result": "483"
+    },
+    {
+      "partner": "616",
+      "result": "483"
+    },
+    {
+      "partner": "626",
+      "result": "404"
+    },
+    {
+      "partner": "628",
+      "result": "483"
+    },
+    {
+      "partner": "631",
+      "result": "483"
+    },
+    {
+      "partner": "633",
+      "result": "483"
+    },
+    {
+      "partner": "683",
+      "result": "672"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "163",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "163",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "163",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "163",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "163",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/needle-worm",
+    "capturedAt": "2026-07-22T17:08:14.788Z",
+    "contentHash": "5c5fc152fc9b6b87bf1d007f77ad221e0bb7fd252cd5a3e73fe513d9620d17c2",
+    "upstreamName": "Needle Worm",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "562",
+  "cardType": "Monster",
+  "description": "A larva with steel spikes to attack the unwary.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/562.webm",
+    "localPath": "/game-assets/models/562.webm",
+    "width": 630,
+    "height": 333,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "562",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "562",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "562",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "562",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "562",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "562",
+      "boost": 500
+    }
+  ]
+}

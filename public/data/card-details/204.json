@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mabarrel",
+    "capturedAt": "2026-07-22T17:07:25.064Z",
+    "contentHash": "8a55c6211ee4287cfeee4b97c99dead2e75f42783d1385997cb0a57c92c1541b",
+    "upstreamName": "Mabarrel",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "204",
+  "cardType": "Monster",
+  "description": "A cannon-like monster that rapidly fires eyeballs at the enemy.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/204.webm",
+    "localPath": "/game-assets/models/204.webm",
+    "width": 460,
+    "height": 147,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "204",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "204",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "204",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "204",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "204",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "204",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "204",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "204",
+      "boost": 500
+    }
+  ]
+}

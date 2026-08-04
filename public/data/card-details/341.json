@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/soul-of-the-pure",
+    "capturedAt": "2026-07-22T17:07:47.638Z",
+    "contentHash": "36020336a9cdebdd6632dd89b7b055a7fa8b8c66fcab28022fcab8da540f01ec",
+    "upstreamName": "Soul of the Pure",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "341",
+  "cardType": "Magic",
+  "description": "A fairy potion that increases Life Points by 2000!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "340",
+      "right": "340"
+    },
+    {
+      "left": "659",
+      "right": "659"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "341",
+      "result": "342"
+    }
+  ],
+  "equips": []
+}

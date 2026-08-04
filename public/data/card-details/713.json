@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/meteor-b_-dragon",
+    "capturedAt": "2026-07-22T17:08:47.612Z",
+    "contentHash": "8283efbd3a649b1a9235803d9e51ca53c3cf7e1faf06a1dae36ec2d668a8d910",
+    "upstreamName": "Meteor B. Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "713",
+  "cardType": "Monster",
+  "description": "With the burning hide of a meteorite, this creature vaporizes all that it touches.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "MARS",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/713.webm",
+    "localPath": "/game-assets/models/713.webm",
+    "width": 840,
+    "height": 525,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 4
+  },
+  "recipes": [
+    {
+      "left": "082",
+      "right": "712"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "713",
+      "boost": 500
+    },
+    {
+      "partner": "654",
+      "result": "713",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "713",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "713",
+      "boost": 500
+    }
+  ]
+}

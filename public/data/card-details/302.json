@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/sword-of-dark-destruction",
+    "capturedAt": "2026-07-22T17:07:44.704Z",
+    "contentHash": "ce6855b32c3f41c4aaed44f47c618418838dbfe6c2c7a2222b85608418f39bcf",
+    "upstreamName": "Sword of Dark Destruction",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "302",
+  "cardType": "Equip",
+  "description": "Dark forces increase the power of Warriors!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 60
+  },
+  "recipes": [
+    {
+      "left": "096",
+      "right": "656"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "301",
+      "result": "651"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "012",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "014",
+      "result": "014",
+      "boost": 500
+    },
+    {
+      "partner": "022",
+      "result": "022",
+      "boost": 500
+    },
+    {
+      "partner": "023",
+      "result": "023",
+      "boost": 500
+    },
+    {
+      "partner": "025",
+      "result": "025",
+      "boost": 500
+    },
+    {
+      "partner": "030",
+      "result": "030",
+      "boost": 500
+    },
+    {
+      "partner": "038",
+      "result": "038",
+      "boost": 500
+    },
+    {
+      "partner": "066",
+      "result": "066",
+      "boost": 500
+    },
+    {
+      "partner": "068",
+      "result": "068",
+      "boost": 500
+    },
+    {
+      "partner": "107",
+      "result": "107",
+      "boost": 500
+    },
+    {
+      "partner": "119",
+      "result": "119",
+      "boost": 500
+    },
+    {
+      "partner": "124",
+      "result": "124",
+      "boost": 500
+    },
+    {
+      "partner": "127",
+      "result": "127",
+      "boost": 500
+    },
+    {
+      "partner": "182",
+      "result": "182",
+      "boost": 500
+    },
+    {
+      "partner": "195",
+      "result": "195",
+      "boost": 500
+    },
+    {
+      "partner": "214",
+      "result": "214",
+      "boost": 500
+    },
+    {
+      "partner": "219",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "225",
+      "result": "225",
+      "boost": 500
+    },
+    {
+      "partner": "226",
+      "result": "226",
+      "boost": 500
+    },
+    {
+      "partner": "234",
+      "result": "234",
+      "boost": 500
+    },
+    {
+      "partner": "236",
+      "result": "236",
+      "boost": 500
+    },
+    {
+      "partner": "239",
+      "result": "239",
+      "boost": 500
+    },
+    {
+      "partner": "241",
+      "result": "241",
+      "boost": 500
+    },
+    {
+      "partner": "246",
+      "result": "246",
+      "boost": 500
+    },
+    {
+      "partner": "256",
+      "result": "256",
+      "boost": 500
+    },
+    {
+      "partner": "267",
+      "result": "267",
+      "boost": 500
+    },
+    {
+      "partner": "269",
+      "result": "269",
+      "boost": 500
+    },
+    {
+      "partner": "281",
+      "result": "281",
+      "boost": 500
+    },
+    {
+      "partner": "293",
+      "result": "293",
+      "boost": 500
+    },
+    {
+      "partner": "294",
+      "result": "294",
+      "boost": 500
+    },
+    {
+      "partner": "297",
+      "result": "297",
+      "boost": 500
+    },
+    {
+      "partner": "355",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "356",
+      "result": "356",
+      "boost": 500
+    },
+    {
+      "partner": "359",
+      "result": "359",
+      "boost": 500
+    },
+    {
+      "partner": "360",
+      "result": "360",
+      "boost": 500
+    },
+    {
+      "partner": "364",
+      "result": "364",
+      "boost": 500
+    },
+    {
+      "partner": "369",
+      "result": "369",
+      "boost": 500
+    },
+    {
+      "partner": "374",
+      "result": "374",
+      "boost": 500
+    },
+    {
+      "partner": "376",
+      "result": "376",
+      "boost": 500
+    },
+    {
+      "partner": "378",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "405",
+      "result": "405",
+      "boost": 500
+    },
+    {
+      "partner": "406",
+      "result": "406",
+      "boost": 500
+    },
+    {
+      "partner": "416",
+      "result": "416",
+      "boost": 500
+    },
+    {
+      "partner": "469",
+      "result": "469",
+      "boost": 500
+    },
+    {
+      "partner": "523",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "554",
+      "result": "554",
+      "boost": 500
+    },
+    {
+      "partner": "559",
+      "result": "559",
+      "boost": 500
+    },
+    {
+      "partner": "585",
+      "result": "585",
+      "boost": 500
+    },
+    {
+      "partner": "586",
+      "result": "586",
+      "boost": 500
+    },
+    {
+      "partner": "618",
+      "result": "618",
+      "boost": 500
+    },
+    {
+      "partner": "621",
+      "result": "621",
+      "boost": 500
+    },
+    {
+      "partner": "635",
+      "result": "635",
+      "boost": 500
+    },
+    {
+      "partner": "641",
+      "result": "641",
+      "boost": 500
+    },
+    {
+      "partner": "649",
+      "result": "649",
+      "boost": 500
+    },
+    {
+      "partner": "702",
+      "result": "702",
+      "boost": 500
+    },
+    {
+      "partner": "707",
+      "result": "707",
+      "boost": 500
+    },
+    {
+      "partner": "715",
+      "result": "715",
+      "boost": 500
+    },
+    {
+      "partner": "716",
+      "result": "716",
+      "boost": 500
+    },
+    {
+      "partner": "720",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "722",
+      "result": "722",
+      "boost": 500
+    }
+  ]
+}

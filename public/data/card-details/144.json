@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/djinn-the-watcher-of-the-wind",
+    "capturedAt": "2026-07-22T17:06:56.206Z",
+    "contentHash": "9f76dd026171d5c3be386e58676da4e96711371ee33e8658520cbee8db3591a2",
+    "upstreamName": "Djinn the Watcher of the Wind",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "144",
+  "cardType": "Monster",
+  "description": "Controls the air currents to create violent winds and tornadoes to blow away its enemies.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SATURN",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/144.webm",
+    "localPath": "/game-assets/models/144.webm",
+    "width": 273,
+    "height": 317,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 37,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "009",
+      "result": "470"
+    },
+    {
+      "partner": "024",
+      "result": "470"
+    },
+    {
+      "partner": "030",
+      "result": "470"
+    },
+    {
+      "partner": "045",
+      "result": "462"
+    },
+    {
+      "partner": "061",
+      "result": "136"
+    },
+    {
+      "partner": "089",
+      "result": "449"
+    },
+    {
+      "partner": "108",
+      "result": "470"
+    },
+    {
+      "partner": "132",
+      "result": "470"
+    },
+    {
+      "partner": "135",
+      "result": "470"
+    },
+    {
+      "partner": "139",
+      "result": "470"
+    },
+    {
+      "partner": "146",
+      "result": "470"
+    },
+    {
+      "partner": "153",
+      "result": "470"
+    },
+    {
+      "partner": "154",
+      "result": "470"
+    },
+    {
+      "partner": "177",
+      "result": "449"
+    },
+    {
+      "partner": "191",
+      "result": "462"
+    },
+    {
+      "partner": "193",
+      "result": "449"
+    },
+    {
+      "partner": "197",
+      "result": "470"
+    },
+    {
+      "partner": "203",
+      "result": "470"
+    },
+    {
+      "partner": "211",
+      "result": "462"
+    },
+    {
+      "partner": "215",
+      "result": "470"
+    },
+    {
+      "partner": "228",
+      "result": "470"
+    },
+    {
+      "partner": "241",
+      "result": "470"
+    },
+    {
+      "partner": "359",
+      "result": "470"
+    },
+    {
+      "partner": "387",
+      "result": "149"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "462"
+    },
+    {
+      "partner": "460",
+      "result": "462"
+    },
+    {
+      "partner": "461",
+      "result": "462"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "462"
+    },
+    {
+      "partner": "503",
+      "result": "449"
+    },
+    {
+      "partner": "537",
+      "result": "462"
+    },
+    {
+      "partner": "539",
+      "result": "470"
+    },
+    {
+      "partner": "548",
+      "result": "470"
+    },
+    {
+      "partner": "556",
+      "result": "470"
+    },
+    {
+      "partner": "610",
+      "result": "462"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "316",
+      "result": "144",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "144",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "144",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "144",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "144",
+      "boost": 500
+    }
+  ]
+}

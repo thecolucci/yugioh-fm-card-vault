@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ultimate-dragon",
+    "capturedAt": "2026-07-22T17:08:26.903Z",
+    "contentHash": "3611bc7674c8c0395cba5acf01cbecd2037a63ae7347e24d4218d4bf6a551d9e",
+    "upstreamName": "Ultimate Dragon",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "675",
+  "cardType": "Ritual",
+  "description": "Sacrifice three Blue-eyes to summon Ultimate Dragon.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "315",
+      "right": "657"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

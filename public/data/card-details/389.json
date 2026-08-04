@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/giltia-the-d_-knight",
+    "capturedAt": "2026-07-22T17:07:55.792Z",
+    "contentHash": "0a87429e9c09a996929351b33ee232109ac7f2ea072597ceda4c94966b8c9489",
+    "upstreamName": "Giltia the D. Knight",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "389",
+  "cardType": "Monster",
+  "description": "Armed with a soul-searing spear, this creature favors magic attacks.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "SUN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/389.webm",
+    "localPath": "/game-assets/models/389.webm",
+    "width": 370,
+    "height": 537,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 25,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "015",
+      "result": "473"
+    },
+    {
+      "partner": "040",
+      "result": "473"
+    },
+    {
+      "partner": "068",
+      "result": "473"
+    },
+    {
+      "partner": "101",
+      "result": "473"
+    },
+    {
+      "partner": "133",
+      "result": "473"
+    },
+    {
+      "partner": "142",
+      "result": "473"
+    },
+    {
+      "partner": "154",
+      "result": "473"
+    },
+    {
+      "partner": "157",
+      "result": "473"
+    },
+    {
+      "partner": "165",
+      "result": "033"
+    },
+    {
+      "partner": "168",
+      "result": "473"
+    },
+    {
+      "partner": "172",
+      "result": "473"
+    },
+    {
+      "partner": "176",
+      "result": "473"
+    },
+    {
+      "partner": "210",
+      "result": "473"
+    },
+    {
+      "partner": "214",
+      "result": "473"
+    },
+    {
+      "partner": "215",
+      "result": "473"
+    },
+    {
+      "partner": "242",
+      "result": "473"
+    },
+    {
+      "partner": "244",
+      "result": "473"
+    },
+    {
+      "partner": "272",
+      "result": "473"
+    },
+    {
+      "partner": "291",
+      "result": "473"
+    },
+    {
+      "partner": "357",
+      "result": "473"
+    },
+    {
+      "partner": "409",
+      "result": "473"
+    },
+    {
+      "partner": "417",
+      "result": "473"
+    },
+    {
+      "partner": "519",
+      "result": "473"
+    },
+    {
+      "partner": "555",
+      "result": "473"
+    },
+    {
+      "partner": "644",
+      "result": "473"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "389",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "389",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "389",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "389",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "389",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "389",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "389",
+      "boost": 500
+    }
+  ]
+}

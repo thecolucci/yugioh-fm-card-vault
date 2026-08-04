@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/maha-vailo",
+    "capturedAt": "2026-07-22T17:08:10.333Z",
+    "contentHash": "3ac0dc1e61e3559bda87009cd5b5d1c5542adfde772bb5d1b0d948f57f3851c1",
+    "upstreamName": "Maha Vailo",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "493",
+  "cardType": "Monster",
+  "description": "A wizard dressed in blue who is usually found meditating.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "SUN",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/493.webm",
+    "localPath": "/game-assets/models/493.webm",
+    "width": 386,
+    "height": 294,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 14,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "458"
+    },
+    {
+      "partner": "191",
+      "result": "458"
+    },
+    {
+      "partner": "211",
+      "result": "458"
+    },
+    {
+      "partner": "299",
+      "result": "495"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "458"
+    },
+    {
+      "partner": "460",
+      "result": "458"
+    },
+    {
+      "partner": "461",
+      "result": "458"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "458"
+    },
+    {
+      "partner": "537",
+      "result": "458"
+    },
+    {
+      "partner": "610",
+      "result": "458"
+    },
+    {
+      "partner": "649",
+      "result": "495"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "323",
+      "result": "493",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "493",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "493",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "493",
+      "boost": 500
+    }
+  ]
+}

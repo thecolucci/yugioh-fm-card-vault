@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/winged-trumpeter",
+    "capturedAt": "2026-07-22T17:08:24.372Z",
+    "contentHash": "df951ba9f8543a1769518ae1010e949c192bb7a63db32206d94c1b3e861b8c8b",
+    "upstreamName": "Winged Trumpeter",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "659",
+  "cardType": "Equip",
+  "description": "A horn that increases the power of Fairy creatures.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 3,
+    "equips": 26
+  },
+  "recipes": [
+    {
+      "left": "312",
+      "right": "325"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "317",
+      "result": "676"
+    },
+    {
+      "partner": "325",
+      "result": "672"
+    },
+    {
+      "partner": "659",
+      "result": "341"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "090",
+      "result": "090",
+      "boost": 500
+    },
+    {
+      "partner": "109",
+      "result": "109",
+      "boost": 500
+    },
+    {
+      "partner": "111",
+      "result": "111",
+      "boost": 500
+    },
+    {
+      "partner": "126",
+      "result": "126",
+      "boost": 500
+    },
+    {
+      "partner": "130",
+      "result": "130",
+      "boost": 500
+    },
+    {
+      "partner": "134",
+      "result": "134",
+      "boost": 500
+    },
+    {
+      "partner": "170",
+      "result": "170",
+      "boost": 500
+    },
+    {
+      "partner": "192",
+      "result": "192",
+      "boost": 500
+    },
+    {
+      "partner": "198",
+      "result": "198",
+      "boost": 500
+    },
+    {
+      "partner": "208",
+      "result": "208",
+      "boost": 500
+    },
+    {
+      "partner": "229",
+      "result": "229",
+      "boost": 500
+    },
+    {
+      "partner": "260",
+      "result": "260",
+      "boost": 500
+    },
+    {
+      "partner": "264",
+      "result": "264",
+      "boost": 500
+    },
+    {
+      "partner": "276",
+      "result": "276",
+      "boost": 500
+    },
+    {
+      "partner": "395",
+      "result": "395",
+      "boost": 500
+    },
+    {
+      "partner": "396",
+      "result": "396",
+      "boost": 500
+    },
+    {
+      "partner": "429",
+      "result": "429",
+      "boost": 500
+    },
+    {
+      "partner": "492",
+      "result": "492",
+      "boost": 500
+    },
+    {
+      "partner": "540",
+      "result": "540",
+      "boost": 500
+    },
+    {
+      "partner": "582",
+      "result": "582",
+      "boost": 500
+    },
+    {
+      "partner": "584",
+      "result": "584",
+      "boost": 500
+    },
+    {
+      "partner": "592",
+      "result": "592",
+      "boost": 500
+    },
+    {
+      "partner": "601",
+      "result": "601",
+      "boost": 500
+    },
+    {
+      "partner": "608",
+      "result": "608",
+      "boost": 500
+    },
+    {
+      "partner": "616",
+      "result": "616",
+      "boost": 500
+    },
+    {
+      "partner": "633",
+      "result": "633",
+      "boost": 500
+    }
+  ]
+}

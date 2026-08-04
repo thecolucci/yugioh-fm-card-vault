@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dark-piercing-light",
+    "capturedAt": "2026-07-22T17:07:50.912Z",
+    "contentHash": "5ba5b38bfe9b26b5696b5699e54b53a8d1b388e8d31d0bb26b1854e71548dc42",
+    "upstreamName": "Dark-piercing Light",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "350",
+  "cardType": "Magic",
+  "description": "A dazzling light reveals all monsters on the playing field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 4,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "083",
+      "result": "668"
+    },
+    {
+      "partner": "303",
+      "result": "670"
+    },
+    {
+      "partner": "486",
+      "result": "323"
+    },
+    {
+      "partner": "669",
+      "result": "348"
+    }
+  ],
+  "equips": []
+}

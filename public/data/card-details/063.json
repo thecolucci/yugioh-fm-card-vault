@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/harpie-lady-sisters",
+    "capturedAt": "2026-07-22T17:03:41.789Z",
+    "contentHash": "ea9df5c8a1b8a19906df0819b869a5decc36123d78d14d9bb50f9617c40bf21c",
+    "upstreamName": "Harpie Lady Sisters",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "063",
+  "cardType": "Monster",
+  "description": "Three fierce sisters who relentlessly attack as a team.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SATURN",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/63.webm",
+    "localPath": "/game-assets/models/063.webm",
+    "width": 530,
+    "height": 377,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 58,
+    "equips": 9
+  },
+  "recipes": [
+    {
+      "left": "062",
+      "right": "318"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "028",
+      "result": "531"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "062",
+      "result": "672"
+    },
+    {
+      "partner": "063",
+      "result": "672"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "074",
+      "result": "531"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "167",
+      "result": "531"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "237",
+      "result": "531"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "531"
+    },
+    {
+      "partner": "257",
+      "result": "531"
+    },
+    {
+      "partner": "263",
+      "result": "531"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "325",
+      "result": "672"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "366",
+      "result": "531"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "426",
+      "result": "531"
+    },
+    {
+      "partner": "453",
+      "result": "531"
+    },
+    {
+      "partner": "454",
+      "result": "531"
+    },
+    {
+      "partner": "455",
+      "result": "531"
+    },
+    {
+      "partner": "456",
+      "result": "531"
+    },
+    {
+      "partner": "457",
+      "result": "531"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "505",
+      "result": "531"
+    },
+    {
+      "partner": "515",
+      "result": "531"
+    },
+    {
+      "partner": "516",
+      "result": "531"
+    },
+    {
+      "partner": "517",
+      "result": "531"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "558",
+      "result": "531"
+    },
+    {
+      "partner": "591",
+      "result": "531"
+    },
+    {
+      "partner": "623",
+      "result": "531"
+    },
+    {
+      "partner": "632",
+      "result": "531"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "652",
+      "result": "672"
+    },
+    {
+      "partner": "681",
+      "result": "672"
+    },
+    {
+      "partner": "682",
+      "result": "672"
+    },
+    {
+      "partner": "683",
+      "result": "672"
+    },
+    {
+      "partner": "684",
+      "result": "672"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "312",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "063",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "063",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "063",
+      "boost": 500
+    }
+  ]
+}

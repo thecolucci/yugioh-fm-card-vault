@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/vile-germs",
+    "capturedAt": "2026-07-22T17:07:45.191Z",
+    "contentHash": "21ae66f0547dffbcf951eb4a33025c72d5f95847564a63498878520120707701",
+    "upstreamName": "Vile Germs",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "310",
+  "cardType": "Equip",
+  "description": "Vile microbes boost the power of Plants in the woods!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 2,
+    "equips": 30
+  },
+  "recipes": [
+    {
+      "left": "058",
+      "right": "318"
+    },
+    {
+      "left": "330",
+      "right": "661"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "657",
+      "result": "330"
+    },
+    {
+      "partner": "658",
+      "result": "661"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "008",
+      "result": "008",
+      "boost": 500
+    },
+    {
+      "partner": "075",
+      "result": "075",
+      "boost": 500
+    },
+    {
+      "partner": "098",
+      "result": "098",
+      "boost": 500
+    },
+    {
+      "partner": "123",
+      "result": "123",
+      "boost": 500
+    },
+    {
+      "partner": "157",
+      "result": "157",
+      "boost": 500
+    },
+    {
+      "partner": "158",
+      "result": "158",
+      "boost": 500
+    },
+    {
+      "partner": "180",
+      "result": "180",
+      "boost": 500
+    },
+    {
+      "partner": "216",
+      "result": "216",
+      "boost": 500
+    },
+    {
+      "partner": "228",
+      "result": "228",
+      "boost": 500
+    },
+    {
+      "partner": "235",
+      "result": "235",
+      "boost": 500
+    },
+    {
+      "partner": "238",
+      "result": "238",
+      "boost": 500
+    },
+    {
+      "partner": "273",
+      "result": "273",
+      "boost": 500
+    },
+    {
+      "partner": "274",
+      "result": "274",
+      "boost": 500
+    },
+    {
+      "partner": "487",
+      "result": "487",
+      "boost": 500
+    },
+    {
+      "partner": "488",
+      "result": "488",
+      "boost": 500
+    },
+    {
+      "partner": "489",
+      "result": "489",
+      "boost": 500
+    },
+    {
+      "partner": "504",
+      "result": "504",
+      "boost": 500
+    },
+    {
+      "partner": "510",
+      "result": "510",
+      "boost": 500
+    },
+    {
+      "partner": "511",
+      "result": "511",
+      "boost": 500
+    },
+    {
+      "partner": "547",
+      "result": "547",
+      "boost": 500
+    },
+    {
+      "partner": "553",
+      "result": "553",
+      "boost": 500
+    },
+    {
+      "partner": "567",
+      "result": "567",
+      "boost": 500
+    },
+    {
+      "partner": "579",
+      "result": "579",
+      "boost": 500
+    },
+    {
+      "partner": "588",
+      "result": "588",
+      "boost": 500
+    },
+    {
+      "partner": "589",
+      "result": "589",
+      "boost": 500
+    },
+    {
+      "partner": "594",
+      "result": "594",
+      "boost": 500
+    },
+    {
+      "partner": "620",
+      "result": "620",
+      "boost": 500
+    },
+    {
+      "partner": "637",
+      "result": "637",
+      "boost": 500
+    },
+    {
+      "partner": "638",
+      "result": "638",
+      "boost": 500
+    },
+    {
+      "partner": "702",
+      "result": "702",
+      "boost": 500
+    }
+  ]
+}

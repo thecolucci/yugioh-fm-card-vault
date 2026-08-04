@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ooguchi",
+    "capturedAt": "2026-07-22T17:07:56.968Z",
+    "contentHash": "7778e82c5cac79e367092ae950485a9286e668ab8e4266270a8a7dc67fae134a",
+    "upstreamName": "Ooguchi",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "398",
+  "cardType": "Monster",
+  "description": "A monstrous bullfrog with poison spikes.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/398.webm",
+    "localPath": "/game-assets/models/398.webm",
+    "width": 934,
+    "height": 282,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 34,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "448"
+    },
+    {
+      "partner": "007",
+      "result": "448"
+    },
+    {
+      "partner": "010",
+      "result": "448"
+    },
+    {
+      "partner": "011",
+      "result": "073"
+    },
+    {
+      "partner": "031",
+      "result": "448"
+    },
+    {
+      "partner": "045",
+      "result": "460"
+    },
+    {
+      "partner": "081",
+      "result": "073"
+    },
+    {
+      "partner": "094",
+      "result": "073"
+    },
+    {
+      "partner": "097",
+      "result": "073"
+    },
+    {
+      "partner": "122",
+      "result": "448"
+    },
+    {
+      "partner": "138",
+      "result": "448"
+    },
+    {
+      "partner": "168",
+      "result": "448"
+    },
+    {
+      "partner": "191",
+      "result": "460"
+    },
+    {
+      "partner": "200",
+      "result": "448"
+    },
+    {
+      "partner": "211",
+      "result": "460"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "292",
+      "result": "647"
+    },
+    {
+      "partner": "296",
+      "result": "448"
+    },
+    {
+      "partner": "298",
+      "result": "448"
+    },
+    {
+      "partner": "345",
+      "result": "308"
+    },
+    {
+      "partner": "353",
+      "result": "448"
+    },
+    {
+      "partner": "357",
+      "result": "073"
+    },
+    {
+      "partner": "425",
+      "result": "073"
+    },
+    {
+      "partner": "448",
+      "result": "073"
+    },
+    {
+      "partner": "450",
+      "result": "647"
+    },
+    {
+      "partner": "459",
+      "result": "460"
+    },
+    {
+      "partner": "461",
+      "result": "460"
+    },
+    {
+      "partner": "463",
+      "result": "460"
+    },
+    {
+      "partner": "537",
+      "result": "460"
+    },
+    {
+      "partner": "545",
+      "result": "073"
+    },
+    {
+      "partner": "555",
+      "result": "073"
+    },
+    {
+      "partner": "561",
+      "result": "448"
+    },
+    {
+      "partner": "603",
+      "result": "448"
+    },
+    {
+      "partner": "610",
+      "result": "460"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "398",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "398",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "398",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "398",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "398",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "398",
+      "boost": 500
+    }
+  ]
+}

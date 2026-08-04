@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/goblin-fan",
+    "capturedAt": "2026-07-22T17:08:26.398Z",
+    "contentHash": "21f82f6fe1110bac56d7b6e35ac8848f89083edcc9f2dea5fb0be294e82e7c48",
+    "upstreamName": "Goblin Fan",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "687",
+  "cardType": "Trap",
+  "description": "Reflects the damage of direct attack cards like Fire Sparks and Inferno back to your opponent.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "327",
+      "right": "663"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "688",
+      "result": "663"
+    }
+  ],
+  "equips": []
+}

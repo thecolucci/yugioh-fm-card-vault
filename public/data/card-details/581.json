@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/takuhee",
+    "capturedAt": "2026-07-22T17:08:17.847Z",
+    "contentHash": "96e9d6ebf34803ab8c311653f35d4e769ac3dc055957c869d32ef38f4e828f74",
+    "upstreamName": "Takuhee",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "581",
+  "cardType": "Monster",
+  "description": "This bird is a precursor to disaster!!",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "SATURN",
+    "SUN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/581.webm",
+    "localPath": "/game-assets/models/581.webm",
+    "width": 891,
+    "height": 468,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 39,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "005",
+      "result": "650"
+    },
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "467"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "089",
+      "result": "520"
+    },
+    {
+      "partner": "101",
+      "result": "467"
+    },
+    {
+      "partner": "133",
+      "result": "467"
+    },
+    {
+      "partner": "142",
+      "result": "467"
+    },
+    {
+      "partner": "154",
+      "result": "467"
+    },
+    {
+      "partner": "157",
+      "result": "467"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "467"
+    },
+    {
+      "partner": "176",
+      "result": "467"
+    },
+    {
+      "partner": "177",
+      "result": "520"
+    },
+    {
+      "partner": "193",
+      "result": "520"
+    },
+    {
+      "partner": "210",
+      "result": "467"
+    },
+    {
+      "partner": "214",
+      "result": "467"
+    },
+    {
+      "partner": "215",
+      "result": "467"
+    },
+    {
+      "partner": "242",
+      "result": "467"
+    },
+    {
+      "partner": "244",
+      "result": "467"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "325",
+      "result": "672"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "467"
+    },
+    {
+      "partner": "449",
+      "result": "520"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "503",
+      "result": "520"
+    },
+    {
+      "partner": "518",
+      "result": "520"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "593",
+      "result": "520"
+    },
+    {
+      "partner": "644",
+      "result": "467"
+    },
+    {
+      "partner": "683",
+      "result": "672"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "581",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "581",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "581",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "581",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "581",
+      "boost": 500
+    }
+  ]
+}

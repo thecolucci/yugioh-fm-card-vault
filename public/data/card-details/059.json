@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mammoth-graveyard",
+    "capturedAt": "2026-07-22T17:03:41.129Z",
+    "contentHash": "bd4706f10624eb2789b3ef6820258856f6dea6b648329b4ff558a19f8a84eb86",
+    "upstreamName": "Mammoth Graveyard",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "059",
+  "cardType": "Monster",
+  "description": "A mammoth that protects the gravesite of its pack. It's absolutely merciless when facing graverobbers.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/59.webm",
+    "localPath": "/game-assets/models/059.webm",
+    "width": 754,
+    "height": 380,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 74,
+    "equips": 5
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "009",
+      "result": "564"
+    },
+    {
+      "partner": "024",
+      "result": "564"
+    },
+    {
+      "partner": "030",
+      "result": "564"
+    },
+    {
+      "partner": "036",
+      "result": "564"
+    },
+    {
+      "partner": "096",
+      "result": "564"
+    },
+    {
+      "partner": "097",
+      "result": "564"
+    },
+    {
+      "partner": "098",
+      "result": "564"
+    },
+    {
+      "partner": "099",
+      "result": "564"
+    },
+    {
+      "partner": "108",
+      "result": "564"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "124",
+      "result": "508"
+    },
+    {
+      "partner": "132",
+      "result": "564"
+    },
+    {
+      "partner": "135",
+      "result": "564"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "139",
+      "result": "564"
+    },
+    {
+      "partner": "146",
+      "result": "564"
+    },
+    {
+      "partner": "153",
+      "result": "564"
+    },
+    {
+      "partner": "154",
+      "result": "564"
+    },
+    {
+      "partner": "197",
+      "result": "564"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "203",
+      "result": "564"
+    },
+    {
+      "partner": "215",
+      "result": "564"
+    },
+    {
+      "partner": "228",
+      "result": "564"
+    },
+    {
+      "partner": "241",
+      "result": "564"
+    },
+    {
+      "partner": "275",
+      "result": "508"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "283",
+      "result": "508"
+    },
+    {
+      "partner": "286",
+      "result": "508"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "297",
+      "result": "508"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "351",
+      "result": "564"
+    },
+    {
+      "partner": "355",
+      "result": "508"
+    },
+    {
+      "partner": "359",
+      "result": "564"
+    },
+    {
+      "partner": "368",
+      "result": "564"
+    },
+    {
+      "partner": "388",
+      "result": "508"
+    },
+    {
+      "partner": "394",
+      "result": "508"
+    },
+    {
+      "partner": "405",
+      "result": "508"
+    },
+    {
+      "partner": "406",
+      "result": "508"
+    },
+    {
+      "partner": "408",
+      "result": "508"
+    },
+    {
+      "partner": "410",
+      "result": "508"
+    },
+    {
+      "partner": "411",
+      "result": "508"
+    },
+    {
+      "partner": "412",
+      "result": "508"
+    },
+    {
+      "partner": "413",
+      "result": "508"
+    },
+    {
+      "partner": "414",
+      "result": "508"
+    },
+    {
+      "partner": "416",
+      "result": "508"
+    },
+    {
+      "partner": "417",
+      "result": "508"
+    },
+    {
+      "partner": "418",
+      "result": "508"
+    },
+    {
+      "partner": "419",
+      "result": "508"
+    },
+    {
+      "partner": "420",
+      "result": "508"
+    },
+    {
+      "partner": "421",
+      "result": "508"
+    },
+    {
+      "partner": "422",
+      "result": "508"
+    },
+    {
+      "partner": "423",
+      "result": "508"
+    },
+    {
+      "partner": "438",
+      "result": "508"
+    },
+    {
+      "partner": "470",
+      "result": "564"
+    },
+    {
+      "partner": "512",
+      "result": "508"
+    },
+    {
+      "partner": "513",
+      "result": "508"
+    },
+    {
+      "partner": "514",
+      "result": "508"
+    },
+    {
+      "partner": "539",
+      "result": "564"
+    },
+    {
+      "partner": "544",
+      "result": "508"
+    },
+    {
+      "partner": "545",
+      "result": "564"
+    },
+    {
+      "partner": "548",
+      "result": "564"
+    },
+    {
+      "partner": "556",
+      "result": "564"
+    },
+    {
+      "partner": "557",
+      "result": "508"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "580",
+      "result": "508"
+    },
+    {
+      "partner": "585",
+      "result": "508"
+    },
+    {
+      "partner": "596",
+      "result": "564"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    },
+    {
+      "partner": "643",
+      "result": "508"
+    },
+    {
+      "partner": "648",
+      "result": "508"
+    },
+    {
+      "partner": "719",
+      "result": "564"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "059",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "059",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "059",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "059",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "059",
+      "boost": 500
+    }
+  ]
+}

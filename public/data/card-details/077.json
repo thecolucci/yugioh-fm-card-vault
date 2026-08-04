@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/grappler",
+    "capturedAt": "2026-07-22T17:04:03.046Z",
+    "contentHash": "157c4b5624143e86fb3cfc5385e5e350ab6b7015908ef50d04b79d1cb7155fc3",
+    "upstreamName": "Grappler",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "077",
+  "cardType": "Monster",
+  "description": "A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/77.webm",
+    "localPath": "/game-assets/models/077.webm",
+    "width": 704,
+    "height": 362,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 3,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "304",
+      "result": "077",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "077",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "077",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "077",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "077",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "077",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "077",
+      "boost": 500
+    }
+  ]
+}

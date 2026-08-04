@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/the-bistro-butcher",
+    "capturedAt": "2026-07-22T17:08:11.886Z",
+    "contentHash": "8f9c1e20ffb8e482b9154bdeac48528ce83a58b89d440f4132ab672acc15e5c4",
+    "upstreamName": "The Bistro Butcher",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "523",
+  "cardType": "Monster",
+  "description": "Defeated enemies serve as ingredients for this gourmet monster.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/523.webm",
+    "localPath": "/game-assets/models/523.webm",
+    "width": 372,
+    "height": 321,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "523",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "523",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "523",
+      "boost": 500
+    }
+  ]
+}

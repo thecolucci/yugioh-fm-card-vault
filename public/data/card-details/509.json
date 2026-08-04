@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/bracchio-raidus",
+    "capturedAt": "2026-07-22T17:08:11.282Z",
+    "contentHash": "6f76d38be66e6b0e85e43bf2e8c0b3a62e02f0d94d9ffe9d6f1344f1d42c0e7a",
+    "upstreamName": "Bracchio-raidus",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "509",
+  "cardType": "Monster",
+  "description": "A colossal dinosaur that stomps on anything that wanders into its path.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MOON"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/509.webm",
+    "localPath": "/game-assets/models/509.webm",
+    "width": 1259,
+    "height": 481,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "509",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "509",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "509",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "509",
+      "boost": 500
+    }
+  ]
+}

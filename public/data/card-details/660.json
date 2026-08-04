@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/stain-storm",
+    "capturedAt": "2026-07-22T17:08:24.438Z",
+    "contentHash": "c785d5eef2e9ac911d027dc73a04597ddda1b427642655db71607d65e1c31492",
+    "upstreamName": "Stain Storm",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "660",
+  "cardType": "Magic",
+  "description": "Acid rain destroys an opponent's Machine monsters.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "316",
+      "right": "334"
+    },
+    {
+      "left": "327",
+      "right": "685"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "336",
+      "result": "685"
+    },
+    {
+      "partner": "658",
+      "result": "695"
+    }
+  ],
+  "equips": []
+}

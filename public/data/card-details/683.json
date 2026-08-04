@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/bear-trap",
+    "capturedAt": "2026-07-22T17:08:26.453Z",
+    "contentHash": "b65247b85adf6ebd57dd82ee00601f2b18082eb8be7cf25126012dd1d122144f",
+    "upstreamName": "Bear Trap",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "683",
+  "cardType": "Trap",
+  "description": "When an opposing monster's Attack Factor is 1500 or lower, it is eliminated from the play field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 20,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "308",
+      "right": "657"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "062",
+      "result": "672"
+    },
+    {
+      "partner": "063",
+      "result": "672"
+    },
+    {
+      "partner": "064",
+      "result": "304"
+    },
+    {
+      "partner": "125",
+      "result": "672"
+    },
+    {
+      "partner": "128",
+      "result": "672"
+    },
+    {
+      "partner": "163",
+      "result": "672"
+    },
+    {
+      "partner": "189",
+      "result": "672"
+    },
+    {
+      "partner": "198",
+      "result": "672"
+    },
+    {
+      "partner": "229",
+      "result": "672"
+    },
+    {
+      "partner": "253",
+      "result": "672"
+    },
+    {
+      "partner": "264",
+      "result": "672"
+    },
+    {
+      "partner": "272",
+      "result": "672"
+    },
+    {
+      "partner": "464",
+      "result": "672"
+    },
+    {
+      "partner": "465",
+      "result": "672"
+    },
+    {
+      "partner": "466",
+      "result": "672"
+    },
+    {
+      "partner": "468",
+      "result": "672"
+    },
+    {
+      "partner": "491",
+      "result": "672"
+    },
+    {
+      "partner": "522",
+      "result": "672"
+    },
+    {
+      "partner": "581",
+      "result": "672"
+    },
+    {
+      "partner": "636",
+      "result": "672"
+    }
+  ],
+  "equips": []
+}

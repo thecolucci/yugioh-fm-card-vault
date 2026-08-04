@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/yado-karu",
+    "capturedAt": "2026-07-22T17:08:10.804Z",
+    "contentHash": "6ee742b2dd2547ee2727f9e913d68da2073b6680230b1e2b0a1cf7f0ceb0355c",
+    "upstreamName": "Yado Karu",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "497",
+  "cardType": "Monster",
+  "description": "A hermit crab with the head of a dragon.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/497.webm",
+    "localPath": "/game-assets/models/497.webm",
+    "width": 310,
+    "height": 247,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 33,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "448"
+    },
+    {
+      "partner": "007",
+      "result": "448"
+    },
+    {
+      "partner": "010",
+      "result": "448"
+    },
+    {
+      "partner": "011",
+      "result": "073"
+    },
+    {
+      "partner": "031",
+      "result": "448"
+    },
+    {
+      "partner": "045",
+      "result": "460"
+    },
+    {
+      "partner": "081",
+      "result": "073"
+    },
+    {
+      "partner": "094",
+      "result": "073"
+    },
+    {
+      "partner": "097",
+      "result": "073"
+    },
+    {
+      "partner": "122",
+      "result": "448"
+    },
+    {
+      "partner": "138",
+      "result": "448"
+    },
+    {
+      "partner": "168",
+      "result": "448"
+    },
+    {
+      "partner": "191",
+      "result": "460"
+    },
+    {
+      "partner": "200",
+      "result": "448"
+    },
+    {
+      "partner": "211",
+      "result": "460"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "292",
+      "result": "647"
+    },
+    {
+      "partner": "296",
+      "result": "448"
+    },
+    {
+      "partner": "298",
+      "result": "448"
+    },
+    {
+      "partner": "353",
+      "result": "448"
+    },
+    {
+      "partner": "357",
+      "result": "073"
+    },
+    {
+      "partner": "425",
+      "result": "073"
+    },
+    {
+      "partner": "448",
+      "result": "073"
+    },
+    {
+      "partner": "450",
+      "result": "647"
+    },
+    {
+      "partner": "459",
+      "result": "460"
+    },
+    {
+      "partner": "461",
+      "result": "460"
+    },
+    {
+      "partner": "463",
+      "result": "460"
+    },
+    {
+      "partner": "537",
+      "result": "460"
+    },
+    {
+      "partner": "545",
+      "result": "073"
+    },
+    {
+      "partner": "555",
+      "result": "073"
+    },
+    {
+      "partner": "561",
+      "result": "448"
+    },
+    {
+      "partner": "603",
+      "result": "448"
+    },
+    {
+      "partner": "610",
+      "result": "460"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "309",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "497",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "497",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "497",
+      "boost": 500
+    }
+  ]
+}

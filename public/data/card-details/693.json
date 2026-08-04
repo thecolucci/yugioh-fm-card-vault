@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/contruct-of-mask",
+    "capturedAt": "2026-07-22T17:08:26.934Z",
+    "contentHash": "ce01c5e1bce616a17a383afcfe04c089a0ced26eeba37b3925ac113cdfedabc4",
+    "upstreamName": "Contruct of Mask",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "693",
+  "cardType": "Ritual",
+  "description": "Sacrifice a masked one to summon a new mask.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "307",
+      "right": "321"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

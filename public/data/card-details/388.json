@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/pendulum-machine",
+    "capturedAt": "2026-07-22T17:07:55.606Z",
+    "contentHash": "797fd4a89cca44fcafdfc461440f473954df0b8546515a316fed8dbe2028fafb",
+    "upstreamName": "Pendulum Machine",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "388",
+  "cardType": "Monster",
+  "description": "A horrible torture machine with a large pendulum blade.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/388.webm",
+    "localPath": "/game-assets/models/388.webm",
+    "width": 558,
+    "height": 391,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 38,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "551"
+    },
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "041",
+      "result": "551"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "264",
+      "result": "551"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "395",
+      "result": "551"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "433",
+      "result": "551"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "532",
+      "result": "551"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "388",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "388",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "388",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "388",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "388",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "388",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "388",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "388",
+      "boost": 500
+    }
+  ]
+}

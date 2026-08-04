@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mask-of-shine-_-dark",
+    "capturedAt": "2026-07-22T17:08:47.797Z",
+    "contentHash": "a54e460f57b8c172832c434a63ffd85d1b713046667a6b3fc09b8704eacb2319",
+    "upstreamName": "Mask of Shine & Dark",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "720",
+  "cardType": "Monster",
+  "description": "A creature that twists the fabric of light and darkness to generate images to confuse opponents.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "VENUS",
+    "PLUTO"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/720.webm",
+    "localPath": "/game-assets/models/720.webm",
+    "width": 702,
+    "height": 452,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "720",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "720",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "720",
+      "boost": 500
+    }
+  ]
+}

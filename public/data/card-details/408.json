@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/giant-mech-soldier",
+    "capturedAt": "2026-07-22T17:07:59.813Z",
+    "contentHash": "995ddf8ac8b6e486a7c089aa6b816645aa3cdf351a753160966abf0ae421c463",
+    "upstreamName": "Giant Mech-soldier",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "408",
+  "cardType": "Monster",
+  "description": "This monster swings an earth-shaking axe that can eliminate enemies with a single blow.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/408.webm",
+    "localPath": "/game-assets/models/408.webm",
+    "width": 372,
+    "height": 449,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 32,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "408",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "408",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "408",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "408",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "408",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "408",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "408",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "408",
+      "boost": 500
+    }
+  ]
+}

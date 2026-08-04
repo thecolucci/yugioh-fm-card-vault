@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/beastking-of-the-swamps",
+    "capturedAt": "2026-07-22T17:07:33.940Z",
+    "contentHash": "f77a6e12d07ac4b7b4ee53c852db8f04aea077ab713f419271e89549a5f54b30",
+    "upstreamName": "Beastking of the Swamps",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "258",
+  "cardType": "Monster",
+  "description": "This creature changes the ground at its feet into quicksand to ensnare its enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "URANUS",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/258.webm",
+    "localPath": "/game-assets/models/258.webm",
+    "width": 815,
+    "height": 197,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 33,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "448"
+    },
+    {
+      "partner": "007",
+      "result": "448"
+    },
+    {
+      "partner": "010",
+      "result": "448"
+    },
+    {
+      "partner": "011",
+      "result": "073"
+    },
+    {
+      "partner": "031",
+      "result": "448"
+    },
+    {
+      "partner": "045",
+      "result": "460"
+    },
+    {
+      "partner": "081",
+      "result": "073"
+    },
+    {
+      "partner": "094",
+      "result": "073"
+    },
+    {
+      "partner": "097",
+      "result": "073"
+    },
+    {
+      "partner": "122",
+      "result": "448"
+    },
+    {
+      "partner": "138",
+      "result": "448"
+    },
+    {
+      "partner": "168",
+      "result": "448"
+    },
+    {
+      "partner": "191",
+      "result": "460"
+    },
+    {
+      "partner": "200",
+      "result": "448"
+    },
+    {
+      "partner": "211",
+      "result": "460"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "292",
+      "result": "647"
+    },
+    {
+      "partner": "296",
+      "result": "448"
+    },
+    {
+      "partner": "298",
+      "result": "448"
+    },
+    {
+      "partner": "353",
+      "result": "448"
+    },
+    {
+      "partner": "357",
+      "result": "073"
+    },
+    {
+      "partner": "425",
+      "result": "073"
+    },
+    {
+      "partner": "448",
+      "result": "073"
+    },
+    {
+      "partner": "450",
+      "result": "647"
+    },
+    {
+      "partner": "459",
+      "result": "460"
+    },
+    {
+      "partner": "461",
+      "result": "460"
+    },
+    {
+      "partner": "463",
+      "result": "460"
+    },
+    {
+      "partner": "537",
+      "result": "460"
+    },
+    {
+      "partner": "545",
+      "result": "073"
+    },
+    {
+      "partner": "555",
+      "result": "073"
+    },
+    {
+      "partner": "561",
+      "result": "448"
+    },
+    {
+      "partner": "603",
+      "result": "448"
+    },
+    {
+      "partner": "610",
+      "result": "460"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "258",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "258",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "258",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "258",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "258",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "258",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "258",
+      "boost": 500
+    }
+  ]
+}

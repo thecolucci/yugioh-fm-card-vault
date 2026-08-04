@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/beaked-snake",
+    "capturedAt": "2026-07-22T17:08:17.449Z",
+    "contentHash": "b9a77592a14aad5806c680479bb01324669a74c02b9c656fffb9912470d6fb39",
+    "upstreamName": "Beaked Snake",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "590",
+  "cardType": "Monster",
+  "description": "Wraps its coils around opponents and pecks them with its huge beak.",
+  "field": null,
+  "guardianStars": [
+    "NEPTUNE",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/590.webm",
+    "localPath": "/game-assets/models/590.webm",
+    "width": 398,
+    "height": 244,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 22,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "008",
+      "result": "620"
+    },
+    {
+      "partner": "075",
+      "result": "620"
+    },
+    {
+      "partner": "095",
+      "result": "471"
+    },
+    {
+      "partner": "098",
+      "result": "471"
+    },
+    {
+      "partner": "123",
+      "result": "620"
+    },
+    {
+      "partner": "157",
+      "result": "620"
+    },
+    {
+      "partner": "158",
+      "result": "620"
+    },
+    {
+      "partner": "180",
+      "result": "620"
+    },
+    {
+      "partner": "191",
+      "result": "610"
+    },
+    {
+      "partner": "211",
+      "result": "610"
+    },
+    {
+      "partner": "238",
+      "result": "620"
+    },
+    {
+      "partner": "273",
+      "result": "620"
+    },
+    {
+      "partner": "274",
+      "result": "620"
+    },
+    {
+      "partner": "275",
+      "result": "639"
+    },
+    {
+      "partner": "463",
+      "result": "610"
+    },
+    {
+      "partner": "488",
+      "result": "620"
+    },
+    {
+      "partner": "510",
+      "result": "620"
+    },
+    {
+      "partner": "537",
+      "result": "610"
+    },
+    {
+      "partner": "547",
+      "result": "620"
+    },
+    {
+      "partner": "579",
+      "result": "620"
+    },
+    {
+      "partner": "588",
+      "result": "620"
+    },
+    {
+      "partner": "589",
+      "result": "620"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "326",
+      "result": "590",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "590",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "590",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "590",
+      "boost": 500
+    }
+  ]
+}

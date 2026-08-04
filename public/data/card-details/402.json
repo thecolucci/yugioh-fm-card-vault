@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/monster-eye",
+    "capturedAt": "2026-07-22T17:07:57.098Z",
+    "contentHash": "b6da1d3198e9064d316ed0f49da43de0bcd1e3d64ff8cd89cdb823274e26ad37",
+    "upstreamName": "Monster Eye",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "402",
+  "cardType": "Monster",
+  "description": "A servant that maintains a close watch on anything and everything. It throws up a smokescreen when discovered.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/402.webm",
+    "localPath": "/game-assets/models/402.webm",
+    "width": 390,
+    "height": 366,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 16,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    },
+    {
+      "partner": "681",
+      "result": "171"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "402",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "402",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "402",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "402",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "402",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "402",
+      "boost": 500
+    }
+  ]
+}

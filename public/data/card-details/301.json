@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/legendary-sword",
+    "capturedAt": "2026-07-22T16:46:09.370Z",
+    "contentHash": "1f4306a647f4dbfd49c6dd057e1f43499926dc015c316cb8318c06126c472707",
+    "upstreamName": "Legendary Sword",
+    "upstreamCardType": "EQUIP"
+  },
+  "cardId": "301",
+  "cardType": "Equip",
+  "description": "A sword that brings out the best in warriors. It cannot be used by servants of the dark.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 3,
+    "equips": 63
+  },
+  "recipes": [
+    {
+      "left": "015",
+      "right": "334"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "302",
+      "result": "651"
+    },
+    {
+      "partner": "318",
+      "result": "697"
+    },
+    {
+      "partner": "343",
+      "result": "654"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "012",
+      "result": "012",
+      "boost": 500
+    },
+    {
+      "partner": "015",
+      "result": "015",
+      "boost": 500
+    },
+    {
+      "partner": "026",
+      "result": "026",
+      "boost": 500
+    },
+    {
+      "partner": "027",
+      "result": "027",
+      "boost": 500
+    },
+    {
+      "partner": "029",
+      "result": "029",
+      "boost": 500
+    },
+    {
+      "partner": "033",
+      "result": "033",
+      "boost": 500
+    },
+    {
+      "partner": "038",
+      "result": "038",
+      "boost": 500
+    },
+    {
+      "partner": "041",
+      "result": "041",
+      "boost": 500
+    },
+    {
+      "partner": "043",
+      "result": "043",
+      "boost": 500
+    },
+    {
+      "partner": "064",
+      "result": "064",
+      "boost": 500
+    },
+    {
+      "partner": "066",
+      "result": "066",
+      "boost": 500
+    },
+    {
+      "partner": "078",
+      "result": "078",
+      "boost": 500
+    },
+    {
+      "partner": "092",
+      "result": "092",
+      "boost": 500
+    },
+    {
+      "partner": "093",
+      "result": "093",
+      "boost": 500
+    },
+    {
+      "partner": "100",
+      "result": "100",
+      "boost": 500
+    },
+    {
+      "partner": "110",
+      "result": "110",
+      "boost": 500
+    },
+    {
+      "partner": "118",
+      "result": "118",
+      "boost": 500
+    },
+    {
+      "partner": "120",
+      "result": "120",
+      "boost": 500
+    },
+    {
+      "partner": "131",
+      "result": "131",
+      "boost": 500
+    },
+    {
+      "partner": "133",
+      "result": "133",
+      "boost": 500
+    },
+    {
+      "partner": "138",
+      "result": "138",
+      "boost": 500
+    },
+    {
+      "partner": "147",
+      "result": "147",
+      "boost": 500
+    },
+    {
+      "partner": "151",
+      "result": "151",
+      "boost": 500
+    },
+    {
+      "partner": "156",
+      "result": "156",
+      "boost": 500
+    },
+    {
+      "partner": "160",
+      "result": "160",
+      "boost": 500
+    },
+    {
+      "partner": "161",
+      "result": "161",
+      "boost": 500
+    },
+    {
+      "partner": "165",
+      "result": "165",
+      "boost": 500
+    },
+    {
+      "partner": "166",
+      "result": "166",
+      "boost": 500
+    },
+    {
+      "partner": "172",
+      "result": "172",
+      "boost": 500
+    },
+    {
+      "partner": "185",
+      "result": "185",
+      "boost": 500
+    },
+    {
+      "partner": "196",
+      "result": "196",
+      "boost": 500
+    },
+    {
+      "partner": "199",
+      "result": "199",
+      "boost": 500
+    },
+    {
+      "partner": "212",
+      "result": "212",
+      "boost": 500
+    },
+    {
+      "partner": "224",
+      "result": "224",
+      "boost": 500
+    },
+    {
+      "partner": "231",
+      "result": "231",
+      "boost": 500
+    },
+    {
+      "partner": "235",
+      "result": "235",
+      "boost": 500
+    },
+    {
+      "partner": "250",
+      "result": "250",
+      "boost": 500
+    },
+    {
+      "partner": "252",
+      "result": "252",
+      "boost": 500
+    },
+    {
+      "partner": "256",
+      "result": "256",
+      "boost": 500
+    },
+    {
+      "partner": "262",
+      "result": "262",
+      "boost": 500
+    },
+    {
+      "partner": "265",
+      "result": "265",
+      "boost": 500
+    },
+    {
+      "partner": "266",
+      "result": "266",
+      "boost": 500
+    },
+    {
+      "partner": "286",
+      "result": "286",
+      "boost": 500
+    },
+    {
+      "partner": "290",
+      "result": "290",
+      "boost": 500
+    },
+    {
+      "partner": "291",
+      "result": "291",
+      "boost": 500
+    },
+    {
+      "partner": "293",
+      "result": "293",
+      "boost": 500
+    },
+    {
+      "partner": "299",
+      "result": "299",
+      "boost": 500
+    },
+    {
+      "partner": "352",
+      "result": "352",
+      "boost": 500
+    },
+    {
+      "partner": "354",
+      "result": "354",
+      "boost": 500
+    },
+    {
+      "partner": "362",
+      "result": "362",
+      "boost": 500
+    },
+    {
+      "partner": "389",
+      "result": "389",
+      "boost": 500
+    },
+    {
+      "partner": "399",
+      "result": "399",
+      "boost": 500
+    },
+    {
+      "partner": "434",
+      "result": "434",
+      "boost": 500
+    },
+    {
+      "partner": "456",
+      "result": "456",
+      "boost": 500
+    },
+    {
+      "partner": "479",
+      "result": "479",
+      "boost": 500
+    },
+    {
+      "partner": "502",
+      "result": "502",
+      "boost": 500
+    },
+    {
+      "partner": "511",
+      "result": "511",
+      "boost": 500
+    },
+    {
+      "partner": "553",
+      "result": "553",
+      "boost": 500
+    },
+    {
+      "partner": "572",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "601",
+      "result": "601",
+      "boost": 500
+    },
+    {
+      "partner": "609",
+      "result": "609",
+      "boost": 500
+    },
+    {
+      "partner": "701",
+      "result": "701",
+      "boost": 500
+    },
+    {
+      "partner": "704",
+      "result": "704",
+      "boost": 500
+    }
+  ]
+}

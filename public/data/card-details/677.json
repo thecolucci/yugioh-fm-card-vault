@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/hamburger-recipe",
+    "capturedAt": "2026-07-22T17:08:26.655Z",
+    "contentHash": "72d4dd9233322d81ca20107f7932bb7b9b681e551623e66e0c91552d34ece0c1",
+    "upstreamName": "Hamburger Recipe",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "677",
+  "cardType": "Ritual",
+  "description": "A card with the ingredients for making a delicious hamburger.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "323",
+      "right": "338"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

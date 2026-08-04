@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/eternal-rest",
+    "capturedAt": "2026-07-22T17:08:24.543Z",
+    "contentHash": "9849da28c8549e2c9e4f9d8ef60388903f562a47738bb24ed38e32681fe40fef",
+    "upstreamName": "Eternal Rest",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "656",
+  "cardType": "Magic",
+  "description": "Eliminates all Zombie creatures.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "307",
+      "right": "312"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "096",
+      "result": "302"
+    },
+    {
+      "partner": "651",
+      "result": "679"
+    }
+  ],
+  "equips": []
+}

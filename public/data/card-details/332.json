@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/mountain",
+    "capturedAt": "2026-07-22T17:07:47.124Z",
+    "contentHash": "555124d4edfbe1cfc248f2ffc9589ee8c0a56c8c618e12498fc480629c48cf23",
+    "upstreamName": "Mountain",
+    "upstreamCardType": "FIELD"
+  },
+  "cardId": "332",
+  "cardType": "Field",
+  "description": "Changes the field in favor of Dragon, Winged Beast, and Thunder monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": []
+}

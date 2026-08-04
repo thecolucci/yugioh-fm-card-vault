@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/bad-reaction-to-simochi",
+    "capturedAt": "2026-07-22T17:08:29.792Z",
+    "contentHash": "e6db3c1d0cab3904e3667b0e83437806e64632632eac2b7be8e516e84bfeab92",
+    "upstreamName": "Bad Reaction to Simochi",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "688",
+  "cardType": "Trap",
+  "description": "A card that reverses the effects of recovery cards and transforms the points to damage.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "338",
+      "right": "338"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "687",
+      "result": "663"
+    }
+  ],
+  "equips": []
+}

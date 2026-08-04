@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/solitude",
+    "capturedAt": "2026-07-22T17:07:26.118Z",
+    "contentHash": "782aaa65007653ca6327307e2b48103c3b778743751de56371bc6aaef58049c2",
+    "upstreamName": "Solitude",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "219",
+  "cardType": "Monster",
+  "description": "A beast-warrior that swings a massive scythe that draws on the spirit of its enemies to deliver devastating blows.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "MOON",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/219.webm",
+    "localPath": "/game-assets/models/219.webm",
+    "width": 834,
+    "height": 617,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 11,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "304",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "319",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "219",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "219",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "219",
+      "boost": 500
+    }
+  ]
+}

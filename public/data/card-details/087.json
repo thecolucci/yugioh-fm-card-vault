@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dark-chimera",
+    "capturedAt": "2026-07-22T17:04:05.298Z",
+    "contentHash": "1e41c40b60326b0f3761a83ace83ae0289b1e7cc17869a8c7da845434de0d6c5",
+    "upstreamName": "Dark Chimera",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "087",
+  "cardType": "Monster",
+  "description": "A fire-breathing monster that dwells in the netherworld.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/87.webm",
+    "localPath": "/game-assets/models/087.webm",
+    "width": 626,
+    "height": 413,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 9
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "087",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "087",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "087",
+      "boost": 500
+    }
+  ]
+}

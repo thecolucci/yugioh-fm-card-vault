@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/spiked-snail",
+    "capturedAt": "2026-07-22T17:06:56.189Z",
+    "contentHash": "24996d5ab7f15b06df2b6ef0171d3e5289fd8d520a481ca584bd68b24133e960",
+    "upstreamName": "Spiked Snail",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "141",
+  "cardType": "Monster",
+  "description": "Evolving from the powers of darkness, this snail has arms and legs that allow swift attacks against its enemies.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/141.webm",
+    "localPath": "/game-assets/models/141.webm",
+    "width": 602,
+    "height": 385,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 25,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "100",
+      "result": "479"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "147",
+      "result": "479"
+    },
+    {
+      "partner": "156",
+      "result": "479"
+    },
+    {
+      "partner": "161",
+      "result": "479"
+    },
+    {
+      "partner": "172",
+      "result": "479"
+    },
+    {
+      "partner": "182",
+      "result": "479"
+    },
+    {
+      "partner": "185",
+      "result": "479"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "224",
+      "result": "479"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "362",
+      "result": "479"
+    },
+    {
+      "partner": "399",
+      "result": "479"
+    },
+    {
+      "partner": "469",
+      "result": "479"
+    },
+    {
+      "partner": "480",
+      "result": "533"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "586",
+      "result": "479"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    },
+    {
+      "partner": "635",
+      "result": "479"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "141",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "141",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "141",
+      "boost": 500
+    }
+  ]
+}

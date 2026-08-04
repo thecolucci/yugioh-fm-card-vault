@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/roaring-ocean-snake",
+    "capturedAt": "2026-07-22T17:07:26.481Z",
+    "contentHash": "61d5abdfe0d6a912700402fc6bd9e59f74e514d74f10136374dc1390c2a57e53",
+    "upstreamName": "Roaring Ocean Snake",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "223",
+  "cardType": "Monster",
+  "description": "A massive sea serpent that creates tidal waves to wipe out its enemies.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/223.webm",
+    "localPath": "/game-assets/models/223.webm",
+    "width": 1166,
+    "height": 399,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "223",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "223",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "223",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "223",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "223",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "223",
+      "boost": 500
+    }
+  ]
+}

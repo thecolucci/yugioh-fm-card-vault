@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/embryonic-beast",
+    "capturedAt": "2026-07-22T17:07:33.983Z",
+    "contentHash": "68ee73289ab9073975131c2490851ffdf5dcb90553b67e06fc97ed4557fa9298",
+    "upstreamName": "Embryonic Beast",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "254",
+  "cardType": "Monster",
+  "description": "A repulsive monster with a gaping belly that swallows almost anything.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/254.webm",
+    "localPath": "/game-assets/models/254.webm",
+    "width": 192,
+    "height": 178,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 16,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "031"
+    },
+    {
+      "partner": "007",
+      "result": "031"
+    },
+    {
+      "partner": "016",
+      "result": "022"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "031"
+    },
+    {
+      "partner": "138",
+      "result": "031"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "031"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "031"
+    },
+    {
+      "partner": "298",
+      "result": "031"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "561",
+      "result": "031"
+    },
+    {
+      "partner": "603",
+      "result": "031"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "254",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "254",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "254",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "254",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "254",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "254",
+      "boost": 500
+    }
+  ]
+}

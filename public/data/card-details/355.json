@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/megasonic-eye",
+    "capturedAt": "2026-07-22T17:07:52.253Z",
+    "contentHash": "2259de44583446adb33152476f1d8fd38ac630c66ce113003cf3687c3736e75b",
+    "upstreamName": "Megasonic Eye",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "355",
+  "cardType": "Monster",
+  "description": "A cryptic doomsday machine that comes from the edge of the universe.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/355.webm",
+    "localPath": "/game-assets/models/355.webm",
+    "width": 380,
+    "height": 342,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 63,
+    "equips": 11
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "046",
+      "result": "423"
+    },
+    {
+      "partner": "047",
+      "result": "423"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "061",
+      "result": "423"
+    },
+    {
+      "partner": "065",
+      "result": "423"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "091",
+      "result": "423"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "113",
+      "result": "423"
+    },
+    {
+      "partner": "121",
+      "result": "423"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "188",
+      "result": "423"
+    },
+    {
+      "partner": "189",
+      "result": "423"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "201",
+      "result": "423"
+    },
+    {
+      "partner": "202",
+      "result": "423"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "230",
+      "result": "438"
+    },
+    {
+      "partner": "247",
+      "result": "438"
+    },
+    {
+      "partner": "248",
+      "result": "423"
+    },
+    {
+      "partner": "251",
+      "result": "438"
+    },
+    {
+      "partner": "255",
+      "result": "423"
+    },
+    {
+      "partner": "282",
+      "result": "423"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "436",
+      "result": "438"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "481",
+      "result": "423"
+    },
+    {
+      "partner": "494",
+      "result": "438"
+    },
+    {
+      "partner": "527",
+      "result": "423"
+    },
+    {
+      "partner": "528",
+      "result": "423"
+    },
+    {
+      "partner": "542",
+      "result": "438"
+    },
+    {
+      "partner": "543",
+      "result": "438"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "546",
+      "result": "438"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "597",
+      "result": "423"
+    },
+    {
+      "partner": "598",
+      "result": "423"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "604",
+      "result": "423"
+    },
+    {
+      "partner": "626",
+      "result": "438"
+    },
+    {
+      "partner": "629",
+      "result": "423"
+    },
+    {
+      "partner": "642",
+      "result": "423"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "355",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "355",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "355",
+      "boost": 500
+    }
+  ]
+}

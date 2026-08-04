@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/eradicating-aerosol",
+    "capturedAt": "2026-07-22T17:08:24.716Z",
+    "contentHash": "c2363bc9adfffb88638a103e0e36a41d69b372d351a2c52146b5584609ed0407",
+    "upstreamName": "Eradicating Aerosol",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "662",
+  "cardType": "Magic",
+  "description": "An insecticide for wiping out an opponent's Insect monsters that are currently in play.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 2,
+    "fusions": 1,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "325",
+      "right": "340"
+    },
+    {
+      "left": "327",
+      "right": "340"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "652",
+      "result": "681"
+    }
+  ],
+  "equips": []
+}

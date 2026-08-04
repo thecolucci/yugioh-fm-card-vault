@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/javelin-beetle",
+    "capturedAt": "2026-07-22T17:08:47.526Z",
+    "contentHash": "a614f5f3b3de2d692690f631a2cc4a9a6684789b7f5bdda7d119d973920e5e1a",
+    "upstreamName": "Javelin Beetle",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "717",
+  "cardType": "Monster",
+  "description": "A creature with lethal scissors that cut through almost anything.",
+  "field": {
+    "cardId": "330",
+    "name": "FOREST",
+    "gameName": "FOREST"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "URANUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/717.webm",
+    "localPath": "/game-assets/models/717.webm",
+    "width": 602,
+    "height": 343,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "305",
+      "result": "717",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "717",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "717",
+      "boost": 500
+    },
+    {
+      "partner": "313",
+      "result": "717",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "717",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "717",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "717",
+      "boost": 500
+    }
+  ]
+}

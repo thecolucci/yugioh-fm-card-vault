@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/swords-of-revealing-light",
+    "capturedAt": "2026-07-22T17:07:48.330Z",
+    "contentHash": "860fd83795d4222bf0e445b61450a2ca92981486df4bbba8345a606e2aed6407",
+    "upstreamName": "Swords of Revealing Light",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "348",
+  "cardType": "Magic",
+  "description": "Enemy monsters are revealed and your opponent cannot attack for three turns.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "350",
+      "right": "669"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

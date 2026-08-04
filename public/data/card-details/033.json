@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/judge-man",
+    "capturedAt": "2026-07-22T17:01:41.014Z",
+    "contentHash": "ff8e247a7b8796b6c7ebf454aef0eca3b189c05a4a0dd99dea447212ff3a2511",
+    "upstreamName": "Judge Man",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "033",
+  "cardType": "Monster",
+  "description": "For this club-wielding warrior, there is no other outcome to battle than victory or defeat.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "SUN",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/33.webm",
+    "localPath": "/game-assets/models/033.webm",
+    "width": 410,
+    "height": 382,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 62,
+    "fusions": 0,
+    "equips": 5
+  },
+  "recipes": [
+    {
+      "left": "012",
+      "right": "165"
+    },
+    {
+      "left": "041",
+      "right": "165"
+    },
+    {
+      "left": "043",
+      "right": "165"
+    },
+    {
+      "left": "066",
+      "right": "165"
+    },
+    {
+      "left": "078",
+      "right": "165"
+    },
+    {
+      "left": "093",
+      "right": "165"
+    },
+    {
+      "left": "100",
+      "right": "165"
+    },
+    {
+      "left": "107",
+      "right": "165"
+    },
+    {
+      "left": "110",
+      "right": "165"
+    },
+    {
+      "left": "118",
+      "right": "165"
+    },
+    {
+      "left": "120",
+      "right": "165"
+    },
+    {
+      "left": "127",
+      "right": "165"
+    },
+    {
+      "left": "147",
+      "right": "165"
+    },
+    {
+      "left": "151",
+      "right": "165"
+    },
+    {
+      "left": "156",
+      "right": "165"
+    },
+    {
+      "left": "160",
+      "right": "165"
+    },
+    {
+      "left": "161",
+      "right": "165"
+    },
+    {
+      "left": "165",
+      "right": "165"
+    },
+    {
+      "left": "165",
+      "right": "166"
+    },
+    {
+      "left": "165",
+      "right": "182"
+    },
+    {
+      "left": "165",
+      "right": "185"
+    },
+    {
+      "left": "165",
+      "right": "195"
+    },
+    {
+      "left": "165",
+      "right": "224"
+    },
+    {
+      "left": "165",
+      "right": "225"
+    },
+    {
+      "left": "165",
+      "right": "226"
+    },
+    {
+      "left": "165",
+      "right": "231"
+    },
+    {
+      "left": "165",
+      "right": "234"
+    },
+    {
+      "left": "165",
+      "right": "235"
+    },
+    {
+      "left": "165",
+      "right": "236"
+    },
+    {
+      "left": "165",
+      "right": "239"
+    },
+    {
+      "left": "165",
+      "right": "250"
+    },
+    {
+      "left": "165",
+      "right": "256"
+    },
+    {
+      "left": "165",
+      "right": "262"
+    },
+    {
+      "left": "165",
+      "right": "266"
+    },
+    {
+      "left": "165",
+      "right": "267"
+    },
+    {
+      "left": "165",
+      "right": "280"
+    },
+    {
+      "left": "165",
+      "right": "290"
+    },
+    {
+      "left": "165",
+      "right": "293"
+    },
+    {
+      "left": "165",
+      "right": "294"
+    },
+    {
+      "left": "165",
+      "right": "352"
+    },
+    {
+      "left": "165",
+      "right": "354"
+    },
+    {
+      "left": "165",
+      "right": "362"
+    },
+    {
+      "left": "165",
+      "right": "369"
+    },
+    {
+      "left": "165",
+      "right": "376"
+    },
+    {
+      "left": "165",
+      "right": "378"
+    },
+    {
+      "left": "165",
+      "right": "389"
+    },
+    {
+      "left": "165",
+      "right": "399"
+    },
+    {
+      "left": "165",
+      "right": "434"
+    },
+    {
+      "left": "165",
+      "right": "469"
+    },
+    {
+      "left": "165",
+      "right": "502"
+    },
+    {
+      "left": "165",
+      "right": "553"
+    },
+    {
+      "left": "165",
+      "right": "554"
+    },
+    {
+      "left": "165",
+      "right": "559"
+    },
+    {
+      "left": "165",
+      "right": "572"
+    },
+    {
+      "left": "165",
+      "right": "586"
+    },
+    {
+      "left": "165",
+      "right": "618"
+    },
+    {
+      "left": "165",
+      "right": "621"
+    },
+    {
+      "left": "165",
+      "right": "635"
+    },
+    {
+      "left": "165",
+      "right": "641"
+    },
+    {
+      "left": "165",
+      "right": "701"
+    },
+    {
+      "left": "165",
+      "right": "702"
+    },
+    {
+      "left": "165",
+      "right": "704"
+    }
+  ],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "033",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "033",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "033",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "033",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "033",
+      "boost": 500
+    }
+  ]
+}

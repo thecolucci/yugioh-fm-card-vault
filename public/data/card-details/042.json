@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/illusionist-faceless-mage",
+    "capturedAt": "2026-07-22T17:02:32.097Z",
+    "contentHash": "cc4adddf8a142a905e40dc321b665c3d542437dd8b4504be1d866fb159a53355",
+    "upstreamName": "Illusionist Faceless Mage",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "042",
+  "cardType": "Monster",
+  "description": "Manipulates enemy attacks with the power of illusion. A very rare card.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "VENUS",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/42.webm",
+    "localPath": "/game-assets/models/042.webm",
+    "width": 140,
+    "height": 303,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 36,
+    "equips": 6
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "009",
+      "result": "470"
+    },
+    {
+      "partner": "024",
+      "result": "470"
+    },
+    {
+      "partner": "030",
+      "result": "470"
+    },
+    {
+      "partner": "045",
+      "result": "462"
+    },
+    {
+      "partner": "089",
+      "result": "449"
+    },
+    {
+      "partner": "108",
+      "result": "470"
+    },
+    {
+      "partner": "132",
+      "result": "470"
+    },
+    {
+      "partner": "135",
+      "result": "470"
+    },
+    {
+      "partner": "139",
+      "result": "470"
+    },
+    {
+      "partner": "146",
+      "result": "470"
+    },
+    {
+      "partner": "153",
+      "result": "470"
+    },
+    {
+      "partner": "154",
+      "result": "470"
+    },
+    {
+      "partner": "177",
+      "result": "449"
+    },
+    {
+      "partner": "191",
+      "result": "462"
+    },
+    {
+      "partner": "193",
+      "result": "449"
+    },
+    {
+      "partner": "197",
+      "result": "470"
+    },
+    {
+      "partner": "203",
+      "result": "470"
+    },
+    {
+      "partner": "211",
+      "result": "462"
+    },
+    {
+      "partner": "215",
+      "result": "470"
+    },
+    {
+      "partner": "228",
+      "result": "470"
+    },
+    {
+      "partner": "241",
+      "result": "470"
+    },
+    {
+      "partner": "359",
+      "result": "470"
+    },
+    {
+      "partner": "387",
+      "result": "149"
+    },
+    {
+      "partner": "425",
+      "result": "458"
+    },
+    {
+      "partner": "448",
+      "result": "458"
+    },
+    {
+      "partner": "459",
+      "result": "462"
+    },
+    {
+      "partner": "460",
+      "result": "462"
+    },
+    {
+      "partner": "461",
+      "result": "462"
+    },
+    {
+      "partner": "462",
+      "result": "458"
+    },
+    {
+      "partner": "463",
+      "result": "462"
+    },
+    {
+      "partner": "503",
+      "result": "449"
+    },
+    {
+      "partner": "537",
+      "result": "462"
+    },
+    {
+      "partner": "539",
+      "result": "470"
+    },
+    {
+      "partner": "548",
+      "result": "470"
+    },
+    {
+      "partner": "556",
+      "result": "470"
+    },
+    {
+      "partner": "610",
+      "result": "462"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "042",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "042",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "042",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "042",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "042",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "042",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dark-magician",
+    "capturedAt": "2026-07-22T17:01:41.042Z",
+    "contentHash": "6fce4b3817105c75de5b4e633bbc141487b26418cd9f6441dfab003da76b5608",
+    "upstreamName": "Dark Magician",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "035",
+  "cardType": "Monster",
+  "description": "The ultimate wizard in terms of attack and defense.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/35.webm",
+    "localPath": "/game-assets/models/035.webm",
+    "width": 206,
+    "height": 461,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "035",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "035",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "035",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "035",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/acid-trap-hole",
+    "capturedAt": "2026-07-22T17:08:26.839Z",
+    "contentHash": "d952d8825e50f043af88f498b53681a6d298cbe9649e8ff9e3c3eb6b5394ed3c",
+    "upstreamName": "Acid Trap Hole",
+    "upstreamCardType": "TRAP"
+  },
+  "cardId": "685",
+  "cardType": "Trap",
+  "description": "When an opposing monster's Attack Factor is 3000 or lower, it is eliminated from the play field.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "336",
+      "right": "660"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "303",
+      "result": "336"
+    },
+    {
+      "partner": "327",
+      "result": "660"
+    }
+  ],
+  "equips": []
+}

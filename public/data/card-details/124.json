@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ancient-tool",
+    "capturedAt": "2026-07-22T17:05:42.260Z",
+    "contentHash": "c9487079d5c9419f887862544825f8b00e5a0b4ea9079e67bb7040148cbcf499",
+    "upstreamName": "Ancient Tool",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "124",
+  "cardType": "Monster",
+  "description": "An engine of destruction discovered in the ruins of an ancient civilization.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/124.webm",
+    "localPath": "/game-assets/models/124.webm",
+    "width": 716,
+    "height": 288,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 32,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "004",
+      "result": "409"
+    },
+    {
+      "partner": "007",
+      "result": "409"
+    },
+    {
+      "partner": "010",
+      "result": "409"
+    },
+    {
+      "partner": "011",
+      "result": "508"
+    },
+    {
+      "partner": "031",
+      "result": "409"
+    },
+    {
+      "partner": "032",
+      "result": "508"
+    },
+    {
+      "partner": "059",
+      "result": "508"
+    },
+    {
+      "partner": "073",
+      "result": "409"
+    },
+    {
+      "partner": "080",
+      "result": "508"
+    },
+    {
+      "partner": "081",
+      "result": "508"
+    },
+    {
+      "partner": "094",
+      "result": "409"
+    },
+    {
+      "partner": "097",
+      "result": "409"
+    },
+    {
+      "partner": "105",
+      "result": "508"
+    },
+    {
+      "partner": "122",
+      "result": "409"
+    },
+    {
+      "partner": "138",
+      "result": "409"
+    },
+    {
+      "partner": "168",
+      "result": "409"
+    },
+    {
+      "partner": "200",
+      "result": "409"
+    },
+    {
+      "partner": "218",
+      "result": "508"
+    },
+    {
+      "partner": "296",
+      "result": "409"
+    },
+    {
+      "partner": "298",
+      "result": "409"
+    },
+    {
+      "partner": "353",
+      "result": "409"
+    },
+    {
+      "partner": "357",
+      "result": "409"
+    },
+    {
+      "partner": "425",
+      "result": "409"
+    },
+    {
+      "partner": "448",
+      "result": "409"
+    },
+    {
+      "partner": "545",
+      "result": "409"
+    },
+    {
+      "partner": "555",
+      "result": "409"
+    },
+    {
+      "partner": "561",
+      "result": "409"
+    },
+    {
+      "partner": "568",
+      "result": "508"
+    },
+    {
+      "partner": "570",
+      "result": "508"
+    },
+    {
+      "partner": "573",
+      "result": "508"
+    },
+    {
+      "partner": "603",
+      "result": "409"
+    },
+    {
+      "partner": "712",
+      "result": "409"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "124",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "124",
+      "boost": 500
+    },
+    {
+      "partner": "325",
+      "result": "124",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "124",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "124",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "124",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "124",
+      "boost": 500
+    }
+  ]
+}

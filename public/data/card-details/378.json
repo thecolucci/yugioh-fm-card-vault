@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/swordstalker",
+    "capturedAt": "2026-07-22T17:07:53.699Z",
+    "contentHash": "28470f34420f996b08909c393092de767d6090caf1c82bdc19d8b1806f6b30f1",
+    "upstreamName": "Swordstalker",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "378",
+  "cardType": "Monster",
+  "description": "A monster formed by the vengeful souls of those who passed away in battle.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "MOON",
+    "SATURN"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/378.webm",
+    "localPath": "/game-assets/models/378.webm",
+    "width": 472,
+    "height": 315,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 8
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "165",
+      "result": "033"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "302",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "303",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "378",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "378",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "378",
+      "boost": 500
+    }
+  ]
+}

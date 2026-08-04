@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dark-prisoner",
+    "capturedAt": "2026-07-22T17:07:14.709Z",
+    "contentHash": "256b20d241da422af62eb72968f8f94e57e1afee128933b66b378d39b7bb1cb3",
+    "upstreamName": "Dark Prisoner",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "173",
+  "cardType": "Monster",
+  "description": "This creature manipulates light to eliminate all traces of its appearance.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MERCURY",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/173.webm",
+    "localPath": "/game-assets/models/173.webm",
+    "width": 328,
+    "height": 280,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 21,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "002",
+      "result": "551"
+    },
+    {
+      "partner": "004",
+      "result": "010"
+    },
+    {
+      "partner": "007",
+      "result": "010"
+    },
+    {
+      "partner": "041",
+      "result": "551"
+    },
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "122",
+      "result": "010"
+    },
+    {
+      "partner": "138",
+      "result": "010"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    },
+    {
+      "partner": "200",
+      "result": "010"
+    },
+    {
+      "partner": "264",
+      "result": "551"
+    },
+    {
+      "partner": "280",
+      "result": "641"
+    },
+    {
+      "partner": "282",
+      "result": "642"
+    },
+    {
+      "partner": "292",
+      "result": "450"
+    },
+    {
+      "partner": "296",
+      "result": "010"
+    },
+    {
+      "partner": "298",
+      "result": "010"
+    },
+    {
+      "partner": "395",
+      "result": "551"
+    },
+    {
+      "partner": "433",
+      "result": "551"
+    },
+    {
+      "partner": "504",
+      "result": "567"
+    },
+    {
+      "partner": "532",
+      "result": "551"
+    },
+    {
+      "partner": "561",
+      "result": "010"
+    },
+    {
+      "partner": "603",
+      "result": "010"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "173",
+      "boost": 500
+    },
+    {
+      "partner": "311",
+      "result": "173",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "173",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "173",
+      "boost": 500
+    },
+    {
+      "partner": "324",
+      "result": "173",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "173",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "173",
+      "boost": 500
+    }
+  ]
+}

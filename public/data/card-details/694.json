@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/resurrection-of-chakra",
+    "capturedAt": "2026-07-22T17:08:26.440Z",
+    "contentHash": "4e186bca0ffbaac3b22e70e847dd41168406891a6e675c73fc62d32fbb14d2c8",
+    "upstreamName": "Resurrection of Chakra",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "694",
+  "cardType": "Ritual",
+  "description": "Sacrifice 3 Fiend monsters to conduct the ritual for the Resurrection of Chakra.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "321",
+      "right": "321"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/novoxs-prayer",
+    "capturedAt": "2026-07-22T17:08:28.162Z",
+    "contentHash": "543d3d8f2fe085be6b4645f3f717f39c8a89c99cfb8fdcb9ea89fd335a27fd41",
+    "upstreamName": "Novox's Prayer",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "679",
+  "cardType": "Ritual",
+  "description": "Sacrifice Warrior and Scythe Wielder to summon Skull Guardian.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "651",
+      "right": "656"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

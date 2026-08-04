@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/trakadon",
+    "capturedAt": "2026-07-22T17:08:13.866Z",
+    "contentHash": "36d1aeddf1d20a4b460b957c7565b3108c702e400f49f8b43e70f5c10841571c",
+    "upstreamName": "Trakadon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "570",
+  "cardType": "Monster",
+  "description": "A tiger-striped dragon that is often seen racing across the wasteland with tremendous speed.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "URANUS",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/570.webm",
+    "localPath": "/game-assets/models/570.webm",
+    "width": 918,
+    "height": 278,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 34,
+    "equips": 5
+  },
+  "recipes": [
+    {
+      "left": "200",
+      "right": "285"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "124",
+      "result": "508"
+    },
+    {
+      "partner": "275",
+      "result": "508"
+    },
+    {
+      "partner": "283",
+      "result": "508"
+    },
+    {
+      "partner": "286",
+      "result": "508"
+    },
+    {
+      "partner": "297",
+      "result": "508"
+    },
+    {
+      "partner": "355",
+      "result": "508"
+    },
+    {
+      "partner": "388",
+      "result": "508"
+    },
+    {
+      "partner": "394",
+      "result": "508"
+    },
+    {
+      "partner": "405",
+      "result": "508"
+    },
+    {
+      "partner": "406",
+      "result": "508"
+    },
+    {
+      "partner": "408",
+      "result": "508"
+    },
+    {
+      "partner": "410",
+      "result": "508"
+    },
+    {
+      "partner": "411",
+      "result": "508"
+    },
+    {
+      "partner": "412",
+      "result": "508"
+    },
+    {
+      "partner": "413",
+      "result": "508"
+    },
+    {
+      "partner": "414",
+      "result": "508"
+    },
+    {
+      "partner": "416",
+      "result": "508"
+    },
+    {
+      "partner": "417",
+      "result": "508"
+    },
+    {
+      "partner": "418",
+      "result": "508"
+    },
+    {
+      "partner": "419",
+      "result": "508"
+    },
+    {
+      "partner": "420",
+      "result": "508"
+    },
+    {
+      "partner": "421",
+      "result": "508"
+    },
+    {
+      "partner": "422",
+      "result": "508"
+    },
+    {
+      "partner": "423",
+      "result": "508"
+    },
+    {
+      "partner": "438",
+      "result": "508"
+    },
+    {
+      "partner": "512",
+      "result": "508"
+    },
+    {
+      "partner": "513",
+      "result": "508"
+    },
+    {
+      "partner": "514",
+      "result": "508"
+    },
+    {
+      "partner": "544",
+      "result": "508"
+    },
+    {
+      "partner": "557",
+      "result": "508"
+    },
+    {
+      "partner": "580",
+      "result": "508"
+    },
+    {
+      "partner": "585",
+      "result": "508"
+    },
+    {
+      "partner": "643",
+      "result": "508"
+    },
+    {
+      "partner": "648",
+      "result": "508"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "308",
+      "result": "570",
+      "boost": 500
+    },
+    {
+      "partner": "315",
+      "result": "570",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "570",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "570",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "570",
+      "boost": 500
+    }
+  ]
+}

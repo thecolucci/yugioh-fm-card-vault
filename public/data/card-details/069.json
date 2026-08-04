@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/thousand-dragon",
+    "capturedAt": "2026-07-22T17:03:42.108Z",
+    "contentHash": "c0baf8138f0f99388fcad35f2a04501bd76a32fbbef1a3d572b276d81458bc5b",
+    "upstreamName": "Thousand Dragon",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "069",
+  "cardType": "Monster",
+  "description": "A dragon that has grown and developed over a thousand years.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "MARS",
+    "MERCURY"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/69.webm",
+    "localPath": "/game-assets/models/069.webm",
+    "width": 742,
+    "height": 432,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 36,
+    "fusions": 13,
+    "equips": 3
+  },
+  "recipes": [
+    {
+      "left": "004",
+      "right": "016"
+    },
+    {
+      "left": "007",
+      "right": "016"
+    },
+    {
+      "left": "010",
+      "right": "016"
+    },
+    {
+      "left": "011",
+      "right": "016"
+    },
+    {
+      "left": "016",
+      "right": "031"
+    },
+    {
+      "left": "016",
+      "right": "039"
+    },
+    {
+      "left": "016",
+      "right": "073"
+    },
+    {
+      "left": "016",
+      "right": "081"
+    },
+    {
+      "left": "016",
+      "right": "094"
+    },
+    {
+      "left": "016",
+      "right": "097"
+    },
+    {
+      "left": "016",
+      "right": "122"
+    },
+    {
+      "left": "016",
+      "right": "138"
+    },
+    {
+      "left": "016",
+      "right": "168"
+    },
+    {
+      "left": "016",
+      "right": "200"
+    },
+    {
+      "left": "016",
+      "right": "296"
+    },
+    {
+      "left": "016",
+      "right": "298"
+    },
+    {
+      "left": "016",
+      "right": "353"
+    },
+    {
+      "left": "016",
+      "right": "357"
+    },
+    {
+      "left": "016",
+      "right": "383"
+    },
+    {
+      "left": "016",
+      "right": "386"
+    },
+    {
+      "left": "016",
+      "right": "409"
+    },
+    {
+      "left": "016",
+      "right": "424"
+    },
+    {
+      "left": "016",
+      "right": "425"
+    },
+    {
+      "left": "016",
+      "right": "426"
+    },
+    {
+      "left": "016",
+      "right": "427"
+    },
+    {
+      "left": "016",
+      "right": "442"
+    },
+    {
+      "left": "016",
+      "right": "443"
+    },
+    {
+      "left": "016",
+      "right": "448"
+    },
+    {
+      "left": "016",
+      "right": "545"
+    },
+    {
+      "left": "016",
+      "right": "555"
+    },
+    {
+      "left": "016",
+      "right": "561"
+    },
+    {
+      "left": "016",
+      "right": "571"
+    },
+    {
+      "left": "016",
+      "right": "603"
+    },
+    {
+      "left": "016",
+      "right": "706"
+    },
+    {
+      "left": "016",
+      "right": "711"
+    },
+    {
+      "left": "016",
+      "right": "712"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "045",
+      "result": "613"
+    },
+    {
+      "partner": "191",
+      "result": "613"
+    },
+    {
+      "partner": "211",
+      "result": "613"
+    },
+    {
+      "partner": "371",
+      "result": "613"
+    },
+    {
+      "partner": "425",
+      "result": "613"
+    },
+    {
+      "partner": "458",
+      "result": "613"
+    },
+    {
+      "partner": "459",
+      "result": "613"
+    },
+    {
+      "partner": "460",
+      "result": "613"
+    },
+    {
+      "partner": "461",
+      "result": "613"
+    },
+    {
+      "partner": "462",
+      "result": "613"
+    },
+    {
+      "partner": "463",
+      "result": "613"
+    },
+    {
+      "partner": "537",
+      "result": "613"
+    },
+    {
+      "partner": "610",
+      "result": "613"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "315",
+      "result": "069",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "069",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "069",
+      "boost": 500
+    }
+  ]
+}

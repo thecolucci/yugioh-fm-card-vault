@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/pragtical",
+    "capturedAt": "2026-07-22T17:08:10.716Z",
+    "contentHash": "66bd5a6b8d6aaf33cad206eb5dc48d4f1e2a38f33b33088a3c7c0663e3bf6e36",
+    "upstreamName": "Pragtical",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "482",
+  "cardType": "Monster",
+  "description": "A very dangerous monster with spikes on its head and tail.",
+  "field": {
+    "cardId": "331",
+    "name": "WASTELAND",
+    "gameName": "WASTELAND"
+  },
+  "guardianStars": [
+    "URANUS",
+    "NEPTUNE"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/482.webm",
+    "localPath": "/game-assets/models/482.webm",
+    "width": 632,
+    "height": 205,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 0,
+    "equips": 7
+  },
+  "recipes": [],
+  "fusions": [],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "482",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "482",
+      "boost": 500
+    },
+    {
+      "partner": "314",
+      "result": "482",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "482",
+      "boost": 500
+    },
+    {
+      "partner": "326",
+      "result": "482",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "482",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "482",
+      "boost": 500
+    }
+  ]
+}

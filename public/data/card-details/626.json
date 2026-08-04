@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/amazon-of-the-seas",
+    "capturedAt": "2026-07-22T17:08:23.641Z",
+    "contentHash": "8a6b682415bcaf07dad44fde897f82afb1415fc39db0f8a2dc0bfcdda2fe3f6b",
+    "upstreamName": "Amazon of the Seas",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "626",
+  "cardType": "Monster",
+  "description": "A mermaid sentry serving the Sea King and his kingdom.",
+  "field": {
+    "cardId": "334",
+    "name": "SEA",
+    "gameName": "UMI"
+  },
+  "guardianStars": [
+    "NEPTUNE",
+    "MARS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/626.webm",
+    "localPath": "/game-assets/models/626.webm",
+    "width": 490,
+    "height": 211,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 54,
+    "fusions": 130,
+    "equips": 9
+  },
+  "recipes": [
+    {
+      "left": "002",
+      "right": "251"
+    },
+    {
+      "left": "002",
+      "right": "546"
+    },
+    {
+      "left": "109",
+      "right": "247"
+    },
+    {
+      "left": "109",
+      "right": "436"
+    },
+    {
+      "left": "109",
+      "right": "546"
+    },
+    {
+      "left": "128",
+      "right": "247"
+    },
+    {
+      "left": "128",
+      "right": "251"
+    },
+    {
+      "left": "128",
+      "right": "436"
+    },
+    {
+      "left": "128",
+      "right": "546"
+    },
+    {
+      "left": "129",
+      "right": "251"
+    },
+    {
+      "left": "129",
+      "right": "546"
+    },
+    {
+      "left": "180",
+      "right": "546"
+    },
+    {
+      "left": "192",
+      "right": "546"
+    },
+    {
+      "left": "216",
+      "right": "247"
+    },
+    {
+      "left": "216",
+      "right": "251"
+    },
+    {
+      "left": "216",
+      "right": "436"
+    },
+    {
+      "left": "216",
+      "right": "546"
+    },
+    {
+      "left": "239",
+      "right": "546"
+    },
+    {
+      "left": "243",
+      "right": "251"
+    },
+    {
+      "left": "243",
+      "right": "546"
+    },
+    {
+      "left": "247",
+      "right": "251"
+    },
+    {
+      "left": "247",
+      "right": "435"
+    },
+    {
+      "left": "251",
+      "right": "251"
+    },
+    {
+      "left": "251",
+      "right": "253"
+    },
+    {
+      "left": "251",
+      "right": "428"
+    },
+    {
+      "left": "251",
+      "right": "431"
+    },
+    {
+      "left": "251",
+      "right": "432"
+    },
+    {
+      "left": "251",
+      "right": "435"
+    },
+    {
+      "left": "251",
+      "right": "436"
+    },
+    {
+      "left": "251",
+      "right": "530"
+    },
+    {
+      "left": "251",
+      "right": "546"
+    },
+    {
+      "left": "251",
+      "right": "574"
+    },
+    {
+      "left": "251",
+      "right": "600"
+    },
+    {
+      "left": "251",
+      "right": "612"
+    },
+    {
+      "left": "251",
+      "right": "628"
+    },
+    {
+      "left": "253",
+      "right": "546"
+    },
+    {
+      "left": "260",
+      "right": "546"
+    },
+    {
+      "left": "266",
+      "right": "546"
+    },
+    {
+      "left": "280",
+      "right": "546"
+    },
+    {
+      "left": "299",
+      "right": "546"
+    },
+    {
+      "left": "395",
+      "right": "546"
+    },
+    {
+      "left": "428",
+      "right": "546"
+    },
+    {
+      "left": "429",
+      "right": "546"
+    },
+    {
+      "left": "431",
+      "right": "546"
+    },
+    {
+      "left": "432",
+      "right": "546"
+    },
+    {
+      "left": "435",
+      "right": "436"
+    },
+    {
+      "left": "435",
+      "right": "546"
+    },
+    {
+      "left": "530",
+      "right": "546"
+    },
+    {
+      "left": "546",
+      "right": "574"
+    },
+    {
+      "left": "546",
+      "right": "592"
+    },
+    {
+      "left": "546",
+      "right": "600"
+    },
+    {
+      "left": "546",
+      "right": "612"
+    },
+    {
+      "left": "546",
+      "right": "628"
+    },
+    {
+      "left": "546",
+      "right": "635"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "008",
+      "result": "638"
+    },
+    {
+      "partner": "023",
+      "result": "230"
+    },
+    {
+      "partner": "028",
+      "result": "531"
+    },
+    {
+      "partner": "046",
+      "result": "627"
+    },
+    {
+      "partner": "047",
+      "result": "627"
+    },
+    {
+      "partner": "061",
+      "result": "627"
+    },
+    {
+      "partner": "065",
+      "result": "627"
+    },
+    {
+      "partner": "074",
+      "result": "531"
+    },
+    {
+      "partner": "075",
+      "result": "638"
+    },
+    {
+      "partner": "091",
+      "result": "627"
+    },
+    {
+      "partner": "109",
+      "result": "582"
+    },
+    {
+      "partner": "111",
+      "result": "582"
+    },
+    {
+      "partner": "113",
+      "result": "627"
+    },
+    {
+      "partner": "121",
+      "result": "627"
+    },
+    {
+      "partner": "123",
+      "result": "638"
+    },
+    {
+      "partner": "130",
+      "result": "582"
+    },
+    {
+      "partner": "134",
+      "result": "582"
+    },
+    {
+      "partner": "155",
+      "result": "404"
+    },
+    {
+      "partner": "157",
+      "result": "638"
+    },
+    {
+      "partner": "158",
+      "result": "638"
+    },
+    {
+      "partner": "159",
+      "result": "404"
+    },
+    {
+      "partner": "163",
+      "result": "404"
+    },
+    {
+      "partner": "167",
+      "result": "531"
+    },
+    {
+      "partner": "170",
+      "result": "582"
+    },
+    {
+      "partner": "180",
+      "result": "638"
+    },
+    {
+      "partner": "187",
+      "result": "404"
+    },
+    {
+      "partner": "188",
+      "result": "627"
+    },
+    {
+      "partner": "189",
+      "result": "627"
+    },
+    {
+      "partner": "192",
+      "result": "582"
+    },
+    {
+      "partner": "198",
+      "result": "582"
+    },
+    {
+      "partner": "201",
+      "result": "627"
+    },
+    {
+      "partner": "202",
+      "result": "627"
+    },
+    {
+      "partner": "208",
+      "result": "582"
+    },
+    {
+      "partner": "212",
+      "result": "404"
+    },
+    {
+      "partner": "229",
+      "result": "582"
+    },
+    {
+      "partner": "237",
+      "result": "531"
+    },
+    {
+      "partner": "238",
+      "result": "638"
+    },
+    {
+      "partner": "244",
+      "result": "531"
+    },
+    {
+      "partner": "248",
+      "result": "627"
+    },
+    {
+      "partner": "252",
+      "result": "404"
+    },
+    {
+      "partner": "255",
+      "result": "627"
+    },
+    {
+      "partner": "257",
+      "result": "531"
+    },
+    {
+      "partner": "260",
+      "result": "582"
+    },
+    {
+      "partner": "263",
+      "result": "531"
+    },
+    {
+      "partner": "264",
+      "result": "582"
+    },
+    {
+      "partner": "273",
+      "result": "638"
+    },
+    {
+      "partner": "274",
+      "result": "638"
+    },
+    {
+      "partner": "275",
+      "result": "438"
+    },
+    {
+      "partner": "276",
+      "result": "582"
+    },
+    {
+      "partner": "282",
+      "result": "627"
+    },
+    {
+      "partner": "283",
+      "result": "542"
+    },
+    {
+      "partner": "286",
+      "result": "438"
+    },
+    {
+      "partner": "297",
+      "result": "438"
+    },
+    {
+      "partner": "355",
+      "result": "438"
+    },
+    {
+      "partner": "366",
+      "result": "531"
+    },
+    {
+      "partner": "384",
+      "result": "404"
+    },
+    {
+      "partner": "394",
+      "result": "542"
+    },
+    {
+      "partner": "395",
+      "result": "582"
+    },
+    {
+      "partner": "396",
+      "result": "582"
+    },
+    {
+      "partner": "403",
+      "result": "627"
+    },
+    {
+      "partner": "404",
+      "result": "230"
+    },
+    {
+      "partner": "405",
+      "result": "438"
+    },
+    {
+      "partner": "406",
+      "result": "542"
+    },
+    {
+      "partner": "410",
+      "result": "542"
+    },
+    {
+      "partner": "411",
+      "result": "542"
+    },
+    {
+      "partner": "412",
+      "result": "542"
+    },
+    {
+      "partner": "413",
+      "result": "438"
+    },
+    {
+      "partner": "414",
+      "result": "542"
+    },
+    {
+      "partner": "416",
+      "result": "542"
+    },
+    {
+      "partner": "417",
+      "result": "542"
+    },
+    {
+      "partner": "418",
+      "result": "542"
+    },
+    {
+      "partner": "420",
+      "result": "542"
+    },
+    {
+      "partner": "421",
+      "result": "542"
+    },
+    {
+      "partner": "422",
+      "result": "542"
+    },
+    {
+      "partner": "426",
+      "result": "531"
+    },
+    {
+      "partner": "429",
+      "result": "582"
+    },
+    {
+      "partner": "453",
+      "result": "531"
+    },
+    {
+      "partner": "454",
+      "result": "531"
+    },
+    {
+      "partner": "455",
+      "result": "531"
+    },
+    {
+      "partner": "456",
+      "result": "531"
+    },
+    {
+      "partner": "457",
+      "result": "531"
+    },
+    {
+      "partner": "481",
+      "result": "627"
+    },
+    {
+      "partner": "487",
+      "result": "627"
+    },
+    {
+      "partner": "488",
+      "result": "638"
+    },
+    {
+      "partner": "489",
+      "result": "638"
+    },
+    {
+      "partner": "492",
+      "result": "582"
+    },
+    {
+      "partner": "494",
+      "result": "440"
+    },
+    {
+      "partner": "496",
+      "result": "404"
+    },
+    {
+      "partner": "505",
+      "result": "531"
+    },
+    {
+      "partner": "510",
+      "result": "638"
+    },
+    {
+      "partner": "511",
+      "result": "638"
+    },
+    {
+      "partner": "512",
+      "result": "438"
+    },
+    {
+      "partner": "514",
+      "result": "542"
+    },
+    {
+      "partner": "515",
+      "result": "531"
+    },
+    {
+      "partner": "516",
+      "result": "531"
+    },
+    {
+      "partner": "517",
+      "result": "531"
+    },
+    {
+      "partner": "527",
+      "result": "627"
+    },
+    {
+      "partner": "528",
+      "result": "627"
+    },
+    {
+      "partner": "540",
+      "result": "582"
+    },
+    {
+      "partner": "541",
+      "result": "404"
+    },
+    {
+      "partner": "544",
+      "result": "542"
+    },
+    {
+      "partner": "547",
+      "result": "638"
+    },
+    {
+      "partner": "557",
+      "result": "438"
+    },
+    {
+      "partner": "558",
+      "result": "531"
+    },
+    {
+      "partner": "567",
+      "result": "638"
+    },
+    {
+      "partner": "575",
+      "result": "627"
+    },
+    {
+      "partner": "579",
+      "result": "638"
+    },
+    {
+      "partner": "580",
+      "result": "542"
+    },
+    {
+      "partner": "584",
+      "result": "582"
+    },
+    {
+      "partner": "585",
+      "result": "542"
+    },
+    {
+      "partner": "587",
+      "result": "404"
+    },
+    {
+      "partner": "588",
+      "result": "638"
+    },
+    {
+      "partner": "589",
+      "result": "638"
+    },
+    {
+      "partner": "591",
+      "result": "531"
+    },
+    {
+      "partner": "592",
+      "result": "582"
+    },
+    {
+      "partner": "597",
+      "result": "627"
+    },
+    {
+      "partner": "598",
+      "result": "627"
+    },
+    {
+      "partner": "601",
+      "result": "582"
+    },
+    {
+      "partner": "604",
+      "result": "627"
+    },
+    {
+      "partner": "607",
+      "result": "404"
+    },
+    {
+      "partner": "608",
+      "result": "582"
+    },
+    {
+      "partner": "616",
+      "result": "582"
+    },
+    {
+      "partner": "620",
+      "result": "638"
+    },
+    {
+      "partner": "623",
+      "result": "531"
+    },
+    {
+      "partner": "629",
+      "result": "627"
+    },
+    {
+      "partner": "632",
+      "result": "531"
+    },
+    {
+      "partner": "633",
+      "result": "582"
+    },
+    {
+      "partner": "637",
+      "result": "638"
+    },
+    {
+      "partner": "642",
+      "result": "627"
+    },
+    {
+      "partner": "643",
+      "result": "542"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "307",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "312",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "328",
+      "result": "626",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "626",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "626",
+      "boost": 500
+    }
+  ]
+}

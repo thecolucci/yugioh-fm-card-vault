@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/stop-defense",
+    "capturedAt": "2026-07-22T16:46:09.662Z",
+    "contentHash": "fdef0a7f48a65d6a1cf3e6a218e6cf54e44654aad406eebc3f3eb9af201f2c0c",
+    "upstreamName": "Stop Defense",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "320",
+  "cardType": "Magic",
+  "description": "Forces an opponent's monster card positioned for defense into the attack position.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "362",
+      "right": "689"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

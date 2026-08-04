@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/dark-hole",
+    "capturedAt": "2026-07-22T17:07:46.947Z",
+    "contentHash": "4d2e8c7e442e2aba5d3fa1f17e8a0bc8141c82e563f1be458011bc074a8effc9",
+    "upstreamName": "Dark Hole",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "336",
+  "cardType": "Magic",
+  "description": "Sucks up every card in play on the field!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "303",
+      "right": "685"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "334",
+      "result": "664"
+    },
+    {
+      "partner": "660",
+      "result": "685"
+    }
+  ],
+  "equips": []
+}

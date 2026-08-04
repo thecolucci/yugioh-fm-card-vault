@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/garma-sword-oath",
+    "capturedAt": "2026-07-22T17:08:47.388Z",
+    "contentHash": "b57e1ffe33bf4f610f11ccd02b1e2215a84c0d19e69a075ca660b6a55d615f36",
+    "upstreamName": "Garma Sword Oath",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "697",
+  "cardType": "Ritual",
+  "description": "Sacrifice the Ashura's Arm and Sword-wielder to summon.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "301",
+      "right": "318"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

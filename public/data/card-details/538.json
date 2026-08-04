@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/niwatori",
+    "capturedAt": "2026-07-22T17:08:12.932Z",
+    "contentHash": "0b3810e01d6c99e053e93657e54137ef733b405048d2d15d2914fbba4ec17ce0",
+    "upstreamName": "Niwatori",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "538",
+  "cardType": "Monster",
+  "description": "Swallows enemies whole and uses their essence as energy.",
+  "field": {
+    "cardId": "332",
+    "name": "MOUNTAIN",
+    "gameName": "MOUNTAIN"
+  },
+  "guardianStars": [
+    "JUPITER",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/538.webm",
+    "localPath": "/game-assets/models/538.webm",
+    "width": 530,
+    "height": 273,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 41,
+    "equips": 4
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "005",
+      "result": "650"
+    },
+    {
+      "partner": "015",
+      "result": "467"
+    },
+    {
+      "partner": "040",
+      "result": "272"
+    },
+    {
+      "partner": "068",
+      "result": "467"
+    },
+    {
+      "partner": "089",
+      "result": "520"
+    },
+    {
+      "partner": "101",
+      "result": "272"
+    },
+    {
+      "partner": "103",
+      "result": "595"
+    },
+    {
+      "partner": "133",
+      "result": "272"
+    },
+    {
+      "partner": "142",
+      "result": "272"
+    },
+    {
+      "partner": "154",
+      "result": "272"
+    },
+    {
+      "partner": "157",
+      "result": "272"
+    },
+    {
+      "partner": "165",
+      "result": "465"
+    },
+    {
+      "partner": "168",
+      "result": "467"
+    },
+    {
+      "partner": "172",
+      "result": "272"
+    },
+    {
+      "partner": "176",
+      "result": "272"
+    },
+    {
+      "partner": "177",
+      "result": "520"
+    },
+    {
+      "partner": "186",
+      "result": "595"
+    },
+    {
+      "partner": "193",
+      "result": "520"
+    },
+    {
+      "partner": "210",
+      "result": "272"
+    },
+    {
+      "partner": "214",
+      "result": "272"
+    },
+    {
+      "partner": "215",
+      "result": "272"
+    },
+    {
+      "partner": "242",
+      "result": "272"
+    },
+    {
+      "partner": "244",
+      "result": "272"
+    },
+    {
+      "partner": "261",
+      "result": "595"
+    },
+    {
+      "partner": "272",
+      "result": "467"
+    },
+    {
+      "partner": "291",
+      "result": "467"
+    },
+    {
+      "partner": "357",
+      "result": "467"
+    },
+    {
+      "partner": "390",
+      "result": "467"
+    },
+    {
+      "partner": "407",
+      "result": "467"
+    },
+    {
+      "partner": "409",
+      "result": "467"
+    },
+    {
+      "partner": "417",
+      "result": "272"
+    },
+    {
+      "partner": "449",
+      "result": "520"
+    },
+    {
+      "partner": "473",
+      "result": "467"
+    },
+    {
+      "partner": "486",
+      "result": "117"
+    },
+    {
+      "partner": "503",
+      "result": "520"
+    },
+    {
+      "partner": "518",
+      "result": "520"
+    },
+    {
+      "partner": "519",
+      "result": "467"
+    },
+    {
+      "partner": "555",
+      "result": "467"
+    },
+    {
+      "partner": "593",
+      "result": "520"
+    },
+    {
+      "partner": "644",
+      "result": "272"
+    },
+    {
+      "partner": "714",
+      "result": "467"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "319",
+      "result": "538",
+      "boost": 500
+    },
+    {
+      "partner": "327",
+      "result": "538",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "538",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "538",
+      "boost": 500
+    }
+  ]
+}

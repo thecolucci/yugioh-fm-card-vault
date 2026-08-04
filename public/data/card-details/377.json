@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/ryu-kishin-powered",
+    "capturedAt": "2026-07-22T17:07:53.937Z",
+    "contentHash": "f83e7c9059e6f86bd6744fd758b8b20b8985a67095542520cb3d646aaeaffc9f",
+    "upstreamName": "Ryu-kishin Powered",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "377",
+  "cardType": "Monster",
+  "description": "Ryu-kishin enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+  "field": {
+    "cardId": "335",
+    "name": "DARK",
+    "gameName": "YAMI"
+  },
+  "guardianStars": [
+    "MOON",
+    "JUPITER"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/377.webm",
+    "localPath": "/game-assets/models/377.webm",
+    "width": 388,
+    "height": 387,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 20,
+    "fusions": 2,
+    "equips": 8
+  },
+  "recipes": [
+    {
+      "left": "005",
+      "right": "017"
+    },
+    {
+      "left": "005",
+      "right": "018"
+    },
+    {
+      "left": "005",
+      "right": "019"
+    },
+    {
+      "left": "005",
+      "right": "020"
+    },
+    {
+      "left": "005",
+      "right": "021"
+    },
+    {
+      "left": "005",
+      "right": "034"
+    },
+    {
+      "left": "005",
+      "right": "104"
+    },
+    {
+      "left": "005",
+      "right": "115"
+    },
+    {
+      "left": "005",
+      "right": "129"
+    },
+    {
+      "left": "005",
+      "right": "179"
+    },
+    {
+      "left": "005",
+      "right": "190"
+    },
+    {
+      "left": "005",
+      "right": "220"
+    },
+    {
+      "left": "005",
+      "right": "253"
+    },
+    {
+      "left": "005",
+      "right": "259"
+    },
+    {
+      "left": "005",
+      "right": "268"
+    },
+    {
+      "left": "005",
+      "right": "387"
+    },
+    {
+      "left": "005",
+      "right": "530"
+    },
+    {
+      "left": "005",
+      "right": "574"
+    },
+    {
+      "left": "005",
+      "right": "578"
+    },
+    {
+      "left": "005",
+      "right": "628"
+    }
+  ],
+  "fusions": [
+    {
+      "partner": "103",
+      "result": "022"
+    },
+    {
+      "partner": "180",
+      "result": "594"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "303",
+      "result": "377",
+      "boost": 500
+    },
+    {
+      "partner": "305",
+      "result": "377",
+      "boost": 500
+    },
+    {
+      "partner": "306",
+      "result": "377",
+      "boost": 500
+    },
+    {
+      "partner": "308",
+      "result": "377",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "377",
+      "boost": 500
+    },
+    {
+      "partner": "322",
+      "result": "377",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "377",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "377",
+      "boost": 500
+    }
+  ]
+}

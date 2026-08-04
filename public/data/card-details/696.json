@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/javelin-beetle-pact",
+    "capturedAt": "2026-07-22T17:08:26.595Z",
+    "contentHash": "2adcdcc1097758922fc6c1da194e8e5b24c1b6af46d5fd0b3a76d32b792ae2d7",
+    "upstreamName": "Javelin Beetle Pact",
+    "upstreamCardType": "RITUAL"
+  },
+  "cardId": "696",
+  "cardType": "Ritual",
+  "description": "Sacrifice the stag beetle and beetle to summon Javelin Beetle.",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 1,
+    "fusions": 0,
+    "equips": 0
+  },
+  "recipes": [
+    {
+      "left": "328",
+      "right": "330"
+    }
+  ],
+  "fusions": [],
+  "equips": []
+}

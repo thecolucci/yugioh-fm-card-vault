@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/empress-judge",
+    "capturedAt": "2026-07-22T17:08:13.886Z",
+    "contentHash": "63bc8aade1f90eb09a16d9804a582d5753852cefc20bc937f4c0aa1752e543ff",
+    "upstreamName": "Empress Judge",
+    "upstreamCardType": "MONSTER"
+  },
+  "cardId": "572",
+  "cardType": "Monster",
+  "description": "Empress of the Golden Kingdom. None may refuse her will.",
+  "field": {
+    "cardId": "333",
+    "name": "MEADOW",
+    "gameName": "SOGEN"
+  },
+  "guardianStars": [
+    "URANUS",
+    "VENUS"
+  ],
+  "inGameMedia": {
+    "kind": "model-video",
+    "status": "available",
+    "sourcePath": "/assets/cards/models/572.webm",
+    "localPath": "/game-assets/models/572.webm",
+    "width": 274,
+    "height": 301,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 1,
+    "equips": 10
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "165",
+      "result": "033"
+    }
+  ],
+  "equips": [
+    {
+      "partner": "301",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "307",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "312",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "316",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "317",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "321",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "323",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "651",
+      "result": "572",
+      "boost": 500
+    },
+    {
+      "partner": "657",
+      "result": "572",
+      "boost": 1000
+    },
+    {
+      "partner": "668",
+      "result": "572",
+      "boost": 500
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "parserVersion": "2.0.0",
+  "source": {
+    "url": "https://fusion.lukadevv.com/cards/spellbinding-circle",
+    "capturedAt": "2026-07-22T17:07:51.082Z",
+    "contentHash": "cf93a34782d1de9d57b6ef8ed2402d4b8162a12189bb932bbe65a7d8125ac934",
+    "upstreamName": "Spellbinding Circle",
+    "upstreamCardType": "MAGIC"
+  },
+  "cardId": "349",
+  "cardType": "Magic",
+  "description": "A curse reduces the power of all enemy monsters!",
+  "field": null,
+  "guardianStars": [],
+  "inGameMedia": {
+    "kind": "animated-fallback",
+    "status": "temporary",
+    "sourcePath": null,
+    "localPath": "/game-assets/non-video-cards.gif",
+    "width": 512,
+    "height": 512,
+    "objectPosition": "50% 50%"
+  },
+  "counts": {
+    "recipes": 0,
+    "fusions": 2,
+    "equips": 0
+  },
+  "recipes": [],
+  "fusions": [
+    {
+      "partner": "349",
+      "result": "669"
+    },
+    {
+      "partner": "655",
+      "result": "690"
+    }
+  ],
+  "equips": []
+}
